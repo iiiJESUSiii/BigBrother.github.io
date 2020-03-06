@@ -1,0 +1,13 @@
+[en]
+  title = "👌Teletubby's Blog"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[zh]
+  title = "👌天线宝宝的博客"
+  languageName = "简体中文"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/zh"
