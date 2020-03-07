@@ -43,6 +43,34 @@
       
 
       
+      <item>
+        <title>Git Command</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/git-command/</link>
+        <pubDate>Sun, 08 Mar 2020 01:46:55 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 08 Mar 2020 01:46:55 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/git-command/</guid>
+        <description>**待翻译 Git常用指令集 &amp;amp; 常见问题集 解决 git pull/push 每次都需要输入密码问题（使用GitHub私有库） git bash到需要操作的文件夹 git config --global credential.helper store 然后再执</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>git</category>
+            
+          
+            
+              <category>github</category>
+            
+          
+        
+        
+        
+      </item>
+      
 
     
   </channel>

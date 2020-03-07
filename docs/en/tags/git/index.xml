@@ -6,17 +6,17 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>✍ on 👌天线宝宝的博客</title>
-    <link>https://iiijesusiii.github.io/Teletubby/zh/posts/</link>
-    <description>Recent content in ✍ on 👌天线宝宝的博客</description>
+    <title>git on 👌Teletubby&#39;s Blog</title>
+    <link>https://iiijesusiii.github.io/Teletubby/en/tags/git/</link>
+    <description>Recent content in git on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
+    <language>en</language>
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2020 01:46:55 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,12 +24,12 @@
       
       <item>
         <title>Git Command</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/git-command/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/git-command/</link>
         <pubDate>Sun, 08 Mar 2020 01:46:55 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 08 Mar 2020 01:46:55 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/git-command/</guid>
-        <description>Git常用指令集 &amp;amp; 常见问题集 解决 git pull/push 每次都需要输入密码问题（使用GitHub私有库） git bash到需要操作的文件夹 git config --global credential.helper store 然后再执行一次 git pull</description>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/git-command/</guid>
+        <description>**待翻译 Git常用指令集 &amp;amp; 常见问题集 解决 git pull/push 每次都需要输入密码问题（使用GitHub私有库） git bash到需要操作的文件夹 git config --global credential.helper store 然后再执</description>
         
         <dc:creator>Teletubby</dc:creator>
         <media:content url="https://iiijesusiii.github.io/Teletubby/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
