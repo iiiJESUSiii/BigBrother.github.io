@@ -24,11 +24,29 @@
       
       <item>
         <title>照 片</title>
-        <link>https://iiijesusiii.github.io/Teletubby.github.io/zh/gallery/photo/</link>
+        <link>https://iiijesusiii.github.io/Teletubby.github.io/zh/gallery/photoother/</link>
         <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 06 Mar 2020 00:00:00 +0000</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby.github.io/zh/gallery/photo/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby.github.io/zh/gallery/photoother/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        <media:content url="https://iiijesusiii.github.io/Teletubby.github.io/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>照 片</title>
+        <link>https://iiijesusiii.github.io/Teletubby.github.io/zh/gallery/wallpaper/</link>
+        <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Fri, 06 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby.github.io/zh/gallery/wallpaper/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>

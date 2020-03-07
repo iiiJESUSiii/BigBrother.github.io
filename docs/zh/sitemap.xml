@@ -78,17 +78,32 @@
   </url>
   
   <url>
-    <loc>https://iiijesusiii.github.io/Teletubby.github.io/zh/gallery/photo/</loc>
+    <loc>https://iiijesusiii.github.io/Teletubby.github.io/zh/gallery/photoother/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby.github.io/en/gallery/photo/"
+                href="https://iiijesusiii.github.io/Teletubby.github.io/en/gallery/photoother/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby.github.io/zh/gallery/photo/"
+                href="https://iiijesusiii.github.io/Teletubby.github.io/zh/gallery/photoother/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby.github.io/zh/gallery/wallpaper/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby.github.io/en/gallery/wallpaper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby.github.io/zh/gallery/wallpaper/"
                 />
   </url>
   
@@ -212,20 +227,6 @@
   </url>
   
   <url>
-    <loc>https://iiijesusiii.github.io/Teletubby.github.io/zh/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby.github.io/en/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby.github.io/zh/tags/index/"
-                />
-  </url>
-  
-  <url>
     <loc>https://iiijesusiii.github.io/Teletubby.github.io/zh/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -250,20 +251,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://iiijesusiii.github.io/Teletubby.github.io/zh/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iiijesusiii.github.io/Teletubby.github.io/zh/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby.github.io/zh/posts/"
                 />
   </url>
   
