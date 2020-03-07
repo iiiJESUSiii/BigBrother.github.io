@@ -18,21 +18,6 @@
   </url>
   
   <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/zh/gallery/</loc>
-    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/gallery/"
-                />
-  </url>
-  
-  <url>
     <loc>https://iiijesusiii.github.io/Teletubby/zh/showcase/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -44,6 +29,21 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://iiijesusiii.github.io/Teletubby/zh/showcase/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/zh/posts/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/posts/"
                 />
   </url>
   
@@ -78,21 +78,6 @@
   </url>
   
   <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/zh/archive/</loc>
-    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/archive/"
-                />
-  </url>
-  
-  <url>
     <loc>https://iiijesusiii.github.io/Teletubby/zh/gallery/photoother/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -104,6 +89,36 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://iiijesusiii.github.io/Teletubby/zh/gallery/photoother/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/zh/gallery/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/zh/archive/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/archive/"
                 />
   </url>
   
