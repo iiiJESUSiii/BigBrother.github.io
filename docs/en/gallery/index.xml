@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby.github.io/en/gallery/</link>
+    <link>https://iiijesusiii.github.io/Teletubby/en/gallery/</link>
     <description>Recent content in Galleries on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby.github.io/en/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Photo &amp; Other</title>
-        <link>https://iiijesusiii.github.io/Teletubby.github.io/en/gallery/photoother/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/gallery/photoother/</link>
         <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 06 Mar 2020 00:00:00 +0000</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby.github.io/en/gallery/photoother/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/gallery/photoother/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby.github.io/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -42,15 +42,15 @@
       
       <item>
         <title>Wallpaper</title>
-        <link>https://iiijesusiii.github.io/Teletubby.github.io/en/gallery/wallpaper/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/gallery/wallpaper/</link>
         <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 06 Mar 2020 00:00:00 +0000</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby.github.io/en/gallery/wallpaper/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/gallery/wallpaper/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby.github.io/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

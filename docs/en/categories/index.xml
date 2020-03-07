@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby.github.io/en/categories/</link>
+    <link>https://iiijesusiii.github.io/Teletubby/en/categories/</link>
     <description>Recent content in Categories on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
