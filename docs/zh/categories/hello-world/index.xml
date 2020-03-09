@@ -14,7 +14,7 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 08 Mar 2020 20:35:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 14:23:08 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/categories/hello-world/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,13 +23,101 @@
 
       
       <item>
-        <title>Hello Hugo</title>
+        <title>Git 基本指令 1</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/git-basic-commands-1/</link>
+        <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Mon, 09 Mar 2020 14:23:08 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/git-basic-commands-1/</guid>
+        <description>已收录在 Hugo Blog (你想给你自己整一个静态网站吗?) 已收录在 Git Commands &amp;amp; FAQ git clone 这里有两种方法去使用 git clone 1. 使用 HTTPS 这是一个克隆自己或者别人在 Github 上的仓库的一个</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>git</category>
+            
+          
+            
+              <category>github</category>
+            
+          
+        
+        
+          
+            
+              <category>Hello World!</category>
+            
+          
+        
+        
+          
+            
+              <category>Hugo Blog</category>
+            
+          
+            
+              <category>Git Commands &amp; FAQ</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>安装 Git</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/install-git/</link>
+        <pubDate>Mon, 09 Mar 2020 13:28:12 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Mon, 09 Mar 2020 13:28:12 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/install-git/</guid>
+        <description>已收录在 Hugo Blog (你想给你自己整一个静态网站吗?) 什么是 Git? Git是一个免费的开源的分布式版本控制系统工具，能够快速高效地处理从小型到大型项目的所</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>git</category>
+            
+          
+            
+              <category>github</category>
+            
+          
+        
+        
+          
+            
+              <category>Hello World!</category>
+            
+          
+        
+        
+          
+            
+              <category>Hugo Blog</category>
+            
+          
+            
+              <category>Git Commands &amp; FAQ</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>你好 Hugo</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/hello-hugo/</link>
         <pubDate>Sun, 08 Mar 2020 20:35:41 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 08 Mar 2020 20:35:41 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/hello-hugo/</guid>
-        <description>来白手建站吧，搭建一个hugo静态网站 已收录在 Hugo Blog 为什么选择Hugo? &amp;amp; 什么是Hugo? Hugo是一种用Go语言编写的快速的、现代静态网站生</description>
+        <description>来白手建站吧，搭建一个hugo静态网站 已收录在 Hugo Blog 为什么选择 Hugo? &amp;amp; 什么是 Hugo? Hugo是一种用Go语言编写的快速的、现代静态网站生成器，为能够更有</description>
         
         <dc:creator>Teletubby</dc:creator>
         

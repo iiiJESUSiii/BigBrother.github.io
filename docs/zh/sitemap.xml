@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://iiijesusiii.github.io/Teletubby/zh/categories/</loc>
-    <lastmod>2020-03-08T20:35:41+08:00</lastmod>
+    <lastmod>2020-03-09T14:23:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,23 +18,68 @@
   </url>
   
   <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/zh/posts/hello-hugo/</loc>
-    <lastmod>2020-03-08T20:35:41+08:00</lastmod>
+    <loc>https://iiijesusiii.github.io/Teletubby/zh/tags/git/</loc>
+    <lastmod>2020-03-09T14:23:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/posts/hello-hugo/"
+                href="https://iiijesusiii.github.io/Teletubby/en/tags/git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/posts/hello-hugo/"
+                href="https://iiijesusiii.github.io/Teletubby/zh/tags/git/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/zh/series/git-commands-faq/</loc>
+    <lastmod>2020-03-09T14:23:08+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/series/git-commands-faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/series/git-commands-faq/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/zh/posts/git-basic-commands-1/</loc>
+    <lastmod>2020-03-09T14:23:08+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/posts/git-basic-commands-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/posts/git-basic-commands-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/zh/tags/github/</loc>
+    <lastmod>2020-03-09T14:23:08+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/tags/github/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/tags/github/"
                 />
   </url>
   
   <url>
     <loc>https://iiijesusiii.github.io/Teletubby/zh/categories/hello-world/</loc>
-    <lastmod>2020-03-08T20:35:41+08:00</lastmod>
+    <lastmod>2020-03-09T14:23:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,6 +89,66 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://iiijesusiii.github.io/Teletubby/zh/categories/hello-world/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/zh/series/hugo-blog/</loc>
+    <lastmod>2020-03-09T14:23:08+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/series/hugo-blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/series/hugo-blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/zh/series/</loc>
+    <lastmod>2020-03-09T14:23:08+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/zh/tags/</loc>
+    <lastmod>2020-03-09T14:23:08+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/zh/posts/install-git/</loc>
+    <lastmod>2020-03-09T13:28:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/posts/install-git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/posts/install-git/"
                 />
   </url>
   
@@ -63,92 +168,17 @@
   </url>
   
   <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/zh/series/hugo-blog/</loc>
+    <loc>https://iiijesusiii.github.io/Teletubby/zh/posts/hello-hugo/</loc>
     <lastmod>2020-03-08T20:35:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/series/hugo-blog/"
+                href="https://iiijesusiii.github.io/Teletubby/en/posts/hello-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/series/hugo-blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/zh/series/</loc>
-    <lastmod>2020-03-08T20:35:41+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/zh/tags/</loc>
-    <lastmod>2020-03-08T20:35:41+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/zh/tags/git/</loc>
-    <lastmod>2020-03-08T01:46:55+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/tags/git/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/tags/git/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/zh/series/git-commands-faq/</loc>
-    <lastmod>2020-03-08T01:46:55+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/series/git-commands-faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/series/git-commands-faq/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/zh/tags/github/</loc>
-    <lastmod>2020-03-08T01:46:55+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/tags/github/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/tags/github/"
+                href="https://iiijesusiii.github.io/Teletubby/zh/posts/hello-hugo/"
                 />
   </url>
   

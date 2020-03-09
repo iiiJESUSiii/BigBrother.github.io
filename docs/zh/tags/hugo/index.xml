@@ -23,13 +23,13 @@
 
       
       <item>
-        <title>Hello Hugo</title>
+        <title>你好 Hugo</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/hello-hugo/</link>
         <pubDate>Sun, 08 Mar 2020 20:35:41 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 08 Mar 2020 20:35:41 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/hello-hugo/</guid>
-        <description>来白手建站吧，搭建一个hugo静态网站 已收录在 Hugo Blog 为什么选择Hugo? &amp;amp; 什么是Hugo? Hugo是一种用Go语言编写的快速的、现代静态网站生</description>
+        <description>来白手建站吧，搭建一个hugo静态网站 已收录在 Hugo Blog 为什么选择 Hugo? &amp;amp; 什么是 Hugo? Hugo是一种用Go语言编写的快速的、现代静态网站生成器，为能够更有</description>
         
         <dc:creator>Teletubby</dc:creator>
         
