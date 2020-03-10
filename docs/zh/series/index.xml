@@ -14,7 +14,7 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 09 Mar 2020 14:23:08 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2020 18:50:30 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/series/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,12 @@
 
       
       <item>
-        <title>Git Commands &amp; FAQ</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/series/git-commands-faq/</link>
-        <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>
+        <title>Hugo Blog</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/series/hugo-blog/</link>
+        <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/series/git-commands-faq/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/series/hugo-blog/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -41,12 +41,12 @@
       </item>
       
       <item>
-        <title>Hugo Blog</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/series/hugo-blog/</link>
+        <title>Git Commands &amp; FAQ</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/series/git-commands-faq/</link>
         <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/series/hugo-blog/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/series/git-commands-faq/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>

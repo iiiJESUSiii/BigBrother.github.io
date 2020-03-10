@@ -23,6 +23,50 @@
 
       
       <item>
+        <title>Hugo Host on Github</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/hugo-host-on-github/</link>
+        <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Tue, 10 Mar 2020 18:50:30 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/hugo-host-on-github/</guid>
+        <description>Use GitHub to Host a Free Static Website Included in Hugo Blog This is an easy way to host your blog and a quick way.
+Change Your Publish Directory Delete &amp;ldquo;public&amp;rdquo; folder Delete it first, if your blog&amp;rsquo;s root directory has a &amp;ldquo;public&amp;rdquo; folder.
+sudo rm -rf dd
+Change publish directory to &amp;ldquo;docs&amp;rdquo; $ hugo --destination docs --gc server
+Execute this command would change your publish directory to &amp;ldquo;docs&amp;rdquo; folder, and start hugo server.</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+            
+              <category>github</category>
+            
+          
+        
+        
+          
+            
+              <category>Hello World!</category>
+            
+          
+        
+        
+          
+            
+              <category>Hugo Blog</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Git Basic Commands 1</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/git-basic-commands-1/</link>
         <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>

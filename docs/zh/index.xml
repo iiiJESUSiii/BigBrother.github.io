@@ -44,6 +44,46 @@
 
       
       <item>
+        <title>将Hugo托管在Github上</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/hugo-host-on-github/</link>
+        <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Tue, 10 Mar 2020 18:50:30 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/hugo-host-on-github/</guid>
+        <description>使用 Github 托管个人静态网站 已收录在 Hugo Blog 这个托管你个人博客的方法既简便又快捷。 更改你的发布（publish）目录 删除 &amp;ldquo;public&amp;rdquo; 文件夹 如果你博客的 根目录 下有</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+            
+              <category>github</category>
+            
+          
+        
+        
+          
+            
+              <category>Hello World!</category>
+            
+          
+        
+        
+          
+            
+              <category>Hugo Blog</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Git 基本指令 1</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/git-basic-commands-1/</link>
         <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>
