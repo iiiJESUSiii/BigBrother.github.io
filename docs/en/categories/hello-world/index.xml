@@ -14,13 +14,50 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 10 Mar 2020 18:50:30 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 23:02:24 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/categories/hello-world/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Python3 for-else</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python3-for-else/</link>
+        <pubDate>Wed, 18 Mar 2020 23:02:24 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 18 Mar 2020 23:02:24 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python3-for-else/</guid>
+        <description>Python for-else &amp;amp; while-else clauses Included in python daily tips for-else Basic structure This is the basic structure of a for-else loop:
+1 2 3 4 5 6 7 8  for item in container: if search_something(item): # Found it! process(item) break else: # Didn&amp;#39;t find anything.. not_found_in_container()   Explanation for loops also have an else clause which most of us are unfamiliar with. The else clause executes after the loop completes normally.</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>Hello World!</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Hugo Host on Github</title>

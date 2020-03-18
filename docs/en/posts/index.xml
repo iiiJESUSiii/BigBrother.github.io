@@ -23,6 +23,87 @@
 
       
       <item>
+        <title>Python3 for-else</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python3-for-else/</link>
+        <pubDate>Wed, 18 Mar 2020 23:02:24 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 18 Mar 2020 23:02:24 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python3-for-else/</guid>
+        <description>Python for-else &amp;amp; while-else clauses Included in python daily tips for-else Basic structure This is the basic structure of a for-else loop:
+1 2 3 4 5 6 7 8  for item in container: if search_something(item): # Found it! process(item) break else: # Didn&amp;#39;t find anything.. not_found_in_container()   Explanation for loops also have an else clause which most of us are unfamiliar with. The else clause executes after the loop completes normally.</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>Hello World!</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 1160</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1160/</link>
+        <pubDate>Wed, 18 Mar 2020 22:58:28 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 18 Mar 2020 22:58:28 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1160/</guid>
+        <description>LeetCode 1160. Find Words That Can Be Formed by Characters Included in my LeetCode Topic You are given an array of strings words and a string chars. A string is good if it can be formed by characters from chars (each character can only be used once). Return the sum of lengths of all good strings in words. Example 1 2 3 4 5 6 7 8 9 Input: words</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>hashTable</category>
+            
+          
+            
+              <category>for-else</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Hugo Host on Github</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/hugo-host-on-github/</link>
         <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
