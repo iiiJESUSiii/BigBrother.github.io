@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>f-string on 👌Teletubby&#39;s Blog</title>
+    <link>https://iiijesusiii.github.io/Teletubby/en/tags/f-string/</link>
+    <description>Recent content in f-string on 👌Teletubby&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
+    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 20 Mar 2020 18:49:36 +0800</lastBuildDate>
+    
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/f-string/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Python f-string</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-f-string/</link>
+        <pubDate>Fri, 20 Mar 2020 18:49:36 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Fri, 20 Mar 2020 18:49:36 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-f-string/</guid>
+        <description>f-string f-string also known as formatted string literals, a new string formatting method introduced in Python 3.6. The method is derived from PEP 498 – Literal String Interpolation, is designed to make the operation of formatting string more concise.f-string is a string literal that is prefixed with &amp;lsquo;f&amp;rsquo; or &amp;lsquo;F&#39;(like f&amp;rsquo;xxx&amp;rsquo; or F&amp;rsquo;xxx&amp;rsquo;). These strings may contain replacement fields, which are expressions delimited by curly braces {}. While other string</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>f-string</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

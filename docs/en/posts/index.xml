@@ -23,12 +23,244 @@
 
       
       <item>
-        <title>Python3 for-else</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python3-for-else/</link>
+        <title>LeetCode Interview Questions 01.06</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-questions-0106/</link>
+        <pubDate>Sat, 21 Mar 2020 00:59:12 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 21 Mar 2020 00:59:12 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-questions-0106/</guid>
+        <description>LeetCode Interview Questions 01.06. Compress String LCCI Included in my LeetCode Topic Implement a method to perform basic string compression using the counts of repeated characters. For example, the string aabcccccaaa would become a2blc5a3. If the &amp;ldquo;compressed&amp;rdquo; string would not become smaller than the original string, your method should return the original string. You can assume the string has only uppercase and lowercase letters (a - z). Example 1 2</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>LeetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python f-string</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-f-string/</link>
+        <pubDate>Fri, 20 Mar 2020 18:49:36 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Fri, 20 Mar 2020 18:49:36 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-f-string/</guid>
+        <description>f-string f-string also known as formatted string literals, a new string formatting method introduced in Python 3.6. The method is derived from PEP 498 – Literal String Interpolation, is designed to make the operation of formatting string more concise.f-string is a string literal that is prefixed with &amp;lsquo;f&amp;rsquo; or &amp;lsquo;F&#39;(like f&amp;rsquo;xxx&amp;rsquo; or F&amp;rsquo;xxx&amp;rsquo;). These strings may contain replacement fields, which are expressions delimited by curly braces {}. While other string</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>f-string</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 409</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-409/</link>
+        <pubDate>Fri, 20 Mar 2020 15:50:19 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Fri, 20 Mar 2020 15:50:19 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-409/</guid>
+        <description>LeetCode 409. Longest Palindrome Included in my LeetCode Topic Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters. This is case sensitive, for example &amp;ldquo;Aa&amp;rdquo; is not considered a palindrome here. Example 1 2 3 4 5 6 Input:&amp;#34;abccccdd&amp;#34; Output:7 Explanation: One longest palindrome that can be built is &amp;#34;dccaccd&amp;#34;, whose length is 7. Note</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>hashTable</category>
+            
+          
+            
+              <category>LeetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python collections.Counter Time Complexity</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-counter-time-complexity/</link>
+        <pubDate>Fri, 20 Mar 2020 13:50:44 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Fri, 20 Mar 2020 13:50:44 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-counter-time-complexity/</guid>
+        <description>The time complexity of collections.Counter() in Python As the source code shows, Counter is just a subclass of dict. Constructing it is O(n), because it has to iterate over the input, but operations on individual elements remain O(1). Note also from that source that it does not keep an order internally, but simply sorts by most common on output, in the ***__repr__*** method. Origin post from: StackOverflow-What is the time</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python Time Complexity</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-time-complexity/</link>
+        <pubDate>Thu, 19 Mar 2020 15:37:56 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Thu, 19 Mar 2020 15:37:56 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-time-complexity/</guid>
+        <description>Time complexity of Python&amp;rsquo;s built-ins conference Python Wiki This page documents the time-complexity (aka &amp;ldquo;Big O&amp;rdquo; or &amp;ldquo;Big Oh&amp;rdquo;) of various operations in current CPython (last edited 2017-06-05 19:58:18 by JonathanHartley). Other Python implementations (or older or still-under development versions of CPython) may have slightly different performance characteristics. However, it is generally safe to assume that they are not slower by more than a factor of O(log n). Generally, &amp;lsquo;n&amp;rsquo;</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Code Runtime in Python3</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/code-runtime-in-python3/</link>
+        <pubDate>Thu, 19 Mar 2020 14:50:58 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Thu, 19 Mar 2020 14:50:58 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/code-runtime-in-python3/</guid>
+        <description>Several ways to get code runtime in Python3 Ⅰ 1 2 3 4 5  import timestart =time.time()#code block end = time.time()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅱ 1 2 3 4 5  import timeitstart=timeit.default_timer()#code block end=timeit.default_timer()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅲ 1 2 3 4 5  import timestart =time.perf_counter()#code block end = time.perf_counter()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅳ 1 2 3 4 5 6  import timestart =time.</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>Hello World!</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python for-else</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-for-else/</link>
         <pubDate>Wed, 18 Mar 2020 23:02:24 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 23:02:24 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python3-for-else/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-for-else/</guid>
         <description>Python for-else &amp;amp; while-else clauses Included in python daily tips for-else Basic structure This is the basic structure of a for-else loop:
 1 2 3 4 5 6 7 8  for item in container: if search_something(item): # Found it! process(item) break else: # Didn&amp;#39;t find anything.. not_found_in_container()   Explanation for loops also have an else clause which most of us are unfamiliar with. The else clause executes after the loop completes normally.</description>
         
@@ -83,7 +315,7 @@
             
           
             
-              <category>for-else</category>
+              <category>LeetCodeEasy</category>
             
           
         

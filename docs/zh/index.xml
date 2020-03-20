@@ -44,12 +44,244 @@
 
       
       <item>
-        <title>Python3 for-else</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/python3-for-else/</link>
+        <title>LeetCode 面试题 01.06</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-questions-0106/</link>
+        <pubDate>Sat, 21 Mar 2020 00:59:12 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 21 Mar 2020 00:59:12 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-questions-0106/</guid>
+        <description>LeetCode 面试题 01.06. 字符串压缩 已收录在 my LeetCode 题目 字符串压缩。利用字符重复出现的次数，编写一种方法，实现基本的字符串压缩功能。 比如，字符串aabccccc</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>LeetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python f-string</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/python-f-string/</link>
+        <pubDate>Fri, 20 Mar 2020 18:49:36 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Fri, 20 Mar 2020 18:49:36 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-f-string/</guid>
+        <description>原文来自: sunxb10-Python格式化字符串f-string概览 f-string f-string 亦称为 格式化字符串常量 (formatted string literals)，是Python3.6</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>f-string</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 409</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-409/</link>
+        <pubDate>Fri, 20 Mar 2020 15:50:19 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Fri, 20 Mar 2020 15:50:19 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-409/</guid>
+        <description>LeetCode 409. 最长回文串 已收录在 my LeetCode 题目 给定一个包含大写字母和小写字母的字符串，找到通过这些字母构造成的最长的回文串。 在构造过程中，请注意区分大小写。</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>hashTable</category>
+            
+          
+            
+              <category>LeetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python collections.Counter 的时间复杂度</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/python-counter-time-complexity/</link>
+        <pubDate>Fri, 20 Mar 2020 13:50:44 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Fri, 20 Mar 2020 13:50:44 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-counter-time-complexity/</guid>
+        <description>Python 中 collections.Counter() 的时间复杂度 正由 源码 所示, Counter 就是 字典 的子类. 构造它是 O(n), 因为对需要输入进行遍历，但是它对每个单元的操作仍是 O(1)。 注意，从源码中还可以</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python之时间复杂度</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/python-time-complexity/</link>
+        <pubDate>Thu, 19 Mar 2020 15:37:56 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Thu, 19 Mar 2020 15:37:56 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-time-complexity/</guid>
+        <description>Python内置方法的时间复杂度 译自 Python Wiki 本页面涵盖了Python中若干方法的 时间复杂度（或者叫&amp;quot;O&amp;rdquo;(大欧)）。该时间</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python3计算代码的运行时间</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/code-runtime-in-python3/</link>
+        <pubDate>Thu, 19 Mar 2020 14:50:58 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Thu, 19 Mar 2020 14:50:58 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/code-runtime-in-python3/</guid>
+        <description>Several ways to get code runtime in Python3 Ⅰ 1 2 3 4 5 import time start =time.time() #中间写上代码块 end = time.time() print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start)) Ⅱ 1 2 3 4 5 import timeit start=timeit.default_timer() #中间写代码块 end=timeit.default_timer() print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start)) Ⅲ 1 2 3 4 5 import time start =time.perf_counter() #中间写上代码块</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>Hello World!</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python for-else 语句</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/python-for-else/</link>
         <pubDate>Wed, 18 Mar 2020 23:02:24 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 23:02:24 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python3-for-else/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-for-else/</guid>
         <description>Python for-else &amp;amp; while-else 语句 已收录在 python daily tips for-else 基本结构 这是for-else循环的基本结构： 1 2 3 4 5 6 7 8 for item in container: if search_something(item): # 找到了! process(item) break else: # 没有找到任何东西。（f</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -103,7 +335,7 @@
             
           
             
-              <category>for-else</category>
+              <category>LeetCodeEasy</category>
             
           
         

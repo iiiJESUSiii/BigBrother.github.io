@@ -14,7 +14,7 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 18 Mar 2020 23:02:24 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 00:59:12 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,12 @@
 
       
       <item>
-        <title>Hello World!</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/categories/hello-world/</link>
-        <pubDate>Wed, 18 Mar 2020 23:02:24 +0800</pubDate>
+        <title>贰零贰零零贰</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/</link>
+        <pubDate>Sat, 21 Mar 2020 00:59:12 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/categories/hello-world/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -41,12 +41,12 @@
       </item>
       
       <item>
-        <title>贰零贰零零贰</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/</link>
-        <pubDate>Wed, 18 Mar 2020 22:58:28 +0800</pubDate>
+        <title>Hello World!</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/categories/hello-world/</link>
+        <pubDate>Thu, 19 Mar 2020 14:50:58 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/categories/hello-world/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
