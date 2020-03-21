@@ -14,7 +14,7 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 00:59:12 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 21:52:58 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,9 +23,27 @@
 
       
       <item>
+        <title>Bezu identity</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/</link>
+        <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>LeetCodeEasy</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</link>
-        <pubDate>Sat, 21 Mar 2020 00:59:12 +0800</pubDate>
+        <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
         <guid>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</guid>
@@ -41,48 +59,30 @@
       </item>
       
       <item>
-        <title>python</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/tags/python/</link>
-        <pubDate>Sat, 21 Mar 2020 00:59:12 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
-        
-        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/python/</guid>
-        <description></description>
-        
-        <dc:creator>Teletubby</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>f-string</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/tags/f-string/</link>
-        <pubDate>Fri, 20 Mar 2020 18:49:36 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
-        
-        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/f-string/</guid>
-        <description></description>
-        
-        <dc:creator>Teletubby</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>hashTable</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/tags/hashtable/</link>
-        <pubDate>Fri, 20 Mar 2020 15:50:19 +0800</pubDate>
+        <pubDate>Sat, 21 Mar 2020 13:58:09 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
         <guid>https://iiijesusiii.github.io/Teletubby/en/tags/hashtable/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>python</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/python/</link>
+        <pubDate>Fri, 20 Mar 2020 18:49:36 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/python/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>

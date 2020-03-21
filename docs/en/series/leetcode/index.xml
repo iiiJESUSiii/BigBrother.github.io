@@ -14,13 +14,53 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 00:59:12 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 13:58:09 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/series/leetcode/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode 67</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-67/</link>
+        <pubDate>Sat, 21 Mar 2020 13:58:09 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 21 Mar 2020 13:58:09 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-67/</guid>
+        <description>LeetCode 67. Add Binary Included in my LeetCode Topic Given two binary strings, return their sum (also a binary string). The input strings are both non-empty and contains only characters 1 or 0. Example 1 2 3 4 5 Input: a = &amp;#34;11&amp;#34;, b = &amp;#34;1&amp;#34; Output: &amp;#34;100&amp;#34; Input: a = &amp;#34;1010&amp;#34;, b = &amp;#34;1011&amp;#34; Output: &amp;#34;10101&amp;#34; Solution Ⅰ No more words.😂 1 2</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hashTable</category>
+            
+          
+            
+              <category>LeetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>LeetCode Interview Questions 01.06</title>
@@ -36,10 +76,6 @@
         
         
         
-          
-            
-              <category>python</category>
-            
           
             
               <category>LeetCodeEasy</category>
@@ -76,10 +112,6 @@
         
         
         
-          
-            
-              <category>python</category>
-            
           
             
               <category>hashTable</category>
@@ -120,10 +152,6 @@
         
         
         
-          
-            
-              <category>python</category>
-            
           
             
               <category>hashTable</category>

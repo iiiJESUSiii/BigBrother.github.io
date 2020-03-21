@@ -14,7 +14,7 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 00:59:12 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 21:52:58 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/series/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,9 +23,27 @@
 
       
       <item>
+        <title>Math</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/series/math/</link>
+        <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        
+        <guid>https://iiijesusiii.github.io/Teletubby/en/series/math/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>LeetCode</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/series/leetcode/</link>
-        <pubDate>Sat, 21 Mar 2020 00:59:12 +0800</pubDate>
+        <pubDate>Sat, 21 Mar 2020 13:58:09 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
         <guid>https://iiijesusiii.github.io/Teletubby/en/series/leetcode/</guid>

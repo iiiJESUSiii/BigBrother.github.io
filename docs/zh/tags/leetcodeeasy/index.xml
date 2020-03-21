@@ -14,13 +14,93 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 00:59:12 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 21:52:58 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/tags/leetcodeeasy/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>贝祖等式</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/bezu-identity/</link>
+        <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/bezu-identity/</guid>
+        <description>贝祖等式 这里只是简单的叙述 贝祖定理(裴蜀定理)。 参考 贝祖等式 参考 裴蜀定理 对任何整数 a，b 和它们的最大公约数 d，关于未知数 x 和 y 的线性不定方程</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Bezu identity</category>
+            
+          
+            
+              <category>LeetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 67</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-67/</link>
+        <pubDate>Sat, 21 Mar 2020 13:58:09 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 21 Mar 2020 13:58:09 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-67/</guid>
+        <description>LeetCode 67. 二进制求和 已收录在 my LeetCode 题目 给定两个二进制字符串，返回他们的和（用二进制表示）。 输入为 非空 字符串且只包含数字 1 和 0。 示例 1 2 3 4 5 输入: a</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hashTable</category>
+            
+          
+            
+              <category>LeetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>LeetCode 面试题 01.06</title>
@@ -36,10 +116,6 @@
         
         
         
-          
-            
-              <category>python</category>
-            
           
             
               <category>LeetCodeEasy</category>
@@ -76,10 +152,6 @@
         
         
         
-          
-            
-              <category>python</category>
-            
           
             
               <category>hashTable</category>
@@ -120,10 +192,6 @@
         
         
         
-          
-            
-              <category>python</category>
-            
           
             
               <category>hashTable</category>

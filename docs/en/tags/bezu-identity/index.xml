@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bezu identity on 👌Teletubby&#39;s Blog</title>
+    <link>https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/</link>
+    <description>Recent content in Bezu identity on 👌Teletubby&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
+    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 21 Mar 2020 21:52:58 +0800</lastBuildDate>
+    
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Bézout&#39;s identity</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/</link>
+        <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/</guid>
+        <description>Bezu Identity This post just briefly explains Bézout&amp;rsquo;s theorem in arithmetic. conference Bézout&amp;rsquo;s identity Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that ax + by = d. More generally, the integers of</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Bezu identity</category>
+            
+          
+            
+              <category>LeetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

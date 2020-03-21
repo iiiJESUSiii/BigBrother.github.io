@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Math on 👌天线宝宝的博客</title>
+    <link>https://iiijesusiii.github.io/Teletubby/zh/series/math/</link>
+    <description>Recent content in Math on 👌天线宝宝的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
+    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 21 Mar 2020 21:52:58 +0800</lastBuildDate>
+    
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/series/math/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>贝祖等式</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/bezu-identity/</link>
+        <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/bezu-identity/</guid>
+        <description>贝祖等式 这里只是简单的叙述 贝祖定理(裴蜀定理)。 参考 贝祖等式 参考 裴蜀定理 对任何整数 a，b 和它们的最大公约数 d，关于未知数 x 和 y 的线性不定方程</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Bezu identity</category>
+            
+          
+            
+              <category>LeetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

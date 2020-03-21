@@ -14,13 +14,53 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 20 Mar 2020 15:50:19 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 13:58:09 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/tags/hashtable/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode 67</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-67/</link>
+        <pubDate>Sat, 21 Mar 2020 13:58:09 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 21 Mar 2020 13:58:09 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-67/</guid>
+        <description>LeetCode 67. 二进制求和 已收录在 my LeetCode 题目 给定两个二进制字符串，返回他们的和（用二进制表示）。 输入为 非空 字符串且只包含数字 1 和 0。 示例 1 2 3 4 5 输入: a</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hashTable</category>
+            
+          
+            
+              <category>LeetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>LeetCode 409</title>
@@ -36,10 +76,6 @@
         
         
         
-          
-            
-              <category>python</category>
-            
           
             
               <category>hashTable</category>
@@ -80,10 +116,6 @@
         
         
         
-          
-            
-              <category>python</category>
-            
           
             
               <category>hashTable</category>

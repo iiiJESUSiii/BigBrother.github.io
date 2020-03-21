@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/</loc>
+    <lastmod>2020-03-21T21:52:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/tags/bezu-identity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/</loc>
+    <lastmod>2020-03-21T21:52:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/posts/bezu-identity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/"
+                />
+  </url>
+  
+  <url>
     <loc>https://iiijesusiii.github.io/Teletubby/en/categories/</loc>
-    <lastmod>2020-03-21T00:59:12+08:00</lastmod>
+    <lastmod>2020-03-21T21:52:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -18,8 +48,98 @@
   </url>
   
   <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</loc>
+    <lastmod>2020-03-21T21:52:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/tags/leetcodeeasy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/series/math/</loc>
+    <lastmod>2020-03-21T21:52:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/series/math/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/series/math/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/series/</loc>
+    <lastmod>2020-03-21T21:52:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/tags/</loc>
+    <lastmod>2020-03-21T21:52:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/</loc>
+    <lastmod>2020-03-21T21:52:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/tags/hashtable/</loc>
+    <lastmod>2020-03-21T13:58:09+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/tags/hashtable/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/tags/hashtable/"
+                />
+  </url>
+  
+  <url>
     <loc>https://iiijesusiii.github.io/Teletubby/en/series/leetcode/</loc>
-    <lastmod>2020-03-21T00:59:12+08:00</lastmod>
+    <lastmod>2020-03-21T13:58:09+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -29,6 +149,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iiijesusiii.github.io/Teletubby/en/series/leetcode/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-67/</loc>
+    <lastmod>2020-03-21T13:58:09+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-67/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-67/"
                 />
   </url>
   
@@ -48,23 +183,8 @@
   </url>
   
   <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</loc>
-    <lastmod>2020-03-21T00:59:12+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/tags/leetcodeeasy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/"
-                />
-  </url>
-  
-  <url>
     <loc>https://iiijesusiii.github.io/Teletubby/en/tags/python/</loc>
-    <lastmod>2020-03-21T00:59:12+08:00</lastmod>
+    <lastmod>2020-03-20T18:49:36+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -74,66 +194,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iiijesusiii.github.io/Teletubby/en/tags/python/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/en/series/</loc>
-    <lastmod>2020-03-21T00:59:12+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/en/tags/</loc>
-    <lastmod>2020-03-21T00:59:12+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/en/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/</loc>
-    <lastmod>2020-03-21T00:59:12+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/en/tags/f-string/</loc>
-    <lastmod>2020-03-20T18:49:36+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/tags/f-string/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/tags/f-string/"
                 />
   </url>
   
@@ -164,21 +224,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iiijesusiii.github.io/Teletubby/en/posts/python-f-string/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/en/tags/hashtable/</loc>
-    <lastmod>2020-03-20T15:50:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/tags/hashtable/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/tags/hashtable/"
                 />
   </url>
   
