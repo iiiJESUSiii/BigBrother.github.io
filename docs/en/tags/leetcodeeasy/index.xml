@@ -14,53 +14,13 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 21:52:58 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 13:58:09 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
-      
-      <item>
-        <title>Bézout&#39;s identity</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/</link>
-        <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
-        <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/</guid>
-        <description>Bezu Identity This post just briefly explains Bézout&amp;rsquo;s theorem in arithmetic. conference Bézout&amp;rsquo;s identity Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that ax + by = d. More generally, the integers of</description>
-        
-        <dc:creator>Teletubby</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>Bezu identity</category>
-            
-          
-            
-              <category>LeetCodeEasy</category>
-            
-          
-        
-        
-          
-            
-              <category>贰零贰零零贰</category>
-            
-          
-        
-        
-          
-            
-              <category>Math</category>
-            
-          
-        
-      </item>
       
       <item>
         <title>LeetCode 67</title>
