@@ -23,13 +23,15 @@
 
       
       <item>
-        <title>Code Runtime in Python3</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/code-runtime-in-python3/</link>
+        <title>Code Runtime in Python</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-code-runtime/</link>
         <pubDate>Thu, 19 Mar 2020 14:50:58 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 14:50:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/code-runtime-in-python3/</guid>
-        <description>Several ways to get code runtime in Python3 Ⅰ 1 2 3 4 5  import timestart =time.time()#code block end = time.time()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅱ 1 2 3 4 5  import timeitstart=timeit.default_timer()#code block end=timeit.default_timer()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅲ 1 2 3 4 5  import timestart =time.perf_counter()#code block end = time.perf_counter()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅳ 1 2 3 4 5 6  import timestart =time.</description>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-code-runtime/</guid>
+        <description>My python version is 3.7
+ Several ways to get code runtime in Python3.7  timeit &amp;ndash; Measure execution time of small code snippets
+ Ⅰ 1 2 3 4 5  import timeitstart=timeit.default_timer()#code block end=timeit.default_timer()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅱ 1 2 3 4 5  import timestart =time.time()#code block end = time.time()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅲ 1 2 3 4 5  import timestart =time.</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -65,8 +67,9 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 23:02:24 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-for-else/</guid>
-        <description>Python for-else &amp;amp; while-else clauses Included in python daily tips for-else Basic structure This is the basic structure of a for-else loop:
-1 2 3 4 5 6 7 8  for item in container: if search_something(item): # Found it! process(item) break else: # Didn&amp;#39;t find anything.. not_found_in_container()   Explanation for loops also have an else clause which most of us are unfamiliar with. The else clause executes after the loop completes normally.</description>
+        <description>My python version is 3.7
+ Python for-else &amp;amp; while-else clauses Included in python daily tips for-else Basic structure This is the basic structure of a for-else loop:
+1 2 3 4 5 6 7 8  for item in container: if search_something(item): # Found it! process(item) break else: # Didn&amp;#39;t find anything.. not_found_in_container()   Explanation for loops also have an else clause which most of us are unfamiliar with.</description>
         
         <dc:creator>Teletubby</dc:creator>
         

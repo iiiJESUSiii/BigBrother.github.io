@@ -14,13 +14,169 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 21:52:58 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 00:46:14 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode 300</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-300/</link>
+        <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-300/</guid>
+        <description>LeetCode 300. 最长上升子序列 已收录在 my LeetCode 题目 给定一个无序的整数数组，找到其中最长上升子序列的长度。 示例 1 2 3 4 输入: [10,9,2,5,3,7,101,18] 输出: 4 解释: 最长的上升子序列是</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Dynamic programming</category>
+            
+          
+            
+              <category>Binary search</category>
+            
+          
+            
+              <category>LeetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 945</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-945/</link>
+        <pubDate>Sun, 22 Mar 2020 23:54:53 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 22 Mar 2020 23:54:53 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-945/</guid>
+        <description>LeetCode 945. 使数组唯一的最小增量 已收录在 my LeetCode 题目 给定整数数组 A，每次 move 操作将会选择任意 A[i]，并将其递增 1。 返回使 A 中的每个值都是唯一的最少操作次</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Greedy algorithm</category>
+            
+          
+            
+              <category>LeetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python timeit</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/python-timeit/</link>
+        <pubDate>Sun, 22 Mar 2020 19:54:21 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 22 Mar 2020 19:54:21 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-timeit/</guid>
+        <description>My python version is 3.7 timeit - 测量小代码片段的执行时间 已收录在 python daily tips 该模块提供了一种简单的方法来计算一小段 Python 代码的耗时。它避免了许多用于测量执行时间的常见陷</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python sorted()</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/python-sorted/</link>
+        <pubDate>Sun, 22 Mar 2020 14:49:32 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 22 Mar 2020 14:49:32 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-sorted/</guid>
+        <description>我的 python 版本 是 3.7 python sorted() (内置方法) 已收录在 python daily tips 译自: Python sorted() sorted() 函数以迭代方式返回排序列表。 sorted() 函数以特定顺序（&amp;quot;升序&amp;ldquo;或&amp;rd</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>贝祖等式</title>
@@ -141,7 +297,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 18:49:36 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-f-string/</guid>
-        <description>原文来自: sunxb10-Python格式化字符串f-string概览 f-string f-string 亦称为 格式化字符串常量 (formatted string literals)，是Python3.6</description>
+        <description>我的 python 版本 是 3.7 f-string 已收录在 python daily tips 原文来自: sunxb10-Python格式化字符串f-string概览 f-string 亦称为 格式化字符串常量 (formatted string litera</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -217,7 +373,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 13:50:44 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-counter-time-complexity/</guid>
-        <description>Python 中 collections.Counter() 的时间复杂度 正由 源码 所示, Counter 就是 字典 的子类. 构造它是 O(n), 因为对需要输入进行遍历，但是它对每个单元的操作仍是 O(1)。 注意，从源码中还可以</description>
+        <description>我的 python 版本 是 3.7 Python 中 collections.Counter() 的时间复杂度 正由 源码 所示, Counter 就是 字典 的子类. 构造它是 O(n), 因为对需要输入进行遍历，但是它对每个单元的操作仍是 O(1)。 注意，</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -253,7 +409,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 15:37:56 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-time-complexity/</guid>
-        <description>Python内置方法的时间复杂度 译自 Python Wiki 本页面涵盖了Python中若干方法的 时间复杂度（或者叫&amp;quot;O&amp;rdquo;(大欧)）。该时间</description>
+        <description>我的 python 版本 是 3.7 Python内置方法的时间复杂度 已收录在 python daily tips 译自 Python Wiki 本页面涵盖了Python中若干方法的 时间复杂度（或者叫&amp;quot;O&amp;r</description>
         
         <dc:creator>Teletubby</dc:creator>
         

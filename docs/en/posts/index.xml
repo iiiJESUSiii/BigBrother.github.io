@@ -23,6 +23,162 @@
 
       
       <item>
+        <title>LeetCode 300</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</link>
+        <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</guid>
+        <description>LeetCode 300. Longest Increasing Subsequence Included in my LeetCode Topic Given an unsorted array of integers, find the length of longest increasing subsequence. Example 1 2 3 4 Input: [10,9,2,5,3,7,101,18] Output: 4 Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4. Note There may be more than one LIS combination, it is only necessary for you to return the length. Your algorithm should run in O(n2) complexity.</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Dynamic programming</category>
+            
+          
+            
+              <category>Binary search</category>
+            
+          
+            
+              <category>LeetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 945</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-945/</link>
+        <pubDate>Sun, 22 Mar 2020 23:54:53 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 22 Mar 2020 23:54:53 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-945/</guid>
+        <description>LeetCode 945. Minimum Increment to Make Array Unique Included in my LeetCode Topic Given an array of integers A, a move consists of choosing any A[i], and incrementing it by 1. Return the least number of moves to make every value in A unique. Example 1 2 3 4 5 6 7 8 9 10 Input: [1,2,2] Output: 1 Explanation: After 1 move, the array could be [1, 2, 3].</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Greedy algorithm</category>
+            
+          
+            
+              <category>LeetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python timeit</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-timeit/</link>
+        <pubDate>Sun, 22 Mar 2020 19:54:21 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 22 Mar 2020 19:54:21 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-timeit/</guid>
+        <description>My python version is 3.7 timeit - Measure execution time of small code snippets Included in python daily tips This module provides a simple way to time small bits of Python code. It avoids a number of common traps for measuring execution times. This can be achieved through the command line interface and the Python interface. Here only talk about the python interface. Python Interface The module defines three convenience</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python sorted()</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-sorted/</link>
+        <pubDate>Sun, 22 Mar 2020 14:49:32 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 22 Mar 2020 14:49:32 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-sorted/</guid>
+        <description>My python version is 3.7 python sorted() (Built-in Functions) Included in python daily tips Original post from: Python sorted() The sorted() function returns a sorted list from the items in an iterable. The sorted() function sorts the elements of a given iterable in a specific order (either ascending or descending). The syntax of sorted() is: sorted(iterable, key=None, reverse=False) sorted() Parameters sorted() can take a maximum of three parameters: iterable -</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>python daily tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Bézout&#39;s identity</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/</link>
         <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
@@ -141,7 +297,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 18:49:36 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-f-string/</guid>
-        <description>f-string f-string also known as formatted string literals, a new string formatting method introduced in Python 3.6. The method is derived from PEP 498 – Literal String Interpolation, is designed to make the operation of formatting string more concise.f-string is a string literal that is prefixed with &amp;lsquo;f&amp;rsquo; or &amp;lsquo;F&#39;(like f&amp;rsquo;xxx&amp;rsquo; or F&amp;rsquo;xxx&amp;rsquo;). These strings may contain replacement fields, which are expressions delimited by curly braces {}. While other string</description>
+        <description>My python version is 3.7 f-string Included in python daily tips f-string also known as formatted string literals, a new string formatting method introduced in Python 3.6. The method is derived from PEP 498 – Literal String Interpolation, is designed to make the operation of formatting string more concise.f-string is a string literal that is prefixed with &amp;lsquo;f&amp;rsquo; or &amp;lsquo;F&#39;(like f&amp;rsquo;xxx&amp;rsquo; or F&amp;rsquo;xxx&amp;rsquo;). These strings may contain replacement fields, which</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -217,7 +373,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 13:50:44 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-counter-time-complexity/</guid>
-        <description>The time complexity of collections.Counter() in Python As the source code shows, Counter is just a subclass of dict. Constructing it is O(n), because it has to iterate over the input, but operations on individual elements remain O(1). Note also from that source that it does not keep an order internally, but simply sorts by most common on output, in the ***__repr__*** method. Origin post from: StackOverflow-What is the time</description>
+        <description>My python version is 3.7 The time complexity of collections.Counter() in Python As the source code shows, Counter is just a subclass of dict. Constructing it is O(n), because it has to iterate over the input, but operations on individual elements remain O(1). Note also from that source that it does not keep an order internally, but simply sorts by most common on output, in the ***__repr__*** method. Origin post</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -253,7 +409,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 15:37:56 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-time-complexity/</guid>
-        <description>Time complexity of Python&amp;rsquo;s built-ins conference Python Wiki This page documents the time-complexity (aka &amp;ldquo;Big O&amp;rdquo; or &amp;ldquo;Big Oh&amp;rdquo;) of various operations in current CPython (last edited 2017-06-05 19:58:18 by JonathanHartley). Other Python implementations (or older or still-under development versions of CPython) may have slightly different performance characteristics. However, it is generally safe to assume that they are not slower by more than a factor of O(log n). Generally, &amp;lsquo;n&amp;rsquo;</description>
+        <description>My python version is 3.7 Time complexity of Python&amp;rsquo;s built-ins Included in python daily tips conference Python Wiki This page documents the time-complexity (aka &amp;ldquo;Big O&amp;rdquo; or &amp;ldquo;Big Oh&amp;rdquo;) of various operations in current CPython (last edited 2017-06-05 19:58:18 by JonathanHartley). Other Python implementations (or older or still-under development versions of CPython) may have slightly different performance characteristics. However, it is generally safe to assume that they are not slower</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -283,13 +439,15 @@
       </item>
       
       <item>
-        <title>Code Runtime in Python3</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/code-runtime-in-python3/</link>
+        <title>Code Runtime in Python</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-code-runtime/</link>
         <pubDate>Thu, 19 Mar 2020 14:50:58 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 14:50:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/code-runtime-in-python3/</guid>
-        <description>Several ways to get code runtime in Python3 Ⅰ 1 2 3 4 5  import timestart =time.time()#code block end = time.time()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅱ 1 2 3 4 5  import timeitstart=timeit.default_timer()#code block end=timeit.default_timer()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅲ 1 2 3 4 5  import timestart =time.perf_counter()#code block end = time.perf_counter()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅳ 1 2 3 4 5 6  import timestart =time.</description>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-code-runtime/</guid>
+        <description>My python version is 3.7
+ Several ways to get code runtime in Python3.7  timeit &amp;ndash; Measure execution time of small code snippets
+ Ⅰ 1 2 3 4 5  import timeitstart=timeit.default_timer()#code block end=timeit.default_timer()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅱ 1 2 3 4 5  import timestart =time.time()#code block end = time.time()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅲ 1 2 3 4 5  import timestart =time.</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -325,8 +483,9 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 23:02:24 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-for-else/</guid>
-        <description>Python for-else &amp;amp; while-else clauses Included in python daily tips for-else Basic structure This is the basic structure of a for-else loop:
-1 2 3 4 5 6 7 8  for item in container: if search_something(item): # Found it! process(item) break else: # Didn&amp;#39;t find anything.. not_found_in_container()   Explanation for loops also have an else clause which most of us are unfamiliar with. The else clause executes after the loop completes normally.</description>
+        <description>My python version is 3.7
+ Python for-else &amp;amp; while-else clauses Included in python daily tips for-else Basic structure This is the basic structure of a for-else loop:
+1 2 3 4 5 6 7 8  for item in container: if search_something(item): # Found it! process(item) break else: # Didn&amp;#39;t find anything.. not_found_in_container()   Explanation for loops also have an else clause which most of us are unfamiliar with.</description>
         
         <dc:creator>Teletubby</dc:creator>
         

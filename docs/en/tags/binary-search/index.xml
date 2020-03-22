@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Binary search on 👌Teletubby&#39;s Blog</title>
+    <link>https://iiijesusiii.github.io/Teletubby/en/tags/binary-search/</link>
+    <description>Recent content in Binary search on 👌Teletubby&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
+    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 23 Mar 2020 00:46:14 +0800</lastBuildDate>
+    
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/binary-search/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>LeetCode 300</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</link>
+        <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</guid>
+        <description>LeetCode 300. Longest Increasing Subsequence Included in my LeetCode Topic Given an unsorted array of integers, find the length of longest increasing subsequence. Example 1 2 3 4 Input: [10,9,2,5,3,7,101,18] Output: 4 Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4. Note There may be more than one LIS combination, it is only necessary for you to return the length. Your algorithm should run in O(n2) complexity.</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Dynamic programming</category>
+            
+          
+            
+              <category>Binary search</category>
+            
+          
+            
+              <category>LeetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

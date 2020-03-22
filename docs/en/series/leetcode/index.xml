@@ -14,13 +14,97 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 13:58:09 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 00:46:14 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/series/leetcode/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode 300</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</link>
+        <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</guid>
+        <description>LeetCode 300. Longest Increasing Subsequence Included in my LeetCode Topic Given an unsorted array of integers, find the length of longest increasing subsequence. Example 1 2 3 4 Input: [10,9,2,5,3,7,101,18] Output: 4 Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4. Note There may be more than one LIS combination, it is only necessary for you to return the length. Your algorithm should run in O(n2) complexity.</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Dynamic programming</category>
+            
+          
+            
+              <category>Binary search</category>
+            
+          
+            
+              <category>LeetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 945</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-945/</link>
+        <pubDate>Sun, 22 Mar 2020 23:54:53 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 22 Mar 2020 23:54:53 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-945/</guid>
+        <description>LeetCode 945. Minimum Increment to Make Array Unique Included in my LeetCode Topic Given an array of integers A, a move consists of choosing any A[i], and incrementing it by 1. Return the least number of moves to make every value in A unique. Example 1 2 3 4 5 6 7 8 9 10 Input: [1,2,2] Output: 1 Explanation: After 1 move, the array could be [1, 2, 3].</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Greedy algorithm</category>
+            
+          
+            
+              <category>LeetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>LeetCode 67</title>
