@@ -77,7 +77,7 @@ git clone HTTPS(https://github.com/example.git)
         <atom:modified>Mon, 09 Mar 2020 13:28:12 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/install-git/</guid>
         <description>Included in Hugo Blog (Do u want to build a static website for yourself?) What is Git? Git is a free, open source distributed version control system tool designed to handle everything from small to very large projects with speed and efficiency.
- conference https://git-scm.com/
+ reference https://git-scm.com/
  Download Git WindowsLinuxMacOSchoco install git.install#orscoop install git If you didn&amp;rsquo;t install any package manager or installer, like choco, scoop</description>
         
         <dc:creator>Teletubby</dc:creator>

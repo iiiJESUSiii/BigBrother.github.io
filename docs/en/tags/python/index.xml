@@ -173,7 +173,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 15:37:56 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-time-complexity/</guid>
-        <description>My python version is 3.7 Time complexity of Python&amp;rsquo;s built-ins Included in python daily tips conference Python Wiki This page documents the time-complexity (aka &amp;ldquo;Big O&amp;rdquo; or &amp;ldquo;Big Oh&amp;rdquo;) of various operations in current CPython (last edited 2017-06-05 19:58:18 by JonathanHartley). Other Python implementations (or older or still-under development versions of CPython) may have slightly different performance characteristics. However, it is generally safe to assume that they are not slower</description>
+        <description>My python version is 3.7 Time complexity of Python&amp;rsquo;s built-ins Included in python daily tips reference Python Wiki This page documents the time-complexity (aka &amp;ldquo;Big O&amp;rdquo; or &amp;ldquo;Big Oh&amp;rdquo;) of various operations in current CPython (last edited 2017-06-05 19:58:18 by JonathanHartley). Other Python implementations (or older or still-under development versions of CPython) may have slightly different performance characteristics. However, it is generally safe to assume that they are not slower</description>
         
         <dc:creator>Teletubby</dc:creator>
         
