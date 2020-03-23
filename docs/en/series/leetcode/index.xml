@@ -38,15 +38,15 @@
         
           
             
-              <category>Dynamic programming</category>
+              <category>DP</category>
             
           
             
-              <category>Binary search</category>
+              <category>BS</category>
             
           
             
-              <category>LeetCodeMed</category>
+              <category>leetCodeMed</category>
             
           
         
@@ -82,11 +82,11 @@
         
           
             
-              <category>Greedy algorithm</category>
+              <category>greedy algorithm</category>
             
           
             
-              <category>LeetCodeMed</category>
+              <category>leetCodeMed</category>
             
           
         
@@ -126,7 +126,7 @@
             
           
             
-              <category>LeetCodeEasy</category>
+              <category>leetCodeEasy</category>
             
           
         
@@ -162,7 +162,7 @@
         
           
             
-              <category>LeetCodeEasy</category>
+              <category>leetCodeEasy</category>
             
           
         
@@ -202,7 +202,7 @@
             
           
             
-              <category>LeetCodeEasy</category>
+              <category>leetCodeEasy</category>
             
           
         
@@ -242,7 +242,7 @@
             
           
             
-              <category>LeetCodeEasy</category>
+              <category>leetCodeEasy</category>
             
           
         

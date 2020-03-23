@@ -23,12 +23,12 @@
 
       
       <item>
-        <title>Binary search</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/tags/binary-search/</link>
+        <title>BS</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/tags/bs/</link>
         <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/tags/binary-search/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/tags/bs/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -41,12 +41,12 @@
       </item>
       
       <item>
-        <title>Dynamic programming</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/tags/dynamic-programming/</link>
+        <title>DP</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/tags/dp/</link>
         <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/tags/dynamic-programming/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/tags/dp/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -59,7 +59,7 @@
       </item>
       
       <item>
-        <title>LeetCodeMed</title>
+        <title>leetCodeMed</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/tags/leetcodemed/</link>
         <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
@@ -77,7 +77,7 @@
       </item>
       
       <item>
-        <title>Greedy algorithm</title>
+        <title>greedy algorithm</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/tags/greedy-algorithm/</link>
         <pubDate>Sun, 22 Mar 2020 23:54:53 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
@@ -113,7 +113,7 @@
       </item>
       
       <item>
-        <title>Bezu identity</title>
+        <title>bezu identity</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/tags/bezu-identity/</link>
         <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
@@ -149,7 +149,7 @@
       </item>
       
       <item>
-        <title>LeetCodeEasy</title>
+        <title>leetCodeEasy</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/tags/leetcodeeasy/</link>
         <pubDate>Sat, 21 Mar 2020 13:58:09 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>

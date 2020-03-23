@@ -59,15 +59,15 @@
         
           
             
-              <category>Dynamic programming</category>
+              <category>DP</category>
             
           
             
-              <category>Binary search</category>
+              <category>BS</category>
             
           
             
-              <category>LeetCodeMed</category>
+              <category>leetCodeMed</category>
             
           
         
@@ -103,11 +103,11 @@
         
           
             
-              <category>Greedy algorithm</category>
+              <category>greedy algorithm</category>
             
           
             
-              <category>LeetCodeMed</category>
+              <category>leetCodeMed</category>
             
           
         
@@ -157,7 +157,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -193,7 +193,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -215,7 +215,7 @@
         
           
             
-              <category>Bezu identity</category>
+              <category>bezu identity</category>
             
           
         
@@ -255,7 +255,7 @@
             
           
             
-              <category>LeetCodeEasy</category>
+              <category>leetCodeEasy</category>
             
           
         
@@ -291,7 +291,7 @@
         
           
             
-              <category>LeetCodeEasy</category>
+              <category>leetCodeEasy</category>
             
           
         
@@ -341,7 +341,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -367,7 +367,7 @@
             
           
             
-              <category>LeetCodeEasy</category>
+              <category>leetCodeEasy</category>
             
           
         
@@ -417,7 +417,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -453,7 +453,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -466,7 +466,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 14:50:58 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-code-runtime/</guid>
-        <description>我的 python 版本 是 3.7 Python3.7 中获取代码的几种方法 timeit &amp;ndash; 测量小代码片段的执行时间 Ⅰ 1 2 3 4 5 import timeit start=timeit.default_timer() #中间写代码块 end=timeit.default_timer() print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start)) Ⅱ 1 2 3 4 5 import time start =time.time() #中间写上代码块</description>
+        <description>我的 python 版本 是 3.7 Python3.7 中获取代码的几种方法 timeit &amp;ndash; 测量小代码片段的执行时间 方法一 1 2 3 4 5 import timeit start=timeit.default_timer() #中间写代码块 end=timeit.default_timer() print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start)) 此外 1 2 %timeit (1, 2, 3) # 7.87 ns ± 0.261 ns per loop</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -489,7 +489,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -525,7 +525,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -551,7 +551,7 @@
             
           
             
-              <category>LeetCodeEasy</category>
+              <category>leetCodeEasy</category>
             
           
         

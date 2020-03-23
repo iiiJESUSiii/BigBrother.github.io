@@ -1253,7 +1253,7 @@
     "datePublished": "2020-03-19T14:50:58+08:00",
     "dateModified": "2020-03-19T14:50:58+08:00",
     "url" : "https://iiijesusiii.github.io/Teletubby/zh/posts/python-code-runtime/",
-    "description": "我的 python 版本 是 3.7 Python3.7 中获取代码的几种方法 timeit \u0026ndash; 测量小代码片段的执行时间 Ⅰ 1 2 3 4 5 import timeit start=timeit.default_timer() #中间写代码块 end=timeit.default_timer() …",
+    "description": "我的 python 版本 是 3.7 Python3.7 中获取代码的几种方法 timeit \u0026ndash; 测量小代码片段的执行时间 方法一 1 2 3 4 5 import timeit start=timeit.default_timer() #中间写代码块 end=timeit.default_timer() …",
     "keywords": ["python"],
     "author": {
       "@type": "Person",
@@ -1610,7 +1610,7 @@
 <blockquote>
 <p><a href="https://iiijesusiii.github.io/Teletubby/zh/posts/python-timeit.md/"><em><strong>timeit</strong></em> &ndash; 测量小代码片段的执行时间</a></p>
 </blockquote>
-<h2 id="heading">Ⅰ</h2>
+<h2 id="方法一">方法一</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -1627,7 +1627,18 @@
 <span class="k">print</span><span class="p">(</span><span class="s1">&#39;Running time: </span><span class="si">%s</span><span class="s1"> Seconds&#39;</span><span class="o">%</span><span class="p">(</span><span class="n">end</span><span class="o">-</span><span class="n">start</span><span class="p">))</span>
 </code></pre></td></tr></table>
 </div>
-</div><h2 id="heading-1">Ⅱ</h2>
+</div><h3 id="此外">此外</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="o">%</span><span class="n">timeit</span> <span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+<span class="c1"># 7.87 ns ± 0.261 ns per loop (mean ± std. dev. of 7 runs, 100000000 loops each)</span>
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="方法二">方法二</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -1644,7 +1655,7 @@
 <span class="k">print</span><span class="p">(</span><span class="s1">&#39;Running time: </span><span class="si">%s</span><span class="s1"> Seconds&#39;</span><span class="o">%</span><span class="p">(</span><span class="n">end</span><span class="o">-</span><span class="n">start</span><span class="p">))</span>
 </code></pre></td></tr></table>
 </div>
-</div><h2 id="heading-2">Ⅲ</h2>
+</div><h2 id="方法三">方法三</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -1661,7 +1672,7 @@
 <span class="k">print</span><span class="p">(</span><span class="s1">&#39;Running time: </span><span class="si">%s</span><span class="s1"> Seconds&#39;</span><span class="o">%</span><span class="p">(</span><span class="n">end</span><span class="o">-</span><span class="n">start</span><span class="p">))</span>
 </code></pre></td></tr></table>
 </div>
-</div><h2 id="heading-3">Ⅳ</h2>
+</div><h2 id="方法四">方法四</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -2264,10 +2275,14 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#heading">Ⅰ</a></li>
-    <li><a href="#heading-1">Ⅱ</a></li>
-    <li><a href="#heading-2">Ⅲ</a></li>
-    <li><a href="#heading-3">Ⅳ</a></li>
+    <li><a href="#方法一">方法一</a>
+      <ul>
+        <li><a href="#此外">此外</a></li>
+      </ul>
+    </li>
+    <li><a href="#方法二">方法二</a></li>
+    <li><a href="#方法三">方法三</a></li>
+    <li><a href="#方法四">方法四</a></li>
   </ul>
 </nav>
   </div>

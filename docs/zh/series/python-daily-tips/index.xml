@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>python daily tips on 👌天线宝宝的博客</title>
+    <title>Python Daily Tips on 👌天线宝宝的博客</title>
     <link>https://iiijesusiii.github.io/Teletubby/zh/series/python-daily-tips/</link>
-    <description>Recent content in python daily tips on 👌天线宝宝的博客</description>
+    <description>Recent content in Python Daily Tips on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
@@ -52,7 +52,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -88,7 +88,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -124,7 +124,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -160,7 +160,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -196,7 +196,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -209,7 +209,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 14:50:58 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-code-runtime/</guid>
-        <description>我的 python 版本 是 3.7 Python3.7 中获取代码的几种方法 timeit &amp;ndash; 测量小代码片段的执行时间 Ⅰ 1 2 3 4 5 import timeit start=timeit.default_timer() #中间写代码块 end=timeit.default_timer() print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start)) Ⅱ 1 2 3 4 5 import time start =time.time() #中间写上代码块</description>
+        <description>我的 python 版本 是 3.7 Python3.7 中获取代码的几种方法 timeit &amp;ndash; 测量小代码片段的执行时间 方法一 1 2 3 4 5 import timeit start=timeit.default_timer() #中间写代码块 end=timeit.default_timer() print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start)) 此外 1 2 %timeit (1, 2, 3) # 7.87 ns ± 0.261 ns per loop</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -232,7 +232,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -268,7 +268,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         

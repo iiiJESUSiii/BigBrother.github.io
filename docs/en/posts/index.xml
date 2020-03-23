@@ -38,15 +38,15 @@
         
           
             
-              <category>Dynamic programming</category>
+              <category>DP</category>
             
           
             
-              <category>Binary search</category>
+              <category>BS</category>
             
           
             
-              <category>LeetCodeMed</category>
+              <category>leetCodeMed</category>
             
           
         
@@ -82,11 +82,11 @@
         
           
             
-              <category>Greedy algorithm</category>
+              <category>greedy algorithm</category>
             
           
             
-              <category>LeetCodeMed</category>
+              <category>leetCodeMed</category>
             
           
         
@@ -136,7 +136,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -172,7 +172,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -194,7 +194,7 @@
         
           
             
-              <category>Bezu identity</category>
+              <category>bezu identity</category>
             
           
         
@@ -234,7 +234,7 @@
             
           
             
-              <category>LeetCodeEasy</category>
+              <category>leetCodeEasy</category>
             
           
         
@@ -270,7 +270,7 @@
         
           
             
-              <category>LeetCodeEasy</category>
+              <category>leetCodeEasy</category>
             
           
         
@@ -320,7 +320,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -346,7 +346,7 @@
             
           
             
-              <category>LeetCodeEasy</category>
+              <category>leetCodeEasy</category>
             
           
         
@@ -396,7 +396,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -432,7 +432,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -447,7 +447,7 @@
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-code-runtime/</guid>
         <description>My python version is 3.7
  Several ways to get code runtime in Python3.7  timeit &amp;ndash; Measure execution time of small code snippets
- Ⅰ 1 2 3 4 5  import timeitstart=timeit.default_timer()#code block end=timeit.default_timer()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅱ 1 2 3 4 5  import timestart =time.time()#code block end = time.time()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  Ⅲ 1 2 3 4 5  import timestart =time.</description>
+ Ⅰ 1 2 3 4 5  import timeitstart=timeit.default_timer()#code block end=timeit.default_timer()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  In addition 1 2  %timeit (1, 2, 3)# 7.87 ns ± 0.261 ns per loop (mean ± std. dev. of 7 runs, 100000000 loops each)   Ⅱ 1 2 3 4 5  import timestart =time.</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -470,7 +470,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -508,7 +508,7 @@
         
           
             
-              <category>python daily tips</category>
+              <category>Python Daily Tips</category>
             
           
         
@@ -534,7 +534,7 @@
             
           
             
-              <category>LeetCodeEasy</category>
+              <category>leetCodeEasy</category>
             
           
         

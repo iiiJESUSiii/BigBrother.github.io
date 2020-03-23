@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>LeetCodeMed on 👌天线宝宝的博客</title>
+    <title>leetCodeMed on 👌天线宝宝的博客</title>
     <link>https://iiijesusiii.github.io/Teletubby/zh/tags/leetcodemed/</link>
-    <description>Recent content in LeetCodeMed on 👌天线宝宝的博客</description>
+    <description>Recent content in leetCodeMed on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
@@ -38,15 +38,15 @@
         
           
             
-              <category>Dynamic programming</category>
+              <category>DP</category>
             
           
             
-              <category>Binary search</category>
+              <category>BS</category>
             
           
             
-              <category>LeetCodeMed</category>
+              <category>leetCodeMed</category>
             
           
         
@@ -82,11 +82,11 @@
         
           
             
-              <category>Greedy algorithm</category>
+              <category>greedy algorithm</category>
             
           
             
-              <category>LeetCodeMed</category>
+              <category>leetCodeMed</category>
             
           
         
