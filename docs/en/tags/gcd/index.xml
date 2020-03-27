@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>gcd on 👌Teletubby&#39;s Blog</title>
+    <link>https://iiijesusiii.github.io/Teletubby/en/tags/gcd/</link>
+    <description>Recent content in gcd on 👌Teletubby&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
+    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 28 Mar 2020 02:22:28 +0800</lastBuildDate>
+    
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/gcd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>LeetCode 1071</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1071/</link>
+        <pubDate>Sat, 28 Mar 2020 02:22:28 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 28 Mar 2020 02:22:28 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1071/</guid>
+        <description>LeetCode 1071. Greatest Common Divisor of Strings Included in my LeetCode Topic For strings S and T, we say &amp;ldquo;T divides S&amp;rdquo; if and only if S = T + &amp;hellip; + T (T concatenated with itself 1 or more times) Return the largest string X such that X divides str1 and X divides str2. Example 1 2 3 4 5 6 7 8 Input: str1 = &amp;#34;ABCABC&amp;#34;, str2 =</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>gcd</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Math GCD</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-gcd/</link>
+        <pubDate>Sat, 28 Mar 2020 01:26:03 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 28 Mar 2020 01:26:03 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-gcd/</guid>
+        <description>the Greatest Common Divisor Leave a pit. 😜</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>gcd</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 914</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-914/</link>
+        <pubDate>Fri, 27 Mar 2020 23:32:29 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Fri, 27 Mar 2020 23:32:29 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-914/</guid>
+        <description>LeetCode 914. X of a Kind in a Deck of Cards Included in my LeetCode Topic In a deck of cards, each card has an integer written on it. Return true if and only if you can choose X &amp;gt;= 2 such that it is possible to split the entire deck into 1 or more groups of cards, where: Each group has exactly X cards. All the cards in each</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>gcd</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

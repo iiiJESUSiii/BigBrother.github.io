@@ -24,11 +24,11 @@
       
       <item>
         <title>Bézout&#39;s identity</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-bezu-identity/</link>
         <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-bezu-identity/</guid>
         <description>Bezu Identity This post just briefly explains Bézout&amp;rsquo;s theorem in arithmetic. reference Bézout&amp;rsquo;s identity Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that ax + by = d. More generally, the integers of</description>
         
         <dc:creator>Teletubby</dc:creator>

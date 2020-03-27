@@ -14,13 +14,209 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 27 Mar 2020 10:37:35 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 02:34:58 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode 876</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-876/</link>
+        <pubDate>Sat, 28 Mar 2020 02:34:58 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 28 Mar 2020 02:34:58 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-876/</guid>
+        <description>LeetCode 876. Middle of the Linked List Included in my LeetCode Topic Given a non-empty, singly linked list with head node head, return a middle node of linked list. If there are two middle nodes, return the second middle node. Example 1 2 3 4 5 6 7 8 9 Input: [1,2,3,4,5] Output: Node 3 from this list (Serialization: [3,4,5]) The returned node has value 3. (The judge&amp;#39;s serialization of</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>double pointers</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 1071</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1071/</link>
+        <pubDate>Sat, 28 Mar 2020 02:22:28 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 28 Mar 2020 02:22:28 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1071/</guid>
+        <description>LeetCode 1071. Greatest Common Divisor of Strings Included in my LeetCode Topic For strings S and T, we say &amp;ldquo;T divides S&amp;rdquo; if and only if S = T + &amp;hellip; + T (T concatenated with itself 1 or more times) Return the largest string X such that X divides str1 and X divides str2. Example 1 2 3 4 5 6 7 8 Input: str1 = &amp;#34;ABCABC&amp;#34;, str2 =</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>gcd</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 198</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-198/</link>
+        <pubDate>Sat, 28 Mar 2020 01:51:24 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 28 Mar 2020 01:51:24 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-198/</guid>
+        <description>LeetCode 198. House Robber Included in my LeetCode Topic Another similar problem. The Masseuse LCCI, here is LeetCode portal You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected and it will automatically contact the police if two adjacent houses were</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>DP</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Math GCD</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-gcd/</link>
+        <pubDate>Sat, 28 Mar 2020 01:26:03 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 28 Mar 2020 01:26:03 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-gcd/</guid>
+        <description>the Greatest Common Divisor Leave a pit. 😜</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>gcd</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 914</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-914/</link>
+        <pubDate>Fri, 27 Mar 2020 23:32:29 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Fri, 27 Mar 2020 23:32:29 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-914/</guid>
+        <description>LeetCode 914. X of a Kind in a Deck of Cards Included in my LeetCode Topic In a deck of cards, each card has an integer written on it. Return true if and only if you can choose X &amp;gt;= 2 such that it is possible to split the entire deck into 1 or more groups of cards, where: Each group has exactly X cards. All the cards in each</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>gcd</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Python break out of multiple loops</title>
@@ -65,7 +261,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</guid>
-        <description>LeetCode 300. Longest Increasing Subsequence Included in my LeetCode Topic Given an unsorted array of integers, find the length of longest increasing subsequence. Example 1 2 3 4 Input: [10,9,2,5,3,7,101,18] Output: 4 Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4. Note There may be more than one LIS combination, it is only necessary for you to return the length. Your algorithm should run in O(n2) complexity.</description>
+        <description>LeetCode 300. Longest Increasing Subsequence Included in my LeetCode Topic Given an unsorted array of integers, find the length of longest increasing subsequence. Example 1 2 3 4 Input: [10,9,2,5,3,7,101,18] Output: 4 Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4. Note There may be more than one LIS combination, it is only necessary for you to return the length. Your algorithm should run in O(N^2) complexity.</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -216,11 +412,11 @@
       
       <item>
         <title>Bézout&#39;s identity</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-bezu-identity/</link>
         <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-bezu-identity/</guid>
         <description>Bezu Identity This post just briefly explains Bézout&amp;rsquo;s theorem in arithmetic. reference Bézout&amp;rsquo;s identity Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that ax + by = d. More generally, the integers of</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -292,11 +488,11 @@
       
       <item>
         <title>LeetCode Interview Questions 01.06</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-questions-0106/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0106/</link>
         <pubDate>Sat, 21 Mar 2020 00:59:12 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 00:59:12 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-questions-0106/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0106/</guid>
         <description>LeetCode Interview Questions 01.06. Compress String LCCI Included in my LeetCode Topic Implement a method to perform basic string compression using the counts of repeated characters. For example, the string aabcccccaaa would become a2blc5a3. If the &amp;ldquo;compressed&amp;rdquo; string would not become smaller than the original string, your method should return the original string. You can assume the string has only uppercase and lowercase letters (a - z). Example 1 2</description>
         
         <dc:creator>Teletubby</dc:creator>

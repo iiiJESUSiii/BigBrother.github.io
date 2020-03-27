@@ -14,7 +14,7 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 21:52:58 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 01:26:03 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/series/math/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,48 @@
 
       
       <item>
+        <title>Math GCD</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-gcd/</link>
+        <pubDate>Sat, 28 Mar 2020 01:26:03 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 28 Mar 2020 01:26:03 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-gcd/</guid>
+        <description>the Greatest Common Divisor Leave a pit. 😜</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>gcd</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Bézout&#39;s identity</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-bezu-identity/</link>
         <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/bezu-identity/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-bezu-identity/</guid>
         <description>Bezu Identity This post just briefly explains Bézout&amp;rsquo;s theorem in arithmetic. reference Bézout&amp;rsquo;s identity Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that ax + by = d. More generally, the integers of</description>
         
         <dc:creator>Teletubby</dc:creator>

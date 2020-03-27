@@ -14,13 +14,209 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 27 Mar 2020 10:37:35 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 02:34:58 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode 876</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-876/</link>
+        <pubDate>Sat, 28 Mar 2020 02:34:58 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 28 Mar 2020 02:34:58 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-876/</guid>
+        <description>LeetCode 876. 链表的中间结点 已收录在 my LeetCode 题目 给定一个带有头结点 head 的非空单链表，返回链表的中间结点。 如果有两个中间结点，则返回第二个中间结点。 示例 1 2 3</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>双指针</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 1071</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-1071/</link>
+        <pubDate>Sat, 28 Mar 2020 02:22:28 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 28 Mar 2020 02:22:28 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-1071/</guid>
+        <description>LeetCode 1071. 字符串的最大公因子 已收录在 my LeetCode 题目 对于字符串 S 和 T，只有在 S = T + &amp;hellip; + T（T 与自身连接 1 次或多次）时，我们才认定 &amp;ldquo;T 能除尽 S&amp;quot;。</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>最大公约数</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 198</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-198/</link>
+        <pubDate>Sat, 28 Mar 2020 01:51:24 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 28 Mar 2020 01:51:24 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-198/</guid>
+        <description>LeetCode 198. 打家劫舍 已收录在 my LeetCode 题目 另一道差不多的题. 面试题 17.16. 按摩师, 这是 力扣原题传送门 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>动态规划</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>关于最大公约数</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/math-gcd/</link>
+        <pubDate>Sat, 28 Mar 2020 01:26:03 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 28 Mar 2020 01:26:03 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/math-gcd/</guid>
+        <description>最大公约数 先占个坑 😜</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>最大公约数</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>数学</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 914</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-914/</link>
+        <pubDate>Fri, 27 Mar 2020 23:32:29 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Fri, 27 Mar 2020 23:32:29 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-914/</guid>
+        <description>LeetCode 914. 卡牌分组 已收录在 my LeetCode 题目 给定一副牌，每张牌上都写着一个整数。 此时，你需要选定一个数字 X，使我们可以将整副牌按下述规则分成 1 组或更多组： 每</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>最大公约数</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Python 如何跳出多层循环</title>
@@ -216,11 +412,11 @@
       
       <item>
         <title>贝祖等式</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/bezu-identity/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/math-bezu-identity/</link>
         <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/bezu-identity/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/math-bezu-identity/</guid>
         <description>贝祖等式 这里只是简单的叙述 贝祖定理(裴蜀定理)。 参考 贝祖等式 参考 裴蜀定理 对任何整数 a，b 和它们的最大公约数 d，关于未知数 x 和 y 的线性不定方程</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -230,7 +426,7 @@
         
           
             
-              <category>bezu identity</category>
+              <category>贝祖定理</category>
             
           
         
@@ -244,7 +440,7 @@
         
           
             
-              <category>Math</category>
+              <category>数学</category>
             
           
         
@@ -292,11 +488,11 @@
       
       <item>
         <title>LeetCode 面试题 01.06</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-questions-0106/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-0106/</link>
         <pubDate>Sat, 21 Mar 2020 00:59:12 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 00:59:12 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-questions-0106/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-0106/</guid>
         <description>LeetCode 面试题 01.06. 字符串压缩 已收录在 my LeetCode 题目 字符串压缩。利用字符重复出现的次数，编写一种方法，实现基本的字符串压缩功能。 比如，字符串aabccccc</description>
         
         <dc:creator>Teletubby</dc:creator>

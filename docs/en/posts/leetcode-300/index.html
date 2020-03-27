@@ -1635,10 +1635,10 @@
 </div><h2 id="note">Note</h2>
 <ul>
 <li>There may be more than one LIS combination, it is only necessary for you to return the length.</li>
-<li>Your algorithm should run in O(n2) complexity.</li>
+<li>Your algorithm should run in O(N^2) complexity.</li>
 </ul>
 <h2 id="follow-up">Follow up</h2>
-<p>Could you improve it to O(n log n) time complexity?</p>
+<p>Could you improve it to O(NlogN) time complexity?</p>
 <h2 id="solution">Solution</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -1691,9 +1691,10 @@
 </code></pre></td></tr></table>
 </div>
 </div><h3 id="complexity-analysis">complexity analysis</h3>
+<p><code>nums</code> length is <em><strong>N</strong></em>. Update <em><strong>dp</strong></em> by using element in the list in order, and update <em><strong>dp</strong></em> need to perform binary search which time complexity is <em><strong>O(logN)</strong></em>.</p>
 <ul>
-<li>time complexity:</li>
-<li>Space complexity:</li>
+<li>time complexity:  <em><strong>O(NlogN)</strong></em></li>
+<li>Space complexity: <em><strong>O(N)</strong></em></li>
 </ul>
 
     </article>
