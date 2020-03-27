@@ -38,11 +38,11 @@
         
           
             
-              <category>DP</category>
+              <category>动态规划</category>
             
           
             
-              <category>BS</category>
+              <category>二分查找</category>
             
           
             
@@ -82,7 +82,7 @@
         
           
             
-              <category>greedy algorithm</category>
+              <category>贪心算法</category>
             
           
             
@@ -122,7 +122,7 @@
         
           
             
-              <category>hashTable</category>
+              <category>哈希表</category>
             
           
             
@@ -198,7 +198,7 @@
         
           
             
-              <category>hashTable</category>
+              <category>哈希表</category>
             
           
             
@@ -238,7 +238,7 @@
         
           
             
-              <category>hashTable</category>
+              <category>哈希表</category>
             
           
             

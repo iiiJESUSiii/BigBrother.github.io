@@ -44,6 +44,42 @@
 
       
       <item>
+        <title>Python 如何跳出多层循环</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/python-break-loop/</link>
+        <pubDate>Fri, 27 Mar 2020 10:37:35 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Fri, 27 Mar 2020 10:37:35 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-break-loop/</guid>
+        <description>我的 python 版本 是 3.7 如何跳出多层循环 已收录在 python daily tips 自定义异常 1 2 3 4 5 6 7 8 9 10 11 class GetOutOfLoop(Exception): pass try: for i in range(5): for j in range(5): if i == j == 2: raise GetOutOfLoop() else: print(i,&amp;#39;----&amp;#39;, j) except GetOutOfLoop: pass 将多层循环封</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>Python Daily Tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>#2 《瀑布联句》</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/poems-day-2/</link>
         <pubDate>Wed, 25 Mar 2020 14:45:12 +0800</pubDate>
@@ -131,11 +167,11 @@
         
           
             
-              <category>DP</category>
+              <category>动态规划</category>
             
           
             
-              <category>BS</category>
+              <category>二分查找</category>
             
           
             
@@ -175,7 +211,7 @@
         
           
             
-              <category>greedy algorithm</category>
+              <category>贪心算法</category>
             
           
             
@@ -323,7 +359,7 @@
         
           
             
-              <category>hashTable</category>
+              <category>哈希表</category>
             
           
             
@@ -435,7 +471,7 @@
         
           
             
-              <category>hashTable</category>
+              <category>哈希表</category>
             
           
             
@@ -619,7 +655,7 @@
         
           
             
-              <category>hashTable</category>
+              <category>哈希表</category>
             
           
             
