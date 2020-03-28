@@ -14,7 +14,7 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 28 Mar 2020 02:34:58 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 11:13:10 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,12 @@
 
       
       <item>
-        <title>double pointers</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/tags/double-pointers/</link>
-        <pubDate>Sat, 28 Mar 2020 02:34:58 +0800</pubDate>
+        <title>leetCodeEasy</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</link>
+        <pubDate>Sat, 28 Mar 2020 11:13:10 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/double-pointers/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -41,12 +41,30 @@
       </item>
       
       <item>
-        <title>leetCodeEasy</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</link>
+        <title>sieve of Eratosthenes</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/sieve-of-eratosthenes/</link>
+        <pubDate>Sat, 28 Mar 2020 11:13:10 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/sieve-of-eratosthenes/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>double pointers</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/double-pointers/</link>
         <pubDate>Sat, 28 Mar 2020 02:34:58 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/double-pointers/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>

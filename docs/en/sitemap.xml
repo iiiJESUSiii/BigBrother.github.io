@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://iiijesusiii.github.io/Teletubby/en/categories/</loc>
-    <lastmod>2020-03-28T02:34:58+08:00</lastmod>
+    <lastmod>2020-03-28T11:13:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -18,13 +18,8 @@
   </url>
   
   <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/en/tags/double-pointers/</loc>
-    <lastmod>2020-03-28T02:34:58+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://iiijesusiii.github.io/Teletubby/en/series/leetcode/</loc>
-    <lastmod>2020-03-28T02:34:58+08:00</lastmod>
+    <lastmod>2020-03-28T11:13:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -38,23 +33,23 @@
   </url>
   
   <url>
-    <loc>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-876/</loc>
-    <lastmod>2020-03-28T02:34:58+08:00</lastmod>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-204/</loc>
+    <lastmod>2020-03-28T11:13:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-876/"
+                href="https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-204/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-876/"
+                href="https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-204/"
                 />
   </url>
   
   <url>
     <loc>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</loc>
-    <lastmod>2020-03-28T02:34:58+08:00</lastmod>
+    <lastmod>2020-03-28T11:13:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -69,7 +64,7 @@
   
   <url>
     <loc>https://iiijesusiii.github.io/Teletubby/en/series/</loc>
-    <lastmod>2020-03-28T02:34:58+08:00</lastmod>
+    <lastmod>2020-03-28T11:13:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -83,8 +78,13 @@
   </url>
   
   <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/tags/sieve-of-eratosthenes/</loc>
+    <lastmod>2020-03-28T11:13:10+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://iiijesusiii.github.io/Teletubby/en/tags/</loc>
-    <lastmod>2020-03-28T02:34:58+08:00</lastmod>
+    <lastmod>2020-03-28T11:13:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -99,7 +99,7 @@
   
   <url>
     <loc>https://iiijesusiii.github.io/Teletubby/en/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/</loc>
-    <lastmod>2020-03-28T02:34:58+08:00</lastmod>
+    <lastmod>2020-03-28T11:13:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -109,6 +109,26 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iiijesusiii.github.io/Teletubby/en/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/tags/double-pointers/</loc>
+    <lastmod>2020-03-28T02:34:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-876/</loc>
+    <lastmod>2020-03-28T02:34:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-876/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-876/"
                 />
   </url>
   
