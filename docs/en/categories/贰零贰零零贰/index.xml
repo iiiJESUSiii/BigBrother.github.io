@@ -14,13 +14,105 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 28 Mar 2020 11:13:10 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode 365</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-365/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-365/</guid>
+        <description>LeetCode 365. Water and Jug Problem Included in my LeetCode Topic You are given two jugs with capacities x and y litres. There is an infinite amount of water supply available. You need to determine whether it is possible to measure exactly z litres using these two jugs. If z liters of water is measurable, you must have z liters of water contained within one or both buckets by the</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>gcd</category>
+            
+          
+            
+              <category>DFS</category>
+            
+          
+            
+              <category>BFS</category>
+            
+          
+            
+              <category>bezu identity</category>
+            
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode Interview Problems 17.16</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-1716/</link>
+        <pubDate>Sun, 29 Mar 2020 00:00:25 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 29 Mar 2020 00:00:25 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-1716/</guid>
+        <description>LeetCode Interview Problem 17.16. The Masseuse LCCI Included in my LeetCode Topic Another similar problem. House Robber, here is LeetCode portal A popular masseuse receives a sequence of back-to-back appointment requests and is debating which ones to accept. She needs a break between appointments and therefore she cannot accept any adjacent requests. Given a sequence of back-to-back appoint­ ment requests, find the optimal</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>DP</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>LeetCode 204</title>
@@ -533,7 +625,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 00:59:12 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0106/</guid>
-        <description>LeetCode Interview Questions 01.06. Compress String LCCI Included in my LeetCode Topic Implement a method to perform basic string compression using the counts of repeated characters. For example, the string aabcccccaaa would become a2blc5a3. If the &amp;ldquo;compressed&amp;rdquo; string would not become smaller than the original string, your method should return the original string. You can assume the string has only uppercase and lowercase letters (a - z). Example 1 2</description>
+        <description>LeetCode Interview Problem 01.06. Compress String LCCI Included in my LeetCode Topic Implement a method to perform basic string compression using the counts of repeated characters. For example, the string aabcccccaaa would become a2blc5a3. If the &amp;ldquo;compressed&amp;rdquo; string would not become smaller than the original string, your method should return the original string. You can assume the string has only uppercase and lowercase letters (a - z). Example 1 2</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -605,7 +697,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 15:50:19 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-409/</guid>
-        <description>LeetCode 409. Longest Palindrome Included in my LeetCode Topic Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters. This is case sensitive, for example &amp;ldquo;Aa&amp;rdquo; is not considered a palindrome here. Example 1 2 3 4 5 6 Input:&amp;#34;abccccdd&amp;#34; Output:7 Explanation: One longest palindrome that can be built is &amp;#34;dccaccd&amp;#34;, whose length is 7. Note</description>
+        <description>LeetCode 409. Longest Palindrome Included in my LeetCode Topic Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters. This is case sensitive, for example &amp;ldquo;Aa&amp;rdquo; is not considered a palindrome here. Example 1 2 3 4 5 Input:&amp;#34;abccccdd&amp;#34; Output:7 Explanation: One longest palindrome that can be built is &amp;#34;dccaccd&amp;#34;, whose length is 7. Note Assume</description>
         
         <dc:creator>Teletubby</dc:creator>
         

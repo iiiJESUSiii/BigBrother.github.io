@@ -14,7 +14,7 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 28 Mar 2020 11:13:10 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/series/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,7 +25,7 @@
       <item>
         <title>LeetCode</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/series/leetcode/</link>
-        <pubDate>Sat, 28 Mar 2020 11:13:10 +0800</pubDate>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
         <guid>https://iiijesusiii.github.io/Teletubby/zh/series/leetcode/</guid>

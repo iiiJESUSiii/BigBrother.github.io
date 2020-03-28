@@ -14,13 +14,105 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 28 Mar 2020 11:13:10 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode 365</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-365/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-365/</guid>
+        <description>LeetCode 365. 水壶问题 已收录在 my LeetCode 题目 有两个容量分别为 x升 和 y升 的水壶以及无限多的水。请判断能否通过使用这两个水壶，从而可以得到恰好 z升 的水？ 如果可以</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>最大公约数</category>
+            
+          
+            
+              <category>深度优先搜索</category>
+            
+          
+            
+              <category>广度优先搜索</category>
+            
+          
+            
+              <category>贝祖定理</category>
+            
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode Interview Problems 17.16</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-1716/</link>
+        <pubDate>Sun, 29 Mar 2020 00:00:25 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 29 Mar 2020 00:00:25 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-1716/</guid>
+        <description>LeetCode 面试题 17.16. 按摩师 已收录在 my LeetCode 题目 另一道差不多的题。 打家劫舍, here is LeetCode portal 一个有名的按摩师会收到源源不断的预约请求，每个预约都可以选择接或不接。在</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>动态规划</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>LeetCode 204</title>
@@ -149,7 +241,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 01:51:24 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-198/</guid>
-        <description>LeetCode 198. 打家劫舍 已收录在 my LeetCode 题目 另一道差不多的题. 面试题 17.16. 按摩师, 这是 力扣原题传送门 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的</description>
+        <description>LeetCode 198. 打家劫舍 已收录在 my LeetCode 题目 另一道差不多的题。 面试题 17.16. 按摩师, 这是 力扣原题传送门 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的</description>
         
         <dc:creator>Teletubby</dc:creator>
         

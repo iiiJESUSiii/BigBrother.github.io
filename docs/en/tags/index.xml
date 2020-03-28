@@ -14,7 +14,7 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 28 Mar 2020 11:13:10 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,9 +23,117 @@
 
       
       <item>
+        <title>bezu identity</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>BFS</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/bfs/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/bfs/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>DFS</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/dfs/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/dfs/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>gcd</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/gcd/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/gcd/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>leetCodeMed</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodemed/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodemed/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>DP</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/dp/</link>
+        <pubDate>Sun, 29 Mar 2020 00:00:25 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/dp/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>leetCodeEasy</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</link>
-        <pubDate>Sat, 28 Mar 2020 11:13:10 +0800</pubDate>
+        <pubDate>Sun, 29 Mar 2020 00:00:25 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
         <guid>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</guid>
@@ -77,42 +185,6 @@
       </item>
       
       <item>
-        <title>gcd</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/tags/gcd/</link>
-        <pubDate>Sat, 28 Mar 2020 02:22:28 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
-        
-        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/gcd/</guid>
-        <description></description>
-        
-        <dc:creator>Teletubby</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>DP</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/tags/dp/</link>
-        <pubDate>Sat, 28 Mar 2020 01:51:24 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
-        
-        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/dp/</guid>
-        <description></description>
-        
-        <dc:creator>Teletubby</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>python</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/tags/python/</link>
         <pubDate>Fri, 27 Mar 2020 10:37:35 +0800</pubDate>
@@ -149,48 +221,12 @@
       </item>
       
       <item>
-        <title>leetCodeMed</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodemed/</link>
-        <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
-        
-        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodemed/</guid>
-        <description></description>
-        
-        <dc:creator>Teletubby</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>greedy algorithm</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/tags/greedy-algorithm/</link>
         <pubDate>Sun, 22 Mar 2020 23:54:53 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
         <guid>https://iiijesusiii.github.io/Teletubby/en/tags/greedy-algorithm/</guid>
-        <description></description>
-        
-        <dc:creator>Teletubby</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>bezu identity</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/</link>
-        <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
-        
-        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>

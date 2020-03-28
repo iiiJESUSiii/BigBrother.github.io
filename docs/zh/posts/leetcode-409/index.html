@@ -1619,15 +1619,13 @@
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
-</span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-python" data-lang="python"><span class="err">输入</span><span class="p">:</span><span class="s2">&#34;abccccdd&#34;</span>
 
 <span class="err">输出</span><span class="p">:</span><span class="mi">7</span>
 
-<span class="err">解释</span><span class="p">:</span>
-<span class="err">我们可以构造的最长的回文串是</span><span class="s2">&#34;dccaccd&#34;</span><span class="p">,</span> <span class="err">它的长度是</span> <span class="mi">7</span><span class="err">。</span>
+<span class="err">解释</span><span class="p">:</span> <span class="err">我们可以构造的最长的回文串是</span><span class="s2">&#34;dccaccd&#34;</span><span class="p">,</span> <span class="err">它的长度是</span> <span class="mi">7</span><span class="err">。</span>
 </code></pre></td></tr></table>
 </div>
 </div><h2 id="留意">留意</h2>
@@ -1671,7 +1669,7 @@
         <span class="k">return</span> <span class="n">cnt</span>
 </code></pre></td></tr></table>
 </div>
-</div><h3 id="heading">Ⅱ</h3>
+</div><h3 id="方法二">方法二</h3>
 <p>另一种方法，我们可以反过来计算。<br />
 用输入字符串的长度 <code>len(s)</code> 减去 <code>oddCnt</code> (*奇数字母[2]*的个数)，然后再加上 <code>1</code> (如果 <code>oddCnt &gt; 0</code>)。</p>
 <div class="highlight"><div class="chroma">
@@ -2348,7 +2346,7 @@ document.addEventListener('DOMContentLoaded', function () {
     <li><a href="#题解">题解</a>
       <ul>
         <li><a href="#方法一">方法一</a></li>
-        <li><a href="#heading">Ⅱ</a></li>
+        <li><a href="#方法二">方法二</a></li>
         <li><a href="#注解">注解</a></li>
       </ul>
     </li>

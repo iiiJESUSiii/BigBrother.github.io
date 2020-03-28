@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>广度优先搜索 on 👌天线宝宝的博客</title>
+    <link>https://iiijesusiii.github.io/Teletubby/zh/tags/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/</link>
+    <description>Recent content in 广度优先搜索 on 👌天线宝宝的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
+    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
+    
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/tags/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>LeetCode 365</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-365/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-365/</guid>
+        <description>LeetCode 365. 水壶问题 已收录在 my LeetCode 题目 有两个容量分别为 x升 和 y升 的水壶以及无限多的水。请判断能否通过使用这两个水壶，从而可以得到恰好 z升 的水？ 如果可以</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>最大公约数</category>
+            
+          
+            
+              <category>深度优先搜索</category>
+            
+          
+            
+              <category>广度优先搜索</category>
+            
+          
+            
+              <category>贝祖定理</category>
+            
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

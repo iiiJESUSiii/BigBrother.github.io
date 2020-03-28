@@ -14,13 +14,65 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 23 Mar 2020 00:46:14 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/leetcodemed/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode 365</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-365/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-365/</guid>
+        <description>LeetCode 365. Water and Jug Problem Included in my LeetCode Topic You are given two jugs with capacities x and y litres. There is an infinite amount of water supply available. You need to determine whether it is possible to measure exactly z litres using these two jugs. If z liters of water is measurable, you must have z liters of water contained within one or both buckets by the</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>gcd</category>
+            
+          
+            
+              <category>DFS</category>
+            
+          
+            
+              <category>BFS</category>
+            
+          
+            
+              <category>bezu identity</category>
+            
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>LeetCode 300</title>
