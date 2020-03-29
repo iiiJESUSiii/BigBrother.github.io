@@ -44,6 +44,82 @@
 
       
       <item>
+        <title>Python 排序算法</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/python-sorting-algorithms/</link>
+        <pubDate>Mon, 30 Mar 2020 00:10:28 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Mon, 30 Mar 2020 00:10:28 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-sorting-algorithms/</guid>
+        <description>我的 python 版本 是 3.7 排序算法 已收录在 python daily tips 排序算法是用来根据元素上的比较运算符来对给定的数组或列表元素进行重新排序的。比较运算符是用来确定各个数据</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>Python Daily Tips</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>#3 《感遇》二首</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/poems-day-3/</link>
+        <pubDate>Sun, 29 Mar 2020 23:06:07 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 29 Mar 2020 23:06:07 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/poems-day-3/</guid>
+        <description>感遇 张九龄 【其一】 兰叶春葳蕤1，桂华秋皎洁。 欣欣此生意， 自尔为佳节。 谁知林栖者2，闻风坐相悦[3]。 草木有本心4，何求美人折5。 【其七】 江南</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>张九龄</category>
+            
+          
+            
+              <category>五言古诗</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零肆</category>
+            
+          
+        
+        
+          
+            
+              <category>唐诗</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>LeetCode 365</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-365/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>

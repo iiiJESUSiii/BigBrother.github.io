@@ -14,13 +14,49 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 27 Mar 2020 10:37:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 00:10:28 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Python 排序算法</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/python-sorting-algorithms/</link>
+        <pubDate>Mon, 30 Mar 2020 00:10:28 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Mon, 30 Mar 2020 00:10:28 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-sorting-algorithms/</guid>
+        <description>我的 python 版本 是 3.7 排序算法 已收录在 python daily tips 排序算法是用来根据元素上的比较运算符来对给定的数组或列表元素进行重新排序的。比较运算符是用来确定各个数据</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>Python Daily Tips</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Python 如何跳出多层循环</title>
