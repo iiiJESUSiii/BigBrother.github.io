@@ -1614,33 +1614,17 @@
 <p>Given an array of integers <em><strong>A</strong></em>, a move consists of choosing any <em><strong>A[i]</strong></em>, and incrementing it by <em><strong>1</strong></em>.<br />
 Return the least number of moves to make every value in <em><strong>A</strong></em> unique.</p>
 <h2 id="example">Example</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">Input</span><span class="p">:</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">]</span>
-<span class="n">Output</span><span class="p">:</span> <span class="mi">1</span>
-<span class="n">Explanation</span><span class="p">:</span>
-<span class="n">After</span> <span class="mi">1</span> <span class="n">move</span><span class="p">,</span> <span class="n">the</span> <span class="n">array</span> <span class="n">could</span> <span class="n">be</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">]</span><span class="o">.</span>
+<pre><code>Input: [1,2,2]
+Output: 1
+Explanation:
+After 1 move, the array could be [1, 2, 3].
 
-<span class="n">Input</span><span class="p">:</span> <span class="p">[</span><span class="mi">3</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">7</span><span class="p">]</span>
-<span class="n">Output</span><span class="p">:</span> <span class="mi">6</span>
-<span class="n">Explanation</span><span class="p">:</span>
-<span class="n">After</span> <span class="mi">6</span> <span class="n">moves</span><span class="p">,</span> <span class="n">the</span> <span class="n">array</span> <span class="n">could</span> <span class="n">be</span> <span class="p">[</span><span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">7</span><span class="p">]</span><span class="o">.</span>
-<span class="n">It</span> <span class="n">can</span> <span class="n">be</span> <span class="n">shown</span> <span class="k">with</span> <span class="mi">5</span> <span class="ow">or</span> <span class="n">less</span> <span class="n">moves</span> <span class="n">that</span> <span class="n">it</span> <span class="ow">is</span> <span class="n">impossible</span> <span class="k">for</span> <span class="n">the</span> <span class="n">array</span> <span class="n">to</span> <span class="n">have</span> <span class="nb">all</span> <span class="n">unique</span> <span class="n">values</span><span class="o">.</span>
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="note">Note</h2>
+Input: [3,2,1,2,1,7]
+Output: 6
+Explanation:
+After 6 moves, the array could be [3, 4, 1, 2, 5, 7].
+It can be shown with 5 or less moves that it is impossible for the array to have all unique values.
+</code></pre><h2 id="note">Note</h2>
 <ol>
 <li>0 &lt;= A.length &lt;= 40000</li>
 <li>0 &lt;= A[i] &lt; 40000</li>

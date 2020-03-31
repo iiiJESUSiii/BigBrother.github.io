@@ -1612,33 +1612,17 @@
 <p>给定整数数组 <em><strong>A</strong></em>，每次 move 操作将会选择任意 <em><strong>A[i]</strong></em>，并将其递增 <em><strong>1</strong></em>。<br />
 返回使 <em><strong>A</strong></em> 中的每个值都是唯一的最少操作次数。</p>
 <h2 id="示例">示例</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="err">输入：</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">]</span>
-<span class="err">输出：</span><span class="mi">1</span>
-<span class="err">解释：</span>
-<span class="err">经过一次</span> <span class="n">move</span> <span class="err">操作，数组将变为</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">]</span><span class="err">。</span>
+<pre><code>输入：[1,2,2]
+输出：1
+解释：
+经过一次 move 操作，数组将变为 [1, 2, 3]。
 
-<span class="err">输入：</span><span class="p">[</span><span class="mi">3</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">7</span><span class="p">]</span>
-<span class="err">输出：</span><span class="mi">6</span>
-<span class="err">解释：</span>
-<span class="err">经过</span> <span class="mi">6</span> <span class="err">次</span> <span class="n">move</span> <span class="err">操作，数组将变为</span> <span class="p">[</span><span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">7</span><span class="p">]</span><span class="err">。</span>
-<span class="err">可以看出</span> <span class="mi">5</span> <span class="err">次或</span> <span class="mi">5</span> <span class="err">次以下的</span> <span class="n">move</span> <span class="err">操作是不能让数组的每个值唯一的。</span>
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="留意">留意</h2>
+输入：[3,2,1,2,1,7]
+输出：6
+解释：
+经过 6 次 move 操作，数组将变为 [3, 4, 1, 2, 5, 7]。
+可以看出 5 次或 5 次以下的 move 操作是不能让数组的每个值唯一的。
+</code></pre><h2 id="留意">留意</h2>
 <ol>
 <li>0 &lt;= A.length &lt;= 40000</li>
 <li>0 &lt;= A[i] &lt; 40000</li>

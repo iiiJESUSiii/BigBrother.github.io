@@ -1610,27 +1610,14 @@
 比如，字符串aabcccccaaa会变为a2b1c5a3。若&quot;压缩&quot;后的字符串没有变短，则返回原先的字符串。<br />
 你可以假设字符串中只包含大小写英文字母（a至z）。</p>
 <h2 id="示例">示例</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="err">输入：</span><span class="s2">&#34;aabcccccaaa&#34;</span>
-<span class="err">输出：</span><span class="s2">&#34;a2b1c5a3&#34;</span>
+<pre><code>输入：&quot;aabcccccaaa&quot;
+输出：&quot;a2b1c5a3&quot;
 
-<span class="err">输入：</span><span class="s2">&#34;abbccd&#34;</span>
-<span class="err">输出：</span><span class="s2">&#34;abbccd&#34;</span>
-<span class="err">解释：</span>
-<span class="s2">&#34;abbccd&#34;</span> <span class="err">压缩后为</span><span class="s2">&#34;a1b2c2d1&#34;</span><span class="err">，比原字符串长度更长。</span>
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="留意">留意</h2>
+输入：&quot;abbccd&quot;
+输出：&quot;abbccd&quot;
+解释：
+&quot;abbccd&quot; 压缩后为&quot;a1b2c2d1&quot;，比原字符串长度更长。
+</code></pre><h2 id="留意">留意</h2>
 <p>字符串长度在[0, 50000]范围内。</p>
 <h2 id="题解">题解</h2>
 <p>使用 <em>f-string</em> 会更快。<br />

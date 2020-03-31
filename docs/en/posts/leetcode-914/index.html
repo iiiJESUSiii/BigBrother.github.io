@@ -1618,61 +1618,31 @@ Return <em><strong>true</strong></em> if and only if you can choose <em><strong>
 <li>All the cards in each group have the same integer.</li>
 </ul>
 <h2 id="example">Example</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span><span class="lnt">17
-</span><span class="lnt">18
-</span><span class="lnt">19
-</span><span class="lnt">20
-</span><span class="lnt">21
-</span><span class="lnt">22
-</span><span class="lnt">23
-</span><span class="lnt">24
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">Input</span><span class="p">:</span> <span class="n">deck</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">1</span><span class="p">]</span>
-<span class="n">Output</span><span class="p">:</span> <span class="n">true</span>
-<span class="n">Explanation</span><span class="p">:</span>
-<span class="n">Possible</span> <span class="n">partition</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">],[</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">],[</span><span class="mi">3</span><span class="p">,</span><span class="mi">3</span><span class="p">],[</span><span class="mi">4</span><span class="p">,</span><span class="mi">4</span><span class="p">]</span><span class="o">.</span>
+<pre><code>Input: deck = [1,2,3,4,4,3,2,1]
+Output: true
+Explanation:
+Possible partition [1,1],[2,2],[3,3],[4,4].
 
-<span class="n">Input</span><span class="p">:</span> <span class="n">deck</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">3</span><span class="p">]</span>
-<span class="n">Output</span><span class="p">:</span> <span class="n">false</span><span class="err">´</span>
-<span class="n">Explanation</span><span class="p">:</span>
-<span class="n">No</span> <span class="n">possible</span> <span class="n">partition</span><span class="o">.</span>
+Input: deck = [1,1,1,2,2,2,3,3]
+Output: false´
+Explanation:
+No possible partition.
 
-<span class="n">Input</span><span class="p">:</span> <span class="n">deck</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">]</span>
-<span class="n">Output</span><span class="p">:</span> <span class="n">false</span>
-<span class="n">Explanation</span><span class="p">:</span>
-<span class="n">No</span> <span class="n">possible</span> <span class="n">partition</span><span class="o">.</span>
+Input: deck = [1]
+Output: false
+Explanation:
+No possible partition.
 
-<span class="n">Input</span><span class="p">:</span> <span class="n">deck</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">]</span>
-<span class="n">Output</span><span class="p">:</span> <span class="n">true</span>
-<span class="n">Explanation</span><span class="p">:</span>
-<span class="n">Possible</span> <span class="n">partition</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span>
+Input: deck = [1,1]
+Output: true
+Explanation:
+Possible partition [1,1].
 
-<span class="n">Input</span><span class="p">:</span> <span class="n">deck</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">]</span>
-<span class="n">Output</span><span class="p">:</span> <span class="n">true</span>
-<span class="n">Explanation</span><span class="p">:</span>
-<span class="n">Possible</span> <span class="n">partition</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">],[</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">],[</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">]</span><span class="o">.</span>
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="note">Note</h2>
+Input: deck = [1,1,2,2,2,2]
+Output: true
+Explanation:
+Possible partition [1,1],[2,2],[2,2].
+</code></pre><h2 id="note">Note</h2>
 <ul>
 <li>1 &lt;= deck.length &lt;= 10^4</li>
 <li>0 &lt;= deck[i] &lt; 10^4</li>

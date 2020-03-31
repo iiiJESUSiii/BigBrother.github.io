@@ -29,7 +29,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Tue, 31 Mar 2020 14:00:09 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-892/</guid>
-        <description>LeetCode 892. 三维形体的表面积 Included in my LeetCode Topic 在 N * N的网格上，我们放置一些 1 * 1 * 1 的立方体。 每个值 v = grid[i][j] 表示 v 个正方体叠放在对应单元格 (i, j) 上。 请你返回最</description>
+        <description>LeetCode 892. 三维形体的表面积 已收录在 my LeetCode 题目 在 N * N的网格上，我们放置一些 1 * 1 * 1 的立方体。 每个值 v = grid[i][j] 表示 v 个正方体叠放在对应单元格 (i, j) 上。 请你</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -233,7 +233,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 11:13:10 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-204/</guid>
-        <description>LeetCode 204. 计数质数 已收录在 my LeetCode 题目 统计所有小于非负整数 n 的质数的数量。 示例 1 2 3 输入: 10 输出: 4 解释: 小于 10 的质数一共有 4 个, 它们是 2, 3, 5, 7 。 题解</description>
+        <description>LeetCode 204. 计数质数 已收录在 my LeetCode 题目 统计所有小于非负整数 n 的质数的数量。 示例 输入: 10 输出: 4 解释: 小于 10 的质数一共有 4 个, 它们是 2, 3, 5, 7 。 题解 埃拉托</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -273,7 +273,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:34:58 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-876/</guid>
-        <description>LeetCode 876. 链表的中间结点 已收录在 my LeetCode 题目 给定一个带有头结点 head 的非空单链表，返回链表的中间结点。 如果有两个中间结点，则返回第二个中间结点。 示例 1 2 3</description>
+        <description>LeetCode 876. 链表的中间结点 已收录在 my LeetCode 题目 给定一个带有头结点 head 的非空单链表，返回链表的中间结点。 如果有两个中间结点，则返回第二个中间结点。 示例 输入：</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -505,7 +505,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-300/</guid>
-        <description>LeetCode 300. 最长上升子序列 已收录在 my LeetCode 题目 给定一个无序的整数数组，找到其中最长上升子序列的长度。 示例 1 2 3 4 输入: [10,9,2,5,3,7,101,18] 输出: 4 解释: 最长的上升子序列是</description>
+        <description>LeetCode 300. 最长上升子序列 已收录在 my LeetCode 题目 给定一个无序的整数数组，找到其中最长上升子序列的长度。 示例 输入: [10,9,2,5,3,7,101,18] 输出: 4 解释: 最长的上升子序列是 [2,3</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -697,7 +697,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 13:58:09 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-67/</guid>
-        <description>LeetCode 67. 二进制求和 已收录在 my LeetCode 题目 给定两个二进制字符串，返回他们的和（用二进制表示）。 输入为 非空 字符串且只包含数字 1 和 0。 示例 1 2 3 4 5 输入: a</description>
+        <description>LeetCode 67. 二进制求和 已收录在 my LeetCode 题目 给定两个二进制字符串，返回他们的和（用二进制表示）。 输入为 非空 字符串且只包含数字 1 和 0。 示例 输入: a = &amp;quot;11&amp;quot;, b = &amp;quot;1&amp;quot;</description>
         
         <dc:creator>Teletubby</dc:creator>
         

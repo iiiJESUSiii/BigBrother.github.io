@@ -81,7 +81,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:22:28 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1071/</guid>
-        <description>LeetCode 1071. Greatest Common Divisor of Strings Included in my LeetCode Topic For strings S and T, we say &amp;ldquo;T divides S&amp;rdquo; if and only if S = T + &amp;hellip; + T (T concatenated with itself 1 or more times) Return the largest string X such that X divides str1 and X divides str2. Example 1 2 3 4 5 6 7 8 Input: str1 = &amp;#34;ABCABC&amp;#34;, str2 =</description>
+        <description>LeetCode 1071. Greatest Common Divisor of Strings Included in my LeetCode Topic For strings S and T, we say &amp;ldquo;T divides S&amp;rdquo; if and only if S = T + &amp;hellip; + T (T concatenated with itself 1 or more times) Return the largest string X such that X divides str1 and X divides str2. Example Input: str1 = &amp;quot;ABCABC&amp;quot;, str2 = &amp;quot;ABC&amp;quot; Output: &amp;quot;ABC&amp;quot; Input: str1 = &amp;quot;ABABAB&amp;quot;, str2</description>
         
         <dc:creator>Teletubby</dc:creator>
         

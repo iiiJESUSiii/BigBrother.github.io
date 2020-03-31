@@ -1610,27 +1610,14 @@
 For example, the string <em>aabcccccaaa</em> would become <em>a2blc5a3</em>. If the &ldquo;compressed&rdquo; string would not become smaller than the original string, your method should return the original string.<br />
 You can assume the string has only uppercase and lowercase letters (a - z).</p>
 <h2 id="example">Example</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">Input</span><span class="p">:</span> <span class="s2">&#34;aabcccccaaa&#34;</span>
-<span class="n">Output</span><span class="p">:</span> <span class="s2">&#34;a2b1c5a3&#34;</span>
+<pre><code>Input: &quot;aabcccccaaa&quot;
+Output: &quot;a2b1c5a3&quot;
 
-<span class="n">Input</span><span class="p">:</span> <span class="s2">&#34;abbccd&#34;</span>
-<span class="n">Output</span><span class="p">:</span> <span class="s2">&#34;abbccd&#34;</span>
-<span class="n">Explanation</span><span class="p">:</span> 
-<span class="n">The</span> <span class="n">compressed</span> <span class="n">string</span> <span class="ow">is</span> <span class="s2">&#34;a1b2c2d1&#34;</span><span class="p">,</span> <span class="n">which</span> <span class="ow">is</span> <span class="n">longer</span> <span class="n">than</span> <span class="n">the</span> <span class="n">original</span> <span class="n">string</span><span class="o">.</span>
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="note">Note</h2>
+Input: &quot;abbccd&quot;
+Output: &quot;abbccd&quot;
+Explanation: 
+The compressed string is &quot;a1b2c2d1&quot;, which is longer than the original string.
+</code></pre><h2 id="note">Note</h2>
 <p>0 &lt;= S.length &lt;= 50000</p>
 <h2 id="solution">Solution</h2>
 <p>Use <em>f-string</em> is faster.<br />

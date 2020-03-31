@@ -29,7 +29,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 30 Mar 2020 22:07:04 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-62/</guid>
-        <description>LeetCode Interview Problem 62 The last number left in the circle Included in my LeetCode Topic n numbers from 0 to n-1 are arranged to a circle. Starting with the number 0 and deleting the mth number from the circle each time. Find the last number left in this circle. Example 1 2 3 4 5 6 7 Input: n = 5, m = 3 Output: 3 Explanation: Numbers deleted</description>
+        <description>LeetCode Interview Problem 62 The last number left in the circle Included in my LeetCode Topic n numbers from 0 to n-1 are arranged to a circle. Starting with the number 0 and deleting the mth number from the circle each time. Find the last number left in this circle. Example Input: n = 5, m = 3 Output: 3 Explanation: Numbers deleted each time are 2, 0, 4, 1,</description>
         
         <dc:creator>Teletubby</dc:creator>
         

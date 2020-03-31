@@ -65,7 +65,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 30 Mar 2020 22:07:04 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-62/</guid>
-        <description>LeetCode Interview Problem 62 The last number left in the circle Included in my LeetCode Topic n numbers from 0 to n-1 are arranged to a circle. Starting with the number 0 and deleting the mth number from the circle each time. Find the last number left in this circle. Example 1 2 3 4 5 6 7 Input: n = 5, m = 3 Output: 3 Explanation: Numbers deleted</description>
+        <description>LeetCode Interview Problem 62 The last number left in the circle Included in my LeetCode Topic n numbers from 0 to n-1 are arranged to a circle. Starting with the number 0 and deleting the mth number from the circle each time. Find the last number left in this circle. Example Input: n = 5, m = 3 Output: 3 Explanation: Numbers deleted each time are 2, 0, 4, 1,</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -233,7 +233,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 11:13:10 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-204/</guid>
-        <description>LeetCode 204. Count Primes Included in my LeetCode Topic Count the number of prime numbers less than a non-negative number, n. Example 1 2 3 4 Input: 10 Output: 4 Explanation: There are 4 prime numbers less than 10, they are 2, 3, 5, 7. Solution sieve of Eratosthenes. Code 1 2 3 4 5 6 7 8 9 10 11 class Solution: def countPrimes(self, n: int) -&amp;gt; int: if</description>
+        <description>LeetCode 204. Count Primes Included in my LeetCode Topic Count the number of prime numbers less than a non-negative number, n. Example Input: 10 Output: 4 Explanation: There are 4 prime numbers less than 10, they are 2, 3, 5, 7. Solution sieve of Eratosthenes. Code 1 2 3 4 5 6 7 8 9 10 11 class Solution: def countPrimes(self, n: int) -&amp;gt; int: if n &amp;lt; 2: return</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -273,7 +273,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:34:58 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-876/</guid>
-        <description>LeetCode 876. Middle of the Linked List Included in my LeetCode Topic Given a non-empty, singly linked list with head node head, return a middle node of linked list. If there are two middle nodes, return the second middle node. Example 1 2 3 4 5 6 7 8 9 Input: [1,2,3,4,5] Output: Node 3 from this list (Serialization: [3,4,5]) The returned node has value 3. (The judge&amp;#39;s serialization of</description>
+        <description>LeetCode 876. Middle of the Linked List Included in my LeetCode Topic Given a non-empty, singly linked list with head node head, return a middle node of linked list. If there are two middle nodes, return the second middle node. Example Input: [1,2,3,4,5] Output: Node 3 from this list (Serialization: [3,4,5]) The returned node has value 3. (The judge&#39;s serialization of this node is [3,4,5]). Note that we returned a</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -313,7 +313,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:22:28 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1071/</guid>
-        <description>LeetCode 1071. Greatest Common Divisor of Strings Included in my LeetCode Topic For strings S and T, we say &amp;ldquo;T divides S&amp;rdquo; if and only if S = T + &amp;hellip; + T (T concatenated with itself 1 or more times) Return the largest string X such that X divides str1 and X divides str2. Example 1 2 3 4 5 6 7 8 Input: str1 = &amp;#34;ABCABC&amp;#34;, str2 =</description>
+        <description>LeetCode 1071. Greatest Common Divisor of Strings Included in my LeetCode Topic For strings S and T, we say &amp;ldquo;T divides S&amp;rdquo; if and only if S = T + &amp;hellip; + T (T concatenated with itself 1 or more times) Return the largest string X such that X divides str1 and X divides str2. Example Input: str1 = &amp;quot;ABCABC&amp;quot;, str2 = &amp;quot;ABC&amp;quot; Output: &amp;quot;ABC&amp;quot; Input: str1 = &amp;quot;ABABAB&amp;quot;, str2</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -505,7 +505,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</guid>
-        <description>LeetCode 300. Longest Increasing Subsequence Included in my LeetCode Topic Given an unsorted array of integers, find the length of longest increasing subsequence. Example 1 2 3 4 Input: [10,9,2,5,3,7,101,18] Output: 4 Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4. Note There may be more than one LIS combination, it is only necessary for you to return the length. Your algorithm should run in O(N^2) complexity.</description>
+        <description>LeetCode 300. Longest Increasing Subsequence Included in my LeetCode Topic Given an unsorted array of integers, find the length of longest increasing subsequence. Example Input: [10,9,2,5,3,7,101,18] Output: 4 Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4. Note There may be more than one LIS combination, it is only necessary for you to return the length. Your algorithm should run in O(N^2) complexity. Follow up Could you</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -549,7 +549,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 22 Mar 2020 23:54:53 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-945/</guid>
-        <description>LeetCode 945. Minimum Increment to Make Array Unique Included in my LeetCode Topic Given an array of integers A, a move consists of choosing any A[i], and incrementing it by 1. Return the least number of moves to make every value in A unique. Example 1 2 3 4 5 6 7 8 9 10 Input: [1,2,2] Output: 1 Explanation: After 1 move, the array could be [1, 2, 3].</description>
+        <description>LeetCode 945. Minimum Increment to Make Array Unique Included in my LeetCode Topic Given an array of integers A, a move consists of choosing any A[i], and incrementing it by 1. Return the least number of moves to make every value in A unique. Example Input: [1,2,2] Output: 1 Explanation: After 1 move, the array could be [1, 2, 3]. Input: [3,2,1,2,1,7] Output: 6 Explanation: After 6 moves, the array</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -697,7 +697,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 13:58:09 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-67/</guid>
-        <description>LeetCode 67. Add Binary Included in my LeetCode Topic Given two binary strings, return their sum (also a binary string). The input strings are both non-empty and contains only characters 1 or 0. Example 1 2 3 4 5 Input: a = &amp;#34;11&amp;#34;, b = &amp;#34;1&amp;#34; Output: &amp;#34;100&amp;#34; Input: a = &amp;#34;1010&amp;#34;, b = &amp;#34;1011&amp;#34; Output: &amp;#34;10101&amp;#34; Solution Ⅰ in-built function No more words.😂</description>
+        <description>LeetCode 67. Add Binary Included in my LeetCode Topic Given two binary strings, return their sum (also a binary string). The input strings are both non-empty and contains only characters 1 or 0. Example Input: a = &amp;quot;11&amp;quot;, b = &amp;quot;1&amp;quot; Output: &amp;quot;100&amp;quot; Input: a = &amp;quot;1010&amp;quot;, b = &amp;quot;1011&amp;quot; Output: &amp;quot;10101&amp;quot; Solution Ⅰ in-built function No more words.😂 Code 1 2 3 class</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -737,7 +737,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 00:59:12 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0106/</guid>
-        <description>LeetCode Interview Problem 01.06. Compress String LCCI Included in my LeetCode Topic Implement a method to perform basic string compression using the counts of repeated characters. For example, the string aabcccccaaa would become a2blc5a3. If the &amp;ldquo;compressed&amp;rdquo; string would not become smaller than the original string, your method should return the original string. You can assume the string has only uppercase and lowercase letters (a - z). Example 1 2</description>
+        <description>LeetCode Interview Problem 01.06. Compress String LCCI Included in my LeetCode Topic Implement a method to perform basic string compression using the counts of repeated characters. For example, the string aabcccccaaa would become a2blc5a3. If the &amp;ldquo;compressed&amp;rdquo; string would not become smaller than the original string, your method should return the original string. You can assume the string has only uppercase and lowercase letters (a - z). Example Input: &amp;quot;aabcccccaaa&amp;quot;</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -809,7 +809,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 15:50:19 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-409/</guid>
-        <description>LeetCode 409. Longest Palindrome Included in my LeetCode Topic Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters. This is case sensitive, for example &amp;ldquo;Aa&amp;rdquo; is not considered a palindrome here. Example 1 2 3 4 5 Input:&amp;#34;abccccdd&amp;#34; Output:7 Explanation: One longest palindrome that can be built is &amp;#34;dccaccd&amp;#34;, whose length is 7. Note Assume</description>
+        <description>LeetCode 409. Longest Palindrome Included in my LeetCode Topic Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters. This is case sensitive, for example &amp;ldquo;Aa&amp;rdquo; is not considered a palindrome here. Example Input:&amp;quot;abccccdd&amp;quot; Output:7 Explanation: One longest palindrome that can be built is &amp;quot;dccaccd&amp;quot;, whose length is 7. Note Assume the length of given string</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -997,7 +997,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 22:58:28 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1160/</guid>
-        <description>LeetCode 1160. Find Words That Can Be Formed by Characters Included in my LeetCode Topic You are given an array of strings words and a string chars. A string is good if it can be formed by characters from chars (each character can only be used once). Return the sum of lengths of all good strings in words. Example 1 2 3 4 5 6 7 8 9 Input: words</description>
+        <description>LeetCode 1160. Find Words That Can Be Formed by Characters Included in my LeetCode Topic You are given an array of strings words and a string chars. A string is good if it can be formed by characters from chars (each character can only be used once). Return the sum of lengths of all good strings in words. Example Input: words = [&amp;quot;cat&amp;quot;,&amp;quot;bt&amp;quot;,&amp;quot;hat&amp;quot;,&amp;quot;tree&amp;quot;], chars = &amp;quot;atach&amp;quot; Output: 6 Explanation: The</description>
         
         <dc:creator>Teletubby</dc:creator>
         

@@ -29,7 +29,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-300/</guid>
-        <description>LeetCode 300. 最长上升子序列 已收录在 my LeetCode 题目 给定一个无序的整数数组，找到其中最长上升子序列的长度。 示例 1 2 3 4 输入: [10,9,2,5,3,7,101,18] 输出: 4 解释: 最长的上升子序列是</description>
+        <description>LeetCode 300. 最长上升子序列 已收录在 my LeetCode 题目 给定一个无序的整数数组，找到其中最长上升子序列的长度。 示例 输入: [10,9,2,5,3,7,101,18] 输出: 4 解释: 最长的上升子序列是 [2,3</description>
         
         <dc:creator>Teletubby</dc:creator>
         

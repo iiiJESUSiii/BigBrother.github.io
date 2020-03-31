@@ -1614,29 +1614,15 @@
 <p>For strings <em><strong>S</strong></em> and <em><strong>T</strong></em>, we say &ldquo;<em><strong>T</strong></em> divides <em><strong>S</strong></em>&rdquo; if and only if <em><strong>S = T + &hellip; + T</strong></em> (<em><strong>T</strong></em> concatenated with itself 1 or more times)<br />
 Return the largest string <em><strong>X</strong></em> such that <em><strong>X</strong></em> divides <em>str1</em> and <em><strong>X</strong></em> divides <em>str2</em>.</p>
 <h2 id="example">Example</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span><span class="lnt">8
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">Input</span><span class="p">:</span> <span class="n">str1</span> <span class="o">=</span> <span class="s2">&#34;ABCABC&#34;</span><span class="p">,</span> <span class="n">str2</span> <span class="o">=</span> <span class="s2">&#34;ABC&#34;</span>
-<span class="n">Output</span><span class="p">:</span> <span class="s2">&#34;ABC&#34;</span>
+<pre><code>Input: str1 = &quot;ABCABC&quot;, str2 = &quot;ABC&quot;
+Output: &quot;ABC&quot;
 
-<span class="n">Input</span><span class="p">:</span> <span class="n">str1</span> <span class="o">=</span> <span class="s2">&#34;ABABAB&#34;</span><span class="p">,</span> <span class="n">str2</span> <span class="o">=</span> <span class="s2">&#34;ABAB&#34;</span>
-<span class="n">Output</span><span class="p">:</span> <span class="s2">&#34;AB&#34;</span>
+Input: str1 = &quot;ABABAB&quot;, str2 = &quot;ABAB&quot;
+Output: &quot;AB&quot;
 
-<span class="n">Input</span><span class="p">:</span> <span class="n">str1</span> <span class="o">=</span> <span class="s2">&#34;LEET&#34;</span><span class="p">,</span> <span class="n">str2</span> <span class="o">=</span> <span class="s2">&#34;CODE&#34;</span>
-<span class="n">Output</span><span class="p">:</span> <span class="s2">&#34;&#34;</span>
-</code></pre></td></tr></table>
-</div>
-</div><h2 id="note">Note</h2>
+Input: str1 = &quot;LEET&quot;, str2 = &quot;CODE&quot;
+Output: &quot;&quot;
+</code></pre><h2 id="note">Note</h2>
 <ul>
 <li>1 &lt;= str1.length &lt;= 1000</li>
 <li>1 &lt;= str2.length &lt;= 1000</li>
