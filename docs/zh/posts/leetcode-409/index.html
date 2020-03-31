@@ -1635,6 +1635,7 @@
 <p>在回文串的最中间可以有<em>奇数字母[2]</em>。<br />
 因此先使用 <code>collections.Counter</code> 创建一个字典（<code>dict</code>）哈希表，来记录各个字母的数量。<br />
 遍历哈希表，如果该字母为<em>偶数字母[1]</em>，<code>cnt += Counter[letter].value()</code>，否则 <code>cnt += Counter[letter].value() - 1</code>(为了保证添加的字母都是偶数个，可以构成回文串)，然后 <code>cnt += 1</code>。</p>
+<h4 id="代码实现">代码实现</h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1
@@ -1672,6 +1673,7 @@
 </div><h3 id="方法二">方法二</h3>
 <p>另一种方法，我们可以反过来计算。<br />
 用输入字符串的长度 <code>len(s)</code> 减去 <code>oddCnt</code> (*奇数字母[2]*的个数)，然后再加上 <code>1</code> (如果 <code>oddCnt &gt; 0</code>)。</p>
+<h4 id="代码实现-1">代码实现</h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1

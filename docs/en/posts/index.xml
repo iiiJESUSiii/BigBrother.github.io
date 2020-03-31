@@ -23,6 +23,82 @@
 
       
       <item>
+        <title>LeetCode 892</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-892/</link>
+        <pubDate>Tue, 31 Mar 2020 14:00:09 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Tue, 31 Mar 2020 14:00:09 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-892/</guid>
+        <description>LeetCode 892. Surface Area of 3D Shapes Included in my LeetCode Topic On a N * N grid, we place some 1 * 1 * 1 cubes. Each value v = grid[i][j] represents a tower of v cubes placed on top of grid cell (i, j). Return the total surface area of the resulting shapes. Example Input: [[2]] Output: 10 Input: [[1,2],[3,4]] Output: 34 Input: [[1,0],[0,2]] Output: 16 Input: [[1,1,1],[1,0,1],[1,1,1]]</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode Interview Problems 62</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-62/</link>
+        <pubDate>Mon, 30 Mar 2020 22:07:04 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Mon, 30 Mar 2020 22:07:04 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-62/</guid>
+        <description>LeetCode Interview Problem 62 The last number left in the circle Included in my LeetCode Topic n numbers from 0 to n-1 are arranged to a circle. Starting with the number 0 and deleting the mth number from the circle each time. Find the last number left in this circle. Example 1 2 3 4 5 6 7 Input: n = 5, m = 3 Output: 3 Explanation: Numbers deleted</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Josephus problem</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Python Sorting Algorithms</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-sorting-algorithms/</link>
         <pubDate>Mon, 30 Mar 2020 00:10:28 +0800</pubDate>
@@ -157,7 +233,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 11:13:10 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-204/</guid>
-        <description>LeetCode 204. Count Primes Included in my LeetCode Topic Count the number of prime numbers less than a non-negative number, n. Example 1 2 3 4 Input: 10 Output: 4 Explanation: There are 4 prime numbers less than 10, they are 2, 3, 5, 7. Solution sieve of Eratosthenes. 1 2 3 4 5 6 7 8 9 10 11 class Solution: def countPrimes(self, n: int) -&amp;gt; int: if n</description>
+        <description>LeetCode 204. Count Primes Included in my LeetCode Topic Count the number of prime numbers less than a non-negative number, n. Example 1 2 3 4 Input: 10 Output: 4 Explanation: There are 4 prime numbers less than 10, they are 2, 3, 5, 7. Solution sieve of Eratosthenes. Code 1 2 3 4 5 6 7 8 9 10 11 class Solution: def countPrimes(self, n: int) -&amp;gt; int: if</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -621,7 +697,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 13:58:09 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-67/</guid>
-        <description>LeetCode 67. Add Binary Included in my LeetCode Topic Given two binary strings, return their sum (also a binary string). The input strings are both non-empty and contains only characters 1 or 0. Example 1 2 3 4 5 Input: a = &amp;#34;11&amp;#34;, b = &amp;#34;1&amp;#34; Output: &amp;#34;100&amp;#34; Input: a = &amp;#34;1010&amp;#34;, b = &amp;#34;1011&amp;#34; Output: &amp;#34;10101&amp;#34; Solution Ⅰ No more words.😂 1 2</description>
+        <description>LeetCode 67. Add Binary Included in my LeetCode Topic Given two binary strings, return their sum (also a binary string). The input strings are both non-empty and contains only characters 1 or 0. Example 1 2 3 4 5 Input: a = &amp;#34;11&amp;#34;, b = &amp;#34;1&amp;#34; Output: &amp;#34;100&amp;#34; Input: a = &amp;#34;1010&amp;#34;, b = &amp;#34;1011&amp;#34; Output: &amp;#34;10101&amp;#34; Solution Ⅰ in-built function No more words.😂</description>
         
         <dc:creator>Teletubby</dc:creator>
         

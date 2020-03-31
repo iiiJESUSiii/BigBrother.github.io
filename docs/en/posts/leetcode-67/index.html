@@ -1631,8 +1631,9 @@ The input strings are both <em><strong>non-empty</strong></em> and contains only
 </code></pre></td></tr></table>
 </div>
 </div><h2 id="solution">Solution</h2>
-<h3 id="heading">Ⅰ</h3>
+<h3 id="-in-built-function">Ⅰ in-built function</h3>
 <p>No more words.😂</p>
+<h4 id="code">Code</h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -1645,13 +1646,14 @@ The input strings are both <em><strong>non-empty</strong></em> and contains only
         <span class="k">return</span> <span class="nb">bin</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span> <span class="o">+</span> <span class="nb">int</span><span class="p">(</span><span class="n">b</span><span class="p">,</span> <span class="mi">2</span><span class="p">))[</span><span class="mi">2</span><span class="p">:]</span>
 </code></pre></td></tr></table>
 </div>
-</div><h3 id="heading-1">Ⅱ</h3>
+</div><h3 id="-hashtable">Ⅱ hashTable</h3>
 <p>Use <em><strong>hashTable</strong></em>.</p>
 <ol>
 <li><em>left Fill</em> &lsquo;<code>0</code>&rsquo; to the shorter one until its length is the same as the other.</li>
 <li>Create a <em><strong>hashTable</strong></em> to record all states of the bitwise addition result of two binary strings. Each key in the hashTable has three characters, which represent the characters in <code>a</code>, the characters in <code>b</code>, and <code>carry</code> of previous bit.The value of each key has two characters, representing the <code>ch</code>(result) and <code>carry</code> of current bit.</li>
 <li><code>ans += ch</code> and reverse the <code>ans</code></li>
 </ol>
+<h4 id="code-1">Code</h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1
@@ -1716,11 +1718,17 @@ The input strings are both <em><strong>non-empty</strong></em> and contains only
         <span class="k">return</span> <span class="n">ans</span><span class="p">[::</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span>
 </code></pre></td></tr></table>
 </div>
-</div><h3 id="heading-2">Ⅲ</h3>
+</div><h4 id="complexity-analysis">Complexity Analysis</h4>
+<ul>
+<li>time complexity:  <em><strong>O(N)</strong></em></li>
+<li>Space complexity: <em><strong>O(N)</strong></em></li>
+</ul>
+<h3 id="-a-little-improved">Ⅲ a little improved</h3>
 <p>As we all know, in python, the string is <a href="">immutable</a>.You cannot overwrite the values of immutable objects.<br />
 Therefore, if you assign the variable again, it will create a new string object. In this case, the execution efficiency will be reduced to a certain extent<br />
 So change the initial value of <code>carry</code> to <code>''</code>. And when <em>carry</em> is &lsquo;<code>0</code>&rsquo; change <em>carry</em> to <code>''</code><br />
 The code may run slightly faster in this way.</p>
+<h4 id="code-2">Code</h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1
@@ -1783,7 +1791,12 @@ The code may run slightly faster in this way.</p>
         <span class="k">return</span> <span class="n">ans</span><span class="p">[::</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span>
 </code></pre></td></tr></table>
 </div>
-</div>
+</div><h4 id="complexity-analysis-1">Complexity Analysis</h4>
+<ul>
+<li>time complexity:  <em><strong>O(N)</strong></em></li>
+<li>Space complexity: <em><strong>O(N)</strong></em></li>
+</ul>
+
     </article>
     
     <script>
@@ -2421,9 +2434,9 @@ document.addEventListener('DOMContentLoaded', function () {
     <li><a href="#example">Example</a></li>
     <li><a href="#solution">Solution</a>
       <ul>
-        <li><a href="#heading">Ⅰ</a></li>
-        <li><a href="#heading-1">Ⅱ</a></li>
-        <li><a href="#heading-2">Ⅲ</a></li>
+        <li><a href="#-in-built-function">Ⅰ in-built function</a></li>
+        <li><a href="#-hashtable">Ⅱ hashTable</a></li>
+        <li><a href="#-a-little-improved">Ⅲ a little improved</a></li>
       </ul>
     </li>
   </ul>

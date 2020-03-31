@@ -1637,6 +1637,7 @@ This is case sensitive, for example &ldquo;<em><strong>Aa</strong></em>&rdquo; i
 <p>There can be <em>oddLetter[2]</em> at the middle of palindrome.<br />
 Therefore, use <code>collections.Counter</code> to create a <code>dict</code> to count letters and traverse the Counter. <br />
 <code>cnt += Counter[letter].value()</code> if the letter is <em>evenLetter[1]</em>, otherwise <code>cnt += Counter[letter].value() - 1</code>(to make sure the letter you add have its partner) and <code>cnt += 1</code> before <em><strong>return</strong></em>.</p>
+<h4 id="code">Code</h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1
@@ -1674,6 +1675,7 @@ Therefore, use <code>collections.Counter</code> to create a <code>dict</code> to
 </div><h3 id="heading-1">Ⅱ</h3>
 <p>Another way, we can do the <em><strong>reverse</strong></em>.<br />
 Use <code>len(s)</code> subtract <code>oddCnt</code> (the number of <em>oddLetter[2]</em>) and plus <code>1</code> (if <code>oddCnt &gt; 0</code>).</p>
+<h4 id="code-1">Code</h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1

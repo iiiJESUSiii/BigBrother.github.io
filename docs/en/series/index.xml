@@ -14,7 +14,7 @@
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 30 Mar 2020 00:10:28 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 14:00:09 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/series/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,12 @@
 
       
       <item>
-        <title>Python Daily Tips</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/series/python-daily-tips/</link>
-        <pubDate>Mon, 30 Mar 2020 00:10:28 +0800</pubDate>
+        <title>LeetCode</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/series/leetcode/</link>
+        <pubDate>Tue, 31 Mar 2020 14:00:09 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/en/series/python-daily-tips/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/series/leetcode/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -41,12 +41,12 @@
       </item>
       
       <item>
-        <title>LeetCode</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/series/leetcode/</link>
-        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <title>Python Daily Tips</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/series/python-daily-tips/</link>
+        <pubDate>Mon, 30 Mar 2020 00:10:28 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/en/series/leetcode/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/series/python-daily-tips/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
