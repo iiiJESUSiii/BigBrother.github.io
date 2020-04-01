@@ -13,7 +13,7 @@
     <language>zh</language>
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
-    <copyright>©{year}, All Rights Reserved</copyright>
+    <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -21,6 +21,242 @@
     
     
 
+      
+      <item>
+        <title>#5 《春思》</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/poems-day-5/</link>
+        <pubDate>Thu, 02 Apr 2020 00:08:56 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Thu, 02 Apr 2020 00:08:56 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/poems-day-5/</guid>
+        <description>春思 李白 燕草如碧丝[1]，秦桑低绿枝[2]。 当君怀归日， 是妾断肠时。 春风不相识， 何事入罗帏[3]？ 作者简介 李白（701年－762年） ，字太白</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>李白</category>
+            
+          
+            
+              <category>五言古诗</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零肆</category>
+            
+          
+        
+        
+          
+            
+              <category>唐诗</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 820</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-820/</link>
+        <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 23:38:03 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-820/</guid>
+        <description>LeetCode 820. 单词的压缩编码 已收录在 my LeetCode 题目 给定一个单词列表，我们将这个列表编码成一个索引字符串 S 与一个索引列表 A。 例如，如果这个列表是 [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldqu</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>字典树</category>
+            
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 面试题 28</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-28/</link>
+        <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 23:00:51 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-28/</guid>
+        <description>LeetCode 面试题 28. 对称的二叉树 已收录在 my LeetCode 题目 请实现一个函数，用来判断一棵二叉树是不是对称的。如果一棵二叉树和它的镜像一样，那么它是对称的。 例如，二</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>二叉树</category>
+            
+          
+            
+              <category>递归</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 面试题 01.07</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-0107/</link>
+        <pubDate>Wed, 01 Apr 2020 22:28:18 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 22:28:18 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-0107/</guid>
+        <description>LeetCode 面试题 01.07. 旋转矩阵 已收录在 my LeetCode 题目 给定一幅由 N × N 矩阵表示的图像，其中每个像素的大小为4字节，编写一种方法，将图像旋转90度。 不占用额外内存</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 999</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-999/</link>
+        <pubDate>Wed, 01 Apr 2020 21:52:05 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 21:52:05 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-999/</guid>
+        <description>LeetCode 999. 可以被一步捕获的棋子数 已收录在 my LeetCode 题目 在一个 8 x 8 的棋盘上，有一个白色的车（Rook），用字符 &amp;lsquo;R&amp;rsquo; 表示。棋盘上还可能存在空方块，白色的象（</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>正则表达式</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>蔡勒公式</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/math-zeller-congruence/</link>
+        <pubDate>Wed, 01 Apr 2020 14:09:23 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 14:09:23 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/math-zeller-congruence/</guid>
+        <description>蔡勒公式 (Zeller&amp;rsquo;s Congruence) 蔡勒公式 是一种计算任何一日属一星期中哪一日的算法，由德国数学家 克里斯提安·蔡勒 推算出来。 公式 或者 公式都是基于公历的置闰规则来考虑</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>蔡勒公式</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>LeetCode 892</title>
@@ -105,7 +341,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 30 Mar 2020 12:29:38 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/poems-day-4/</guid>
-        <description>下终南山过斛斯山人宿置酒[1] 李白 暮从碧山下2，山月随人归。 却顾所来径3，苍苍横翠微4。 相携及田家， 童稚开荆扉。 绿竹入幽径， 青萝拂行衣5。 欢</description>
+        <description>下终南山过斛斯山人宿置酒[1] 李白 暮从碧山下[2]，山月随人归。 却顾所来径[3]，苍苍横翠微[4]。 相携及田家， 童稚开荆扉。 绿竹入幽径， 青萝</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -217,7 +453,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 29 Mar 2020 23:06:07 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/poems-day-3/</guid>
-        <description>感遇 张九龄 【其一】 兰叶春葳蕤1，桂华秋皎洁。 欣欣此生意， 自尔为佳节。 谁知林栖者2，闻风坐相悦[3]。 草木有本心4，何求美人折5。 【其七】 江南</description>
+        <description>感遇 张九龄 【其一】 兰叶春葳蕤[1]，桂华秋皎洁。 欣欣此生意， 自尔为佳节。 谁知林栖者[2]，闻风坐相悦[[3]]。 草木有本心[4]，何求美人折</description>
         
         <dc:creator>Teletubby</dc:creator>
         

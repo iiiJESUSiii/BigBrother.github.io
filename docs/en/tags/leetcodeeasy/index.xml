@@ -13,14 +13,98 @@
     <language>en</language>
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
-    <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 31 Mar 2020 14:00:09 +0800</lastBuildDate>
+    <copyright>©{year},Teletubby, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 23:00:51 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode Interview Problems 28</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-28/</link>
+        <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 23:00:51 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-28/</guid>
+        <description>LeetCode Interview Problem 28. Symmetric binary tree Included in my LeetCode Topic Please implement a function to determine if a binary tree is symmetric. If a binary tree is the same as its mirror, then it is symmetrical. e.g. The binary tree [1,2,2,3,4,4,3] is symmetrical. 1 / \ 2 2 / \ / \ 3 4 4 3 But this one [1,2,2,null,3,null,3] is not symmetrical. 1 / \ 2 2</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>binary tree</category>
+            
+          
+            
+              <category>recursion</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 999</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-999/</link>
+        <pubDate>Wed, 01 Apr 2020 21:52:05 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 21:52:05 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-999/</guid>
+        <description>LeetCode 999. Available Captures for Rook Included in my LeetCode Topic On an 8 x 8 chessboard, there is one white rook. There also may be empty squares, white Bishops, and black pawn. These are given as characters &amp;lsquo;R&#39;, &amp;lsquo;.&#39;, &amp;lsquo;B&#39;, and &amp;lsquo;p&amp;rsquo; respectively. Uppercase characters represent white pieces, and lowercase characters represent black pieces. The rook moves as in the rules of Chess: it chooses one of four cardinal</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>regular expression</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>LeetCode 892</title>
@@ -379,7 +463,7 @@
       </item>
       
       <item>
-        <title>LeetCode Interview Questions 01.06</title>
+        <title>LeetCode Interview Problems 01.06</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0106/</link>
         <pubDate>Sat, 21 Mar 2020 00:59:12 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>

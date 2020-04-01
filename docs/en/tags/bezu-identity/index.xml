@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
-    <copyright>©{year}, All Rights Reserved</copyright>
+    <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/index.xml" rel="self" type="application/rss+xml" />
@@ -81,7 +81,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-bezu-identity/</guid>
-        <description>Bezu Identity This post just briefly explains Bézout&amp;rsquo;s theorem in arithmetic. reference Bézout&amp;rsquo;s identity Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that ax + by = d. More generally, the integers of</description>
+        <description>Bezu Identity This post just briefly explains Bézout&amp;rsquo;s theorem in arithmetic. reference Wikipedia-Bézout&amp;rsquo;s identity Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that</description>
         
         <dc:creator>Teletubby</dc:creator>
         

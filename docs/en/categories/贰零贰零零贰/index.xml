@@ -13,14 +13,210 @@
     <language>en</language>
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
-    <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 31 Mar 2020 14:00:09 +0800</lastBuildDate>
+    <copyright>©{year},Teletubby, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 23:38:03 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/en/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode 820</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-820/</link>
+        <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 23:38:03 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-820/</guid>
+        <description>LeetCode 820. Short Encoding of Words Included in my LeetCode Topic Given a list of words, we may encode it by writing a reference string S and a list of indexes A. For example, if the list of words is [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldquo;bell&amp;rdquo;], we can write it as S = &amp;ldquo;time#bell#&amp;quot; and indexes = [0, 2, 5]. Then for each index, we will recover the word by reading from the</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Trie</category>
+            
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode Interview Problems 28</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-28/</link>
+        <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 23:00:51 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-28/</guid>
+        <description>LeetCode Interview Problem 28. Symmetric binary tree Included in my LeetCode Topic Please implement a function to determine if a binary tree is symmetric. If a binary tree is the same as its mirror, then it is symmetrical. e.g. The binary tree [1,2,2,3,4,4,3] is symmetrical. 1 / \ 2 2 / \ / \ 3 4 4 3 But this one [1,2,2,null,3,null,3] is not symmetrical. 1 / \ 2 2</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>binary tree</category>
+            
+          
+            
+              <category>recursion</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode Interview Problems 01.07</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0107/</link>
+        <pubDate>Wed, 01 Apr 2020 22:28:18 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 22:28:18 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0107/</guid>
+        <description>LeetCode Interview Problem 01.07. Rotate Matrix LCCI Included in my LeetCode Topic Given an image represented by an N x N matrix, where each pixel in the image is 4 bytes, write a method to rotate the image by 90 degrees. Can you do this in place? Example # 1 Given matrix = [ [1,2,3], [4,5,6], [7,8,9] ], Rotate the matrix in place. It becomes: [ [7,4,1], [8,5,2], [9,6,3] ]</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 999</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-999/</link>
+        <pubDate>Wed, 01 Apr 2020 21:52:05 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 21:52:05 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-999/</guid>
+        <description>LeetCode 999. Available Captures for Rook Included in my LeetCode Topic On an 8 x 8 chessboard, there is one white rook. There also may be empty squares, white Bishops, and black pawn. These are given as characters &amp;lsquo;R&#39;, &amp;lsquo;.&#39;, &amp;lsquo;B&#39;, and &amp;lsquo;p&amp;rsquo; respectively. Uppercase characters represent white pieces, and lowercase characters represent black pieces. The rook moves as in the rules of Chess: it chooses one of four cardinal</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>regular expression</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Zeller&#39;s Congruence</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-zeller-congruence/</link>
+        <pubDate>Wed, 01 Apr 2020 14:09:23 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 14:09:23 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-zeller-congruence/</guid>
+        <description>Zeller&amp;rsquo;s Congruence (Zellers Kongruenz) Zeller&amp;rsquo;s congruence is an algorithm devised by Christian Zeller to calculate the day of the week for any Julian or Gregorian calendar date. It can be considered to be based on the conversion between Julian day and the calendar date. Formula For the Gregorian calendar, Zeller&amp;rsquo;s congruence is for the Julian calendar it is where h is the day of the week (0 = Saturday, 1</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>zeller&#39;s congruence</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>LeetCode 892</title>
@@ -661,7 +857,7 @@
         <author>oops!@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-bezu-identity/</guid>
-        <description>Bezu Identity This post just briefly explains Bézout&amp;rsquo;s theorem in arithmetic. reference Bézout&amp;rsquo;s identity Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that ax + by = d. More generally, the integers of</description>
+        <description>Bezu Identity This post just briefly explains Bézout&amp;rsquo;s theorem in arithmetic. reference Wikipedia-Bézout&amp;rsquo;s identity Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -731,7 +927,7 @@
       </item>
       
       <item>
-        <title>LeetCode Interview Questions 01.06</title>
+        <title>LeetCode Interview Problems 01.06</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0106/</link>
         <pubDate>Sat, 21 Mar 2020 00:59:12 +0800</pubDate>
         <author>oops!@gmail.com (Teletubby)</author>

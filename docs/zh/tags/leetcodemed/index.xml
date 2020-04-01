@@ -13,14 +13,90 @@
     <language>zh</language>
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
-    <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
+    <copyright>©{year},Teletubby, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 23:38:03 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/tags/leetcodemed/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode 820</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-820/</link>
+        <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 23:38:03 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-820/</guid>
+        <description>LeetCode 820. 单词的压缩编码 已收录在 my LeetCode 题目 给定一个单词列表，我们将这个列表编码成一个索引字符串 S 与一个索引列表 A。 例如，如果这个列表是 [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldqu</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>字典树</category>
+            
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 面试题 01.07</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-0107/</link>
+        <pubDate>Wed, 01 Apr 2020 22:28:18 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 22:28:18 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-0107/</guid>
+        <description>LeetCode 面试题 01.07. 旋转矩阵 已收录在 my LeetCode 题目 给定一幅由 N × N 矩阵表示的图像，其中每个像素的大小为4字节，编写一种方法，将图像旋转90度。 不占用额外内存</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>LeetCode 365</title>

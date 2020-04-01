@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>binary tree on 👌Teletubby&#39;s Blog</title>
+    <link>https://iiijesusiii.github.io/Teletubby/en/tags/binary-tree/</link>
+    <description>Recent content in binary tree on 👌Teletubby&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
+    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year},Teletubby, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 23:00:51 +0800</lastBuildDate>
+    
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/binary-tree/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>LeetCode Interview Problems 28</title>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-28/</link>
+        <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 23:00:51 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-28/</guid>
+        <description>LeetCode Interview Problem 28. Symmetric binary tree Included in my LeetCode Topic Please implement a function to determine if a binary tree is symmetric. If a binary tree is the same as its mirror, then it is symmetrical. e.g. The binary tree [1,2,2,3,4,4,3] is symmetrical. 1 / \ 2 2 / \ / \ 3 4 4 3 But this one [1,2,2,null,3,null,3] is not symmetrical. 1 / \ 2 2</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>binary tree</category>
+            
+          
+            
+              <category>recursion</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

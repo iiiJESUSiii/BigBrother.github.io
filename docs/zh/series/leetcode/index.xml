@@ -13,14 +13,174 @@
     <language>zh</language>
     <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
     <webMaster>oops!@gmail.com (Teletubby)</webMaster>
-    <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 31 Mar 2020 14:00:09 +0800</lastBuildDate>
+    <copyright>©{year},Teletubby, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 23:38:03 +0800</lastBuildDate>
     
         <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/series/leetcode/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode 820</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-820/</link>
+        <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 23:38:03 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-820/</guid>
+        <description>LeetCode 820. 单词的压缩编码 已收录在 my LeetCode 题目 给定一个单词列表，我们将这个列表编码成一个索引字符串 S 与一个索引列表 A。 例如，如果这个列表是 [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldqu</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>字典树</category>
+            
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 面试题 28</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-28/</link>
+        <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 23:00:51 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-28/</guid>
+        <description>LeetCode 面试题 28. 对称的二叉树 已收录在 my LeetCode 题目 请实现一个函数，用来判断一棵二叉树是不是对称的。如果一棵二叉树和它的镜像一样，那么它是对称的。 例如，二</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>二叉树</category>
+            
+          
+            
+              <category>递归</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 面试题 01.07</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-0107/</link>
+        <pubDate>Wed, 01 Apr 2020 22:28:18 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 22:28:18 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-0107/</guid>
+        <description>LeetCode 面试题 01.07. 旋转矩阵 已收录在 my LeetCode 题目 给定一幅由 N × N 矩阵表示的图像，其中每个像素的大小为4字节，编写一种方法，将图像旋转90度。 不占用额外内存</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode 999</title>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-999/</link>
+        <pubDate>Wed, 01 Apr 2020 21:52:05 +0800</pubDate>
+        <author>oops!@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 21:52:05 +0800</atom:modified>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-999/</guid>
+        <description>LeetCode 999. 可以被一步捕获的棋子数 已收录在 my LeetCode 题目 在一个 8 x 8 的棋盘上，有一个白色的车（Rook），用字符 &amp;lsquo;R&amp;rsquo; 表示。棋盘上还可能存在空方块，白色的象（</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>正则表达式</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>LeetCode 892</title>
