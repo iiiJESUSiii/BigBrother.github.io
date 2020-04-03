@@ -11,8 +11,8 @@
     <description>Recent content in 递归 on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
-    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
+    <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
     <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 23:00:51 +0800</lastBuildDate>
     
@@ -26,7 +26,7 @@
         <title>LeetCode 面试题 28</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-28/</link>
         <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 23:00:51 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-28/</guid>
         <description>LeetCode 面试题 28. 对称的二叉树 已收录在 my LeetCode 题目 请实现一个函数，用来判断一棵二叉树是不是对称的。如果一棵二叉树和它的镜像一样，那么它是对称的。 例如，二</description>

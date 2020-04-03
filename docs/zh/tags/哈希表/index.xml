@@ -11,8 +11,8 @@
     <description>Recent content in 哈希表 on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
-    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
+    <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
     <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 21 Mar 2020 13:58:09 +0800</lastBuildDate>
     
@@ -26,7 +26,7 @@
         <title>LeetCode 67</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-67/</link>
         <pubDate>Sat, 21 Mar 2020 13:58:09 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 13:58:09 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-67/</guid>
         <description>LeetCode 67. 二进制求和 已收录在 my LeetCode 题目 给定两个二进制字符串，返回他们的和（用二进制表示）。 输入为 非空 字符串且只包含数字 1 和 0。 示例 输入: a = &amp;quot;11&amp;quot;, b = &amp;quot;1&amp;quot;</description>
@@ -66,7 +66,7 @@
         <title>LeetCode 409</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-409/</link>
         <pubDate>Fri, 20 Mar 2020 15:50:19 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 15:50:19 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-409/</guid>
         <description>LeetCode 409. 最长回文串 已收录在 my LeetCode 题目 给定一个包含大写字母和小写字母的字符串，找到通过这些字母构造成的最长的回文串。 在构造过程中，请注意区分大小写。</description>
@@ -106,7 +106,7 @@
         <title>LeetCode 1160</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-1160/</link>
         <pubDate>Wed, 18 Mar 2020 22:58:28 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 22:58:28 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-1160/</guid>
         <description>LeetCode 1160. 拼写单词 已收录在 my LeetCode 题目 给你一份『词汇表』（字符串数组） words 和一张『字母表』（字符串） chars。 假如你可以用 chars 中的『字母』（字符）拼写出</description>

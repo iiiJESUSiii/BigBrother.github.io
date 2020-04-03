@@ -11,8 +11,8 @@
     <description>Recent content in Hello World! on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
-    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
+    <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
     <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 19 Mar 2020 14:50:58 +0800</lastBuildDate>
     
@@ -26,7 +26,7 @@
         <title>Python 计算代码的运行时间</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/python-code-runtime/</link>
         <pubDate>Thu, 19 Mar 2020 14:50:58 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 14:50:58 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-code-runtime/</guid>
         <description>我的 python 版本 是 3.7 Python3.7 中获取代码的几种方法 timeit &amp;ndash; 测量小代码片段的执行时间 方法一 1 2 3 4 5 import timeit start=timeit.default_timer() #中间写代码块 end=timeit.default_timer() print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start)) 此外 1 2 %timeit (1, 2, 3) # 7.87 ns ± 0.261 ns per loop</description>
@@ -62,7 +62,7 @@
         <title>Python for-else 语句</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/python-for-else/</link>
         <pubDate>Wed, 18 Mar 2020 23:02:24 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 23:02:24 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/python-for-else/</guid>
         <description>我的 python 版本 是 3.7 Python for-else &amp;amp; while-else 语句 已收录在 python daily tips for-else 基本结构 这是for-else循环的基本结构： 1 2 3 4 5 6 7 8 for item in container: if search_something(item): # 找到了! process(item) break else: # 没有找到</description>
@@ -98,7 +98,7 @@
         <title>将Hugo托管在Github上</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/hugo-host-on-github/</link>
         <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Tue, 10 Mar 2020 18:50:30 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/hugo-host-on-github/</guid>
         <description>使用 Github 托管个人静态网站 已收录在 Hugo Blog 这个托管你个人博客的方法既简便又快捷。 更改你的发布（publish）目录 删除 &amp;ldquo;public&amp;rdquo; 文件夹 如果你博客的 根目录 下有</description>
@@ -138,7 +138,7 @@
         <title>Git 基本指令 1</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/git-basic-commands-1/</link>
         <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 09 Mar 2020 14:23:08 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/git-basic-commands-1/</guid>
         <description>已收录在 Hugo Blog (你想给你自己整一个静态网站吗?) 已收录在 Git Commands &amp;amp; FAQ git clone 这里有两种方法去使用 git clone 1. 使用 HTTPS 这是一个克隆自己或者别人在 Github 上的仓库的一个</description>
@@ -182,7 +182,7 @@
         <title>安装 Git</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/install-git/</link>
         <pubDate>Mon, 09 Mar 2020 13:28:12 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 09 Mar 2020 13:28:12 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/install-git/</guid>
         <description>已收录在 Hugo Blog (你想给你自己整一个静态网站吗?) 什么是 Git? Git是一个免费的开源的分布式版本控制系统工具，能够快速高效地处理从小型到大型项目的所</description>
@@ -226,7 +226,7 @@
         <title>你好 Hugo</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/hello-hugo/</link>
         <pubDate>Sun, 08 Mar 2020 20:35:41 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 08 Mar 2020 20:35:41 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/hello-hugo/</guid>
         <description>来白手建站吧，搭建一个hugo静态网站 已收录在 Hugo Blog 为什么选择 Hugo? &amp;amp; 什么是 Hugo? Hugo是一种用Go语言编写的快速的、现代静态网站生成器，为能够更有</description>
@@ -262,7 +262,7 @@
         <title>解决 git pull/push 每次都需要输入密码问题（使用GitHub私有库）</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/store-github-username-and-passwd/</link>
         <pubDate>Sun, 08 Mar 2020 01:46:55 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 08 Mar 2020 01:46:55 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/store-github-username-and-passwd/</guid>
         <description>已收录在 Git Commands &amp;amp; FAQ 解决 git pull/push 每次都需要输入密码问题（使用GitHub私有库） git bash到你需要操作的文件夹 git config --global credential.helper store 然后再执行一次 git pull or git pus</description>

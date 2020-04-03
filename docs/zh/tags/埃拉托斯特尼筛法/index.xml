@@ -11,8 +11,8 @@
     <description>Recent content in 埃拉托斯特尼筛法 on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
-    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
+    <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
     <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 28 Mar 2020 11:13:10 +0800</lastBuildDate>
     
@@ -26,7 +26,7 @@
         <title>LeetCode 204</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-204/</link>
         <pubDate>Sat, 28 Mar 2020 11:13:10 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 11:13:10 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-204/</guid>
         <description>LeetCode 204. 计数质数 已收录在 my LeetCode 题目 统计所有小于非负整数 n 的质数的数量。 示例 输入: 10 输出: 4 解释: 小于 10 的质数一共有 4 个, 它们是 2, 3, 5, 7 。 题解 埃拉托</description>

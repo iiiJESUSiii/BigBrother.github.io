@@ -11,8 +11,8 @@
     <description>Recent content in gcd on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
-    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
+    <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
     <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
     
@@ -26,7 +26,7 @@
         <title>LeetCode 365</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-365/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-365/</guid>
         <description>LeetCode 365. Water and Jug Problem Included in my LeetCode Topic You are given two jugs with capacities x and y litres. There is an infinite amount of water supply available. You need to determine whether it is possible to measure exactly z litres using these two jugs. If z liters of water is measurable, you must have z liters of water contained within one or both buckets by the</description>
@@ -78,7 +78,7 @@
         <title>LeetCode 1071</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1071/</link>
         <pubDate>Sat, 28 Mar 2020 02:22:28 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:22:28 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1071/</guid>
         <description>LeetCode 1071. Greatest Common Divisor of Strings Included in my LeetCode Topic For strings S and T, we say &amp;ldquo;T divides S&amp;rdquo; if and only if S = T + &amp;hellip; + T (T concatenated with itself 1 or more times) Return the largest string X such that X divides str1 and X divides str2. Example Input: str1 = &amp;quot;ABCABC&amp;quot;, str2 = &amp;quot;ABC&amp;quot; Output: &amp;quot;ABC&amp;quot; Input: str1 = &amp;quot;ABABAB&amp;quot;, str2</description>
@@ -118,7 +118,7 @@
         <title>Math GCD</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-gcd/</link>
         <pubDate>Sat, 28 Mar 2020 01:26:03 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 01:26:03 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-gcd/</guid>
         <description>the Greatest Common Divisor Leave a pit. 😜</description>
@@ -154,7 +154,7 @@
         <title>LeetCode 914</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-914/</link>
         <pubDate>Fri, 27 Mar 2020 23:32:29 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 27 Mar 2020 23:32:29 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-914/</guid>
         <description>LeetCode 914. X of a Kind in a Deck of Cards Included in my LeetCode Topic In a deck of cards, each card has an integer written on it. Return true if and only if you can choose X &amp;gt;= 2 such that it is possible to split the entire deck into 1 or more groups of cards, where: Each group has exactly X cards. All the cards in each</description>

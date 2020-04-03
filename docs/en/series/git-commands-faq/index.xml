@@ -11,8 +11,8 @@
     <description>Recent content in Git Commands &amp; FAQ on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>oops!@gmail.com (Teletubby)</managingEditor>
-    <webMaster>oops!@gmail.com (Teletubby)</webMaster>
+    <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
+    <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
     <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 09 Mar 2020 14:23:08 +0800</lastBuildDate>
     
@@ -26,7 +26,7 @@
         <title>Git Basic Commands 1</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/git-basic-commands-1/</link>
         <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 09 Mar 2020 14:23:08 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/git-basic-commands-1/</guid>
         <description>Included in Hugo Blog (Do u want to build a static website for yourself?) Included in Git Commands &amp;amp; FAQ git clone There are 2 ways to use git clone
@@ -73,7 +73,7 @@ git clone HTTPS(https://github.com/example.git)
         <title>Install Git</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/install-git/</link>
         <pubDate>Mon, 09 Mar 2020 13:28:12 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 09 Mar 2020 13:28:12 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/install-git/</guid>
         <description>Included in Hugo Blog (Do u want to build a static website for yourself?) What is Git? Git is a free, open source distributed version control system tool designed to handle everything from small to very large projects with speed and efficiency.
@@ -119,7 +119,7 @@ git clone HTTPS(https://github.com/example.git)
         <title>Solve the problem that git pull/push needs to enter the password every time（Use GitHub private repo）</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/store-github-username-and-passwd/</link>
         <pubDate>Sun, 08 Mar 2020 01:46:55 +0800</pubDate>
-        <author>oops!@gmail.com (Teletubby)</author>
+        <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 08 Mar 2020 01:46:55 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/store-github-username-and-passwd/</guid>
         <description>Included in Git Commands &amp;amp; FAQ Solve the problem that git pull/push needs to enter the password every time（Use GitHub private repo） git bash at the folder that you needs to operate.

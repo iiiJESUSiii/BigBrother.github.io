@@ -238,7 +238,7 @@
     
     var tocFolding = JSON.parse("true");
     
-    var tocLevels = JSON.parse("[\"h2\",\"h3\",\"h4\"]");
+    var tocLevels = JSON.parse("[\"h2\",\"h3\",\"h5\"]");
     
     if (tocLevels) {
       tocLevels = tocLevels.toString();
@@ -1541,7 +1541,7 @@
             
             
 
-<main class="single__main main-main">
+<main class="single__main main">
   
     <nav class="breadcrumb hide" aria-label="breadcrumbs">
   <script>document.querySelector('.breadcrumb').classList.remove('hide')</script>
@@ -2484,51 +2484,6 @@ document.addEventListener('DOMContentLoaded', function () {
 </main>
 
 
-<aside class="single__side main-side">
-  
-
-
-<section class="sidebar hide">
-  <script>document.querySelector('.sidebar').classList.remove('hide')</script>
-  <div class="toc__flexbox" data-position="fixed">
-    <h6 class="toc__title" data-ani="true">目录</h6>
-    
-      <label class="switch" data-ani="true">
-        <input id="toggle-toc" aria-label="Toggle TOC" type="checkbox" checked>
-        <span class="slider round"></span>
-      </label>
-    
-  </div>
-  <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
-    <nav id="TableOfContents">
-  <ul>
-    <li>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
-    <li><a href="#python-接口">python 接口</a>
-      <ul>
-        <li><a href="#timeittimeit">timeit.timeit()</a></li>
-        <li><a href="#timeitrepeat">timeit.repeat()</a></li>
-        <li><a href="#timeitdefault_timer">timeit.default_timer()</a></li>
-        <li><a href="#class-timeittimer">class timeit.Timer</a></li>
-        <li><a href="#timeitnumber1000000">timeit(number=1000000)</a></li>
-        <li><a href="#autorangecallbacknone">autorange(callback=None)</a></li>
-        <li><a href="#repeatrepeat5-number1000000">repeat(repeat=5, number=1000000)</a></li>
-        <li><a href="#print_excfilenone">print_exc(file=None)</a></li>
-      </ul>
-    </li>
-    <li><a href="#示例">示例</a></li>
-  </ul>
-</nav>
-  </div>
-</section>
-
-
-
-</aside>
-
 <script>
   
   
@@ -2536,7 +2491,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var enableToc = JSON.parse("true");
   var toc = JSON.parse("null");
-  var tocPosition = JSON.parse("\"inner\"");
+  var tocPosition = JSON.parse("\"outer\"");
   
   var singleMainElem = document.querySelector('.single__main');
   var singleSideElem = document.querySelector('.single__side');
@@ -3330,6 +3285,44 @@ document.addEventListener('DOMContentLoaded', function () {
         
 <div class="wrapper__right hide" dir="ltr">
   <script>document.querySelector('.wrapper__right').classList.remove('hide')</script>
+  
+    
+      
+        <div class="toc__flexbox--outer" data-position="fixed" data-dir="ltr" data-ani="true">
+          <h6 class="toc__title toc__title--outer" data-ani="true">目录</h6>
+          
+          <label class="switch" data-ani="true">
+            <input id="visible-toc" aria-label="Visible TOC" type="checkbox" checked>
+            <span class="slider round"></span>
+          </label>
+          
+        </div>
+        <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
+          <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+    <li><a href="#python-接口">python 接口</a>
+      <ul>
+        <li><a href="#timeittimeit">timeit.timeit()</a></li>
+        <li><a href="#timeitrepeat">timeit.repeat()</a></li>
+        <li><a href="#timeitdefault_timer">timeit.default_timer()</a></li>
+        <li><a href="#class-timeittimer">class timeit.Timer</a></li>
+        <li><a href="#timeitnumber1000000">timeit(number=1000000)</a></li>
+        <li><a href="#autorangecallbacknone">autorange(callback=None)</a></li>
+        <li><a href="#repeatrepeat5-number1000000">repeat(repeat=5, number=1000000)</a></li>
+        <li><a href="#print_excfilenone">print_exc(file=None)</a></li>
+      </ul>
+    </li>
+    <li><a href="#示例">示例</a></li>
+  </ul>
+</nav>
+        </div>
+      
+    
   
 </div>
 
