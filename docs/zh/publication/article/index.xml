@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>article on 👌天线宝宝的博客</title>
-    <link>https://iiijesusiii.github.io/Teletubby/zh/publication/article/</link>
+    <link>https://Teletubby.github.io/zh/publication/article/</link>
     <description>Recent content in article on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/publication/article/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://Teletubby.github.io/zh/publication/article/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Good Title</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/publication/article/article_any_folder_name_1/</link>
+        <link>https://Teletubby.github.io/zh/publication/article/article_any_folder_name_1/</link>
         <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 01 Jun 2018 00:00:00 +0000</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/publication/article/article_any_folder_name_1/</guid>
+        <guid>https://Teletubby.github.io/zh/publication/article/article_any_folder_name_1/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>

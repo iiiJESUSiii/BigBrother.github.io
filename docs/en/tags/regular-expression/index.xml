@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>regular expression on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby/en/tags/regular-expression/</link>
+    <link>https://Teletubby.github.io/en/tags/regular-expression/</link>
     <description>Recent content in regular expression on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 21:52:05 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/regular-expression/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://Teletubby.github.io/en/tags/regular-expression/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>LeetCode 999</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-999/</link>
+        <link>https://Teletubby.github.io/en/posts/leetcode-999/</link>
         <pubDate>Wed, 01 Apr 2020 21:52:05 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 21:52:05 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-999/</guid>
+        <guid>https://Teletubby.github.io/en/posts/leetcode-999/</guid>
         <description>LeetCode 999. Available Captures for Rook Included in my LeetCode Topic On an 8 x 8 chessboard, there is one white rook. There also may be empty squares, white Bishops, and black pawn. These are given as characters &amp;lsquo;R&#39;, &amp;lsquo;.&#39;, &amp;lsquo;B&#39;, and &amp;lsquo;p&amp;rsquo; respectively. Uppercase characters represent white pieces, and lowercase characters represent black pieces. The rook moves as in the rules of Chess: it chooses one of four cardinal</description>
         
         <dc:creator>Teletubby</dc:creator>

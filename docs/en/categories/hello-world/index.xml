@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hello World! on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby/en/categories/hello-world/</link>
+    <link>https://Teletubby.github.io/en/categories/hello-world/</link>
     <description>Recent content in Hello World! on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Thu, 19 Mar 2020 14:50:58 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/categories/hello-world/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://Teletubby.github.io/en/categories/hello-world/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Code Runtime in Python</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-code-runtime/</link>
+        <link>https://Teletubby.github.io/en/posts/python-code-runtime/</link>
         <pubDate>Thu, 19 Mar 2020 14:50:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 14:50:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-code-runtime/</guid>
+        <guid>https://Teletubby.github.io/en/posts/python-code-runtime/</guid>
         <description>My python version is 3.7
  Several ways to get code runtime in Python3.7  timeit &amp;ndash; Measure execution time of small code snippets
  Ⅰ 1 2 3 4 5  import timeitstart=timeit.default_timer()#code block end=timeit.default_timer()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  In addition 1 2  %timeit (1, 2, 3)# 7.87 ns ± 0.261 ns per loop (mean ± std. dev. of 7 runs, 100000000 loops each)   Ⅱ 1 2 3 4 5  import timestart =time.</description>
@@ -62,11 +62,11 @@
       
       <item>
         <title>Python for-else</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-for-else/</link>
+        <link>https://Teletubby.github.io/en/posts/python-for-else/</link>
         <pubDate>Wed, 18 Mar 2020 23:02:24 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 23:02:24 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-for-else/</guid>
+        <guid>https://Teletubby.github.io/en/posts/python-for-else/</guid>
         <description>My python version is 3.7
  Python for-else &amp;amp; while-else clauses Included in python daily tips for-else Basic structure This is the basic structure of a for-else loop:
 1 2 3 4 5 6 7 8  for item in container: if search_something(item): # Found it! process(item) break else: # Didn&amp;#39;t find anything.. not_found_in_container()   Explanation for loops also have an else clause which most of us are unfamiliar with.</description>
@@ -100,11 +100,11 @@
       
       <item>
         <title>Hugo Host on Github</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/hugo-host-on-github/</link>
+        <link>https://Teletubby.github.io/en/posts/hugo-host-on-github/</link>
         <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Tue, 10 Mar 2020 18:50:30 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/hugo-host-on-github/</guid>
+        <guid>https://Teletubby.github.io/en/posts/hugo-host-on-github/</guid>
         <description>Use GitHub to Host a Free Static Website Included in Hugo Blog This is an easy way to host your blog and a quick way.
 Change Your Publish Directory Delete &amp;ldquo;public&amp;rdquo; folder Delete it first, if your blog&amp;rsquo;s root directory has a &amp;ldquo;public&amp;rdquo; folder.
 sudo rm -rf dd
@@ -144,11 +144,11 @@ Execute this command would change your publish directory to &amp;ldquo;docs&amp;
       
       <item>
         <title>Git Basic Commands 1</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/git-basic-commands-1/</link>
+        <link>https://Teletubby.github.io/en/posts/git-basic-commands-1/</link>
         <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 09 Mar 2020 14:23:08 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/git-basic-commands-1/</guid>
+        <guid>https://Teletubby.github.io/en/posts/git-basic-commands-1/</guid>
         <description>Included in Hugo Blog (Do u want to build a static website for yourself?) Included in Git Commands &amp;amp; FAQ git clone There are 2 ways to use git clone
 1. Using HTTPS This is a simple way to clone github repos from others or you.
 git clone HTTPS(https://github.com/example.git)
@@ -191,11 +191,11 @@ git clone HTTPS(https://github.com/example.git)
       
       <item>
         <title>Install Git</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/install-git/</link>
+        <link>https://Teletubby.github.io/en/posts/install-git/</link>
         <pubDate>Mon, 09 Mar 2020 13:28:12 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 09 Mar 2020 13:28:12 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/install-git/</guid>
+        <guid>https://Teletubby.github.io/en/posts/install-git/</guid>
         <description>Included in Hugo Blog (Do u want to build a static website for yourself?) What is Git? Git is a free, open source distributed version control system tool designed to handle everything from small to very large projects with speed and efficiency.
  reference https://git-scm.com/
  Download Git WindowsLinuxMacOSchoco install git.install#orscoop install git If you didn&amp;rsquo;t install any package manager or installer, like choco, scoop</description>
@@ -237,11 +237,11 @@ git clone HTTPS(https://github.com/example.git)
       
       <item>
         <title>Hello Hugo</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/hello-hugo/</link>
+        <link>https://Teletubby.github.io/en/posts/hello-hugo/</link>
         <pubDate>Sun, 08 Mar 2020 20:35:41 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 08 Mar 2020 20:35:41 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/hello-hugo/</guid>
+        <guid>https://Teletubby.github.io/en/posts/hello-hugo/</guid>
         <description>Let&amp;rsquo;s Build a Static Website Included in Hugo Blog Why Hugo? &amp;amp; What is Hugo? Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. &amp;hellip; Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website&amp;rsquo;s end users and an ideal writing experience for website authors.
  reference https://gohugo.</description>
         
@@ -274,11 +274,11 @@ git clone HTTPS(https://github.com/example.git)
       
       <item>
         <title>Solve the problem that git pull/push needs to enter the password every time（Use GitHub private repo）</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/store-github-username-and-passwd/</link>
+        <link>https://Teletubby.github.io/en/posts/store-github-username-and-passwd/</link>
         <pubDate>Sun, 08 Mar 2020 01:46:55 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 08 Mar 2020 01:46:55 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/store-github-username-and-passwd/</guid>
+        <guid>https://Teletubby.github.io/en/posts/store-github-username-and-passwd/</guid>
         <description>Included in Git Commands &amp;amp; FAQ Solve the problem that git pull/push needs to enter the password every time（Use GitHub private repo） git bash at the folder that you needs to operate.
 git config --global credential.helper store
 then do git pull or git push，will be prompted to enter your userName and userPasswd. No longer needed next time
