@@ -7,16 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Math on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby/en/series/math/</link>
+    <link>http://localhost:7756/Teletubby/en/series/math/</link>
     <description>Recent content in Math on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
     <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
-    <copyright>©{year},Teletubby, All Rights Reserved</copyright>
+    <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 14:09:23 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/series/math/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:7756/Teletubby/en/series/math/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,12 +24,12 @@
       
       <item>
         <title>Zeller&#39;s Congruence</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-zeller-congruence/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/math-zeller-congruence/</link>
         <pubDate>Wed, 01 Apr 2020 14:09:23 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 14:09:23 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-zeller-congruence/</guid>
-        <description>Zeller&amp;rsquo;s Congruence (Zellers Kongruenz) Zeller&amp;rsquo;s congruence is an algorithm devised by Christian Zeller to calculate the day of the week for any Julian or Gregorian calendar date. It can be considered to be based on the conversion between Julian day and the calendar date. Formula For the Gregorian calendar, Zeller&amp;rsquo;s congruence is for the Julian calendar it is where h is the day of the week (0 = Saturday, 1</description>
+        <guid>http://localhost:7756/Teletubby/en/posts/math-zeller-congruence/</guid>
+        <description>Zeller&amp;rsquo;s Congruence (Zellers Kongruenz) Zeller&amp;rsquo;s congruence is an algorithm devised by Christian Zeller to calculate the day of the week for any Julian or Gregorian calendar date. It can be considered to be based on the conversion between Julian day and the calendar date. Formula For the Gregorian calendar, Zeller&amp;rsquo;s congruence is $$ h = (K + \lfloor\frac{K}{4}\rfloor + \lfloor\frac{J}{4}\rfloor - 2J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -60,11 +60,11 @@
       
       <item>
         <title>Math GCD</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-gcd/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/math-gcd/</link>
         <pubDate>Sat, 28 Mar 2020 01:26:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 01:26:03 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-gcd/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/math-gcd/</guid>
         <description>the Greatest Common Divisor Leave a pit. 😜</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -96,11 +96,11 @@
       
       <item>
         <title>Bézout&#39;s identity</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-bezu-identity/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/math-bezu-identity/</link>
         <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-bezu-identity/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/math-bezu-identity/</guid>
         <description>Bezu Identity This post just briefly explains Bézout&amp;rsquo;s theorem in arithmetic. reference Wikipedia-Bézout&amp;rsquo;s identity Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that</description>
         
         <dc:creator>Teletubby</dc:creator>

@@ -7,16 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby/en/</link>
+    <link>http://localhost:7756/Teletubby/en/</link>
     <description>Recent content on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
     <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
-    <copyright>©{year},Teletubby, All Rights Reserved</copyright>
+    <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:7756/Teletubby/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -45,11 +45,11 @@
       
       <item>
         <title>LeetCode 820</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-820/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-820/</link>
         <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 23:38:03 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-820/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-820/</guid>
         <description>LeetCode 820. Short Encoding of Words Included in my LeetCode Topic Given a list of words, we may encode it by writing a reference string S and a list of indexes A. For example, if the list of words is [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldquo;bell&amp;rdquo;], we can write it as S = &amp;ldquo;time#bell#&amp;quot; and indexes = [0, 2, 5]. Then for each index, we will recover the word by reading from the</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -85,11 +85,11 @@
       
       <item>
         <title>LeetCode Interview Problems 28</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-28/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-interview-problems-28/</link>
         <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 23:00:51 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-28/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-interview-problems-28/</guid>
         <description>LeetCode Interview Problem 28. Symmetric binary tree Included in my LeetCode Topic Please implement a function to determine if a binary tree is symmetric. If a binary tree is the same as its mirror, then it is symmetrical. e.g. The binary tree [1,2,2,3,4,4,3] is symmetrical. 1 / \ 2 2 / \ / \ 3 4 4 3 But this one [1,2,2,null,3,null,3] is not symmetrical. 1 / \ 2 2</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -129,11 +129,11 @@
       
       <item>
         <title>LeetCode Interview Problems 01.07</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0107/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-interview-problems-0107/</link>
         <pubDate>Wed, 01 Apr 2020 22:28:18 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 22:28:18 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0107/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-interview-problems-0107/</guid>
         <description>LeetCode Interview Problem 01.07. Rotate Matrix LCCI Included in my LeetCode Topic Given an image represented by an N x N matrix, where each pixel in the image is 4 bytes, write a method to rotate the image by 90 degrees. Can you do this in place? Example # 1 Given matrix = [ [1,2,3], [4,5,6], [7,8,9] ], Rotate the matrix in place. It becomes: [ [7,4,1], [8,5,2], [9,6,3] ]</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -165,11 +165,11 @@
       
       <item>
         <title>LeetCode 999</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-999/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-999/</link>
         <pubDate>Wed, 01 Apr 2020 21:52:05 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 21:52:05 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-999/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-999/</guid>
         <description>LeetCode 999. Available Captures for Rook Included in my LeetCode Topic On an 8 x 8 chessboard, there is one white rook. There also may be empty squares, white Bishops, and black pawn. These are given as characters &amp;lsquo;R&#39;, &amp;lsquo;.&#39;, &amp;lsquo;B&#39;, and &amp;lsquo;p&amp;rsquo; respectively. Uppercase characters represent white pieces, and lowercase characters represent black pieces. The rook moves as in the rules of Chess: it chooses one of four cardinal</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -205,12 +205,12 @@
       
       <item>
         <title>Zeller&#39;s Congruence</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-zeller-congruence/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/math-zeller-congruence/</link>
         <pubDate>Wed, 01 Apr 2020 14:09:23 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 14:09:23 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-zeller-congruence/</guid>
-        <description>Zeller&amp;rsquo;s Congruence (Zellers Kongruenz) Zeller&amp;rsquo;s congruence is an algorithm devised by Christian Zeller to calculate the day of the week for any Julian or Gregorian calendar date. It can be considered to be based on the conversion between Julian day and the calendar date. Formula For the Gregorian calendar, Zeller&amp;rsquo;s congruence is for the Julian calendar it is where h is the day of the week (0 = Saturday, 1</description>
+        <guid>http://localhost:7756/Teletubby/en/posts/math-zeller-congruence/</guid>
+        <description>Zeller&amp;rsquo;s Congruence (Zellers Kongruenz) Zeller&amp;rsquo;s congruence is an algorithm devised by Christian Zeller to calculate the day of the week for any Julian or Gregorian calendar date. It can be considered to be based on the conversion between Julian day and the calendar date. Formula For the Gregorian calendar, Zeller&amp;rsquo;s congruence is $$ h = (K + \lfloor\frac{K}{4}\rfloor + \lfloor\frac{J}{4}\rfloor - 2J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7</description>
         
         <dc:creator>Teletubby</dc:creator>
         
@@ -241,11 +241,11 @@
       
       <item>
         <title>LeetCode 892</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-892/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-892/</link>
         <pubDate>Tue, 31 Mar 2020 14:00:09 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Tue, 31 Mar 2020 14:00:09 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-892/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-892/</guid>
         <description>LeetCode 892. Surface Area of 3D Shapes Included in my LeetCode Topic On a N * N grid, we place some 1 * 1 * 1 cubes. Each value v = grid[i][j] represents a tower of v cubes placed on top of grid cell (i, j). Return the total surface area of the resulting shapes. Example Input: [[2]] Output: 10 Input: [[1,2],[3,4]] Output: 34 Input: [[1,0],[0,2]] Output: 16 Input: [[1,1,1],[1,0,1],[1,1,1]]</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -277,11 +277,11 @@
       
       <item>
         <title>LeetCode Interview Problems 62</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-62/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-interview-problems-62/</link>
         <pubDate>Mon, 30 Mar 2020 22:07:04 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 30 Mar 2020 22:07:04 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-62/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-interview-problems-62/</guid>
         <description>LeetCode Interview Problem 62 The last number left in the circle Included in my LeetCode Topic n numbers from 0 to n-1 are arranged to a circle. Starting with the number 0 and deleting the mth number from the circle each time. Find the last number left in this circle. Example Input: n = 5, m = 3 Output: 3 Explanation: Numbers deleted each time are 2, 0, 4, 1,</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -317,11 +317,11 @@
       
       <item>
         <title>Python Sorting Algorithms</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-sorting-algorithms/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/python-sorting-algorithms/</link>
         <pubDate>Mon, 30 Mar 2020 00:10:28 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 30 Mar 2020 00:10:28 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-sorting-algorithms/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/python-sorting-algorithms/</guid>
         <description>My python version is 3.7 Sorting Algorithms in Python Included in python daily tips A Sorting Algorithm is used to rearrange a given array or list elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of element in the respective data structure. BTW, The default implement of list.sort() in Python is Timsort Sorting Algorithm Types (common) Bubble Sort. Selection Sort.</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -357,11 +357,11 @@
       
       <item>
         <title>LeetCode 365</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-365/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-365/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-365/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-365/</guid>
         <description>LeetCode 365. Water and Jug Problem Included in my LeetCode Topic You are given two jugs with capacities x and y litres. There is an infinite amount of water supply available. You need to determine whether it is possible to measure exactly z litres using these two jugs. If z liters of water is measurable, you must have z liters of water contained within one or both buckets by the</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -409,11 +409,11 @@
       
       <item>
         <title>LeetCode Interview Problems 17.16</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-1716/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-interview-problems-1716/</link>
         <pubDate>Sun, 29 Mar 2020 00:00:25 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 29 Mar 2020 00:00:25 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-1716/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-interview-problems-1716/</guid>
         <description>LeetCode Interview Problem 17.16. The Masseuse LCCI Included in my LeetCode Topic Another similar problem. House Robber, here is LeetCode portal A popular masseuse receives a sequence of back-to-back appointment requests and is debating which ones to accept. She needs a break between appointments and therefore she cannot accept any adjacent requests. Given a sequence of back-to-back appoint­ ment requests, find the optimal</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -449,11 +449,11 @@
       
       <item>
         <title>LeetCode 204</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-204/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-204/</link>
         <pubDate>Sat, 28 Mar 2020 11:13:10 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 11:13:10 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-204/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-204/</guid>
         <description>LeetCode 204. Count Primes Included in my LeetCode Topic Count the number of prime numbers less than a non-negative number, n. Example Input: 10 Output: 4 Explanation: There are 4 prime numbers less than 10, they are 2, 3, 5, 7. Solution sieve of Eratosthenes. Code 1 2 3 4 5 6 7 8 9 10 11 class Solution: def countPrimes(self, n: int) -&amp;gt; int: if n &amp;lt; 2: return</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -489,11 +489,11 @@
       
       <item>
         <title>LeetCode 876</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-876/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-876/</link>
         <pubDate>Sat, 28 Mar 2020 02:34:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:34:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-876/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-876/</guid>
         <description>LeetCode 876. Middle of the Linked List Included in my LeetCode Topic Given a non-empty, singly linked list with head node head, return a middle node of linked list. If there are two middle nodes, return the second middle node. Example Input: [1,2,3,4,5] Output: Node 3 from this list (Serialization: [3,4,5]) The returned node has value 3. (The judge&#39;s serialization of this node is [3,4,5]). Note that we returned a</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -529,11 +529,11 @@
       
       <item>
         <title>LeetCode 1071</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1071/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-1071/</link>
         <pubDate>Sat, 28 Mar 2020 02:22:28 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:22:28 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1071/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-1071/</guid>
         <description>LeetCode 1071. Greatest Common Divisor of Strings Included in my LeetCode Topic For strings S and T, we say &amp;ldquo;T divides S&amp;rdquo; if and only if S = T + &amp;hellip; + T (T concatenated with itself 1 or more times) Return the largest string X such that X divides str1 and X divides str2. Example Input: str1 = &amp;quot;ABCABC&amp;quot;, str2 = &amp;quot;ABC&amp;quot; Output: &amp;quot;ABC&amp;quot; Input: str1 = &amp;quot;ABABAB&amp;quot;, str2</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -569,11 +569,11 @@
       
       <item>
         <title>LeetCode 198</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-198/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-198/</link>
         <pubDate>Sat, 28 Mar 2020 01:51:24 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 01:51:24 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-198/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-198/</guid>
         <description>LeetCode 198. House Robber Included in my LeetCode Topic Another similar problem. The Masseuse LCCI, here is LeetCode portal You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected and it will automatically contact the police if two adjacent houses were</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -609,11 +609,11 @@
       
       <item>
         <title>Math GCD</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-gcd/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/math-gcd/</link>
         <pubDate>Sat, 28 Mar 2020 01:26:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 01:26:03 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-gcd/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/math-gcd/</guid>
         <description>the Greatest Common Divisor Leave a pit. 😜</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -645,11 +645,11 @@
       
       <item>
         <title>LeetCode 914</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-914/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-914/</link>
         <pubDate>Fri, 27 Mar 2020 23:32:29 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 27 Mar 2020 23:32:29 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-914/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-914/</guid>
         <description>LeetCode 914. X of a Kind in a Deck of Cards Included in my LeetCode Topic In a deck of cards, each card has an integer written on it. Return true if and only if you can choose X &amp;gt;= 2 such that it is possible to split the entire deck into 1 or more groups of cards, where: Each group has exactly X cards. All the cards in each</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -685,11 +685,11 @@
       
       <item>
         <title>Python break out of multiple loops</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-break-loop/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/python-break-loop/</link>
         <pubDate>Fri, 27 Mar 2020 10:37:35 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 27 Mar 2020 10:37:35 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-break-loop/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/python-break-loop/</guid>
         <description>My python version is 3.7 How to break out of multiple loops Included in python daily tips Custom exception 1 2 3 4 5 6 7 8 9 10 11 class GetOutOfLoop(Exception): pass try: for i in range(5): for j in range(5): if i == j == 2: raise GetOutOfLoop() else: print(i,&amp;#39;----&amp;#39;, j) except GetOutOfLoop: pass Encapsulating these loops as a function 1 2 3 4 5 6 7 8</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -721,11 +721,11 @@
       
       <item>
         <title>LeetCode 300</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-300/</link>
         <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-300/</guid>
         <description>LeetCode 300. Longest Increasing Subsequence Included in my LeetCode Topic Given an unsorted array of integers, find the length of longest increasing subsequence. Example Input: [10,9,2,5,3,7,101,18] Output: 4 Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4. Note There may be more than one LIS combination, it is only necessary for you to return the length. Your algorithm should run in O(N^2) complexity. Follow up Could you</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -765,11 +765,11 @@
       
       <item>
         <title>LeetCode 945</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-945/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-945/</link>
         <pubDate>Sun, 22 Mar 2020 23:54:53 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 22 Mar 2020 23:54:53 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-945/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-945/</guid>
         <description>LeetCode 945. Minimum Increment to Make Array Unique Included in my LeetCode Topic Given an array of integers A, a move consists of choosing any A[i], and incrementing it by 1. Return the least number of moves to make every value in A unique. Example Input: [1,2,2] Output: 1 Explanation: After 1 move, the array could be [1, 2, 3]. Input: [3,2,1,2,1,7] Output: 6 Explanation: After 6 moves, the array</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -805,11 +805,11 @@
       
       <item>
         <title>Python timeit</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-timeit/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/python-timeit/</link>
         <pubDate>Sun, 22 Mar 2020 19:54:21 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 22 Mar 2020 19:54:21 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-timeit/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/python-timeit/</guid>
         <description>My python version is 3.7 timeit - Measure execution time of small code snippets Included in python daily tips This module provides a simple way to time small bits of Python code. It avoids a number of common traps for measuring execution times. This can be achieved through the command line interface and the Python interface. Here only talk about the python interface. Python Interface The module defines three convenience</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -841,11 +841,11 @@
       
       <item>
         <title>Python sorted()</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-sorted/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/python-sorted/</link>
         <pubDate>Sun, 22 Mar 2020 14:49:32 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 22 Mar 2020 14:49:32 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-sorted/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/python-sorted/</guid>
         <description>My python version is 3.7 python sorted() (Built-in Functions) Included in python daily tips Original post from: Python sorted() The sorted() function returns a sorted list from the items in an iterable. The sorted() function sorts the elements of a given iterable in a specific order (either ascending or descending). The syntax of sorted() is: sorted(iterable, key=None, reverse=False) sorted() Parameters sorted() can take a maximum of three parameters: iterable -</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -877,11 +877,11 @@
       
       <item>
         <title>Bézout&#39;s identity</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-bezu-identity/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/math-bezu-identity/</link>
         <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-bezu-identity/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/math-bezu-identity/</guid>
         <description>Bezu Identity This post just briefly explains Bézout&amp;rsquo;s theorem in arithmetic. reference Wikipedia-Bézout&amp;rsquo;s identity Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -913,11 +913,11 @@
       
       <item>
         <title>LeetCode 67</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-67/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-67/</link>
         <pubDate>Sat, 21 Mar 2020 13:58:09 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 13:58:09 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-67/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-67/</guid>
         <description>LeetCode 67. Add Binary Included in my LeetCode Topic Given two binary strings, return their sum (also a binary string). The input strings are both non-empty and contains only characters 1 or 0. Example Input: a = &amp;quot;11&amp;quot;, b = &amp;quot;1&amp;quot; Output: &amp;quot;100&amp;quot; Input: a = &amp;quot;1010&amp;quot;, b = &amp;quot;1011&amp;quot; Output: &amp;quot;10101&amp;quot; Solution Ⅰ in-built function No more words.😂 Code 1 2 3 class</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -953,11 +953,11 @@
       
       <item>
         <title>LeetCode Interview Problems 01.06</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0106/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-interview-problems-0106/</link>
         <pubDate>Sat, 21 Mar 2020 00:59:12 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 00:59:12 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0106/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-interview-problems-0106/</guid>
         <description>LeetCode Interview Problem 01.06. Compress String LCCI Included in my LeetCode Topic Implement a method to perform basic string compression using the counts of repeated characters. For example, the string aabcccccaaa would become a2blc5a3. If the &amp;ldquo;compressed&amp;rdquo; string would not become smaller than the original string, your method should return the original string. You can assume the string has only uppercase and lowercase letters (a - z). Example Input: &amp;quot;aabcccccaaa&amp;quot;</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -989,11 +989,11 @@
       
       <item>
         <title>Python f-string</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-f-string/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/python-f-string/</link>
         <pubDate>Fri, 20 Mar 2020 18:49:36 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 18:49:36 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-f-string/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/python-f-string/</guid>
         <description>My python version is 3.7 f-string Included in python daily tips f-string also known as formatted string literals, a new string formatting method introduced in Python 3.6. The method is derived from PEP 498 – Literal String Interpolation, is designed to make the operation of formatting string more concise.f-string is a string literal that is prefixed with &amp;lsquo;f&amp;rsquo; or &amp;lsquo;F&#39;(like f&amp;rsquo;xxx&amp;rsquo; or F&amp;rsquo;xxx&amp;rsquo;). These strings may contain replacement fields, which</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -1025,11 +1025,11 @@
       
       <item>
         <title>LeetCode 409</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-409/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-409/</link>
         <pubDate>Fri, 20 Mar 2020 15:50:19 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 15:50:19 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-409/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-409/</guid>
         <description>LeetCode 409. Longest Palindrome Included in my LeetCode Topic Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters. This is case sensitive, for example &amp;ldquo;Aa&amp;rdquo; is not considered a palindrome here. Example Input:&amp;quot;abccccdd&amp;quot; Output:7 Explanation: One longest palindrome that can be built is &amp;quot;dccaccd&amp;quot;, whose length is 7. Note Assume the length of given string</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -1065,11 +1065,11 @@
       
       <item>
         <title>Python collections.Counter Time Complexity</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-counter-time-complexity/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/python-counter-time-complexity/</link>
         <pubDate>Fri, 20 Mar 2020 13:50:44 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 13:50:44 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-counter-time-complexity/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/python-counter-time-complexity/</guid>
         <description>My python version is 3.7 The time complexity of collections.Counter() in Python As the source code shows, Counter is just a subclass of dict. Constructing it is O(n), because it has to iterate over the input, but operations on individual elements remain O(1). Note also from that source that it does not keep an order internally, but simply sorts by most common on output, in the ***__repr__*** method. Origin post</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -1101,11 +1101,11 @@
       
       <item>
         <title>Python Time Complexity</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-time-complexity/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/python-time-complexity/</link>
         <pubDate>Thu, 19 Mar 2020 15:37:56 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 15:37:56 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-time-complexity/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/python-time-complexity/</guid>
         <description>My python version is 3.7 Time complexity of Python&amp;rsquo;s built-ins Included in python daily tips reference Python Wiki This page documents the time-complexity (aka &amp;ldquo;Big O&amp;rdquo; or &amp;ldquo;Big Oh&amp;rdquo;) of various operations in current CPython (last edited 2017-06-05 19:58:18 by JonathanHartley). Other Python implementations (or older or still-under development versions of CPython) may have slightly different performance characteristics. However, it is generally safe to assume that they are not slower</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -1137,11 +1137,11 @@
       
       <item>
         <title>Code Runtime in Python</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-code-runtime/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/python-code-runtime/</link>
         <pubDate>Thu, 19 Mar 2020 14:50:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 14:50:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-code-runtime/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/python-code-runtime/</guid>
         <description>My python version is 3.7
  Several ways to get code runtime in Python3.7  timeit &amp;ndash; Measure execution time of small code snippets
  Ⅰ 1 2 3 4 5  import timeitstart=timeit.default_timer()#code block end=timeit.default_timer()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  In addition 1 2  %timeit (1, 2, 3)# 7.87 ns ± 0.261 ns per loop (mean ± std. dev. of 7 runs, 100000000 loops each)   Ⅱ 1 2 3 4 5  import timestart =time.</description>
@@ -1175,11 +1175,11 @@
       
       <item>
         <title>Python for-else</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-for-else/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/python-for-else/</link>
         <pubDate>Wed, 18 Mar 2020 23:02:24 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 23:02:24 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-for-else/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/python-for-else/</guid>
         <description>My python version is 3.7
  Python for-else &amp;amp; while-else clauses Included in python daily tips for-else Basic structure This is the basic structure of a for-else loop:
 1 2 3 4 5 6 7 8  for item in container: if search_something(item): # Found it! process(item) break else: # Didn&amp;#39;t find anything.. not_found_in_container()   Explanation for loops also have an else clause which most of us are unfamiliar with.</description>
@@ -1213,11 +1213,11 @@
       
       <item>
         <title>LeetCode 1160</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1160/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-1160/</link>
         <pubDate>Wed, 18 Mar 2020 22:58:28 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 22:58:28 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1160/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-1160/</guid>
         <description>LeetCode 1160. Find Words That Can Be Formed by Characters Included in my LeetCode Topic You are given an array of strings words and a string chars. A string is good if it can be formed by characters from chars (each character can only be used once). Return the sum of lengths of all good strings in words. Example Input: words = [&amp;quot;cat&amp;quot;,&amp;quot;bt&amp;quot;,&amp;quot;hat&amp;quot;,&amp;quot;tree&amp;quot;], chars = &amp;quot;atach&amp;quot; Output: 6 Explanation: The</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -1253,11 +1253,11 @@
       
       <item>
         <title>Hugo Host on Github</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/hugo-host-on-github/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/hugo-host-on-github/</link>
         <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Tue, 10 Mar 2020 18:50:30 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/hugo-host-on-github/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/hugo-host-on-github/</guid>
         <description>Use GitHub to Host a Free Static Website Included in Hugo Blog This is an easy way to host your blog and a quick way.
 Change Your Publish Directory Delete &amp;ldquo;public&amp;rdquo; folder Delete it first, if your blog&amp;rsquo;s root directory has a &amp;ldquo;public&amp;rdquo; folder.
 sudo rm -rf dd
@@ -1297,11 +1297,11 @@ Execute this command would change your publish directory to &amp;ldquo;docs&amp;
       
       <item>
         <title>Git Basic Commands 1</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/git-basic-commands-1/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/git-basic-commands-1/</link>
         <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 09 Mar 2020 14:23:08 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/git-basic-commands-1/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/git-basic-commands-1/</guid>
         <description>Included in Hugo Blog (Do u want to build a static website for yourself?) Included in Git Commands &amp;amp; FAQ git clone There are 2 ways to use git clone
 1. Using HTTPS This is a simple way to clone github repos from others or you.
 git clone HTTPS(https://github.com/example.git)
@@ -1344,11 +1344,11 @@ git clone HTTPS(https://github.com/example.git)
       
       <item>
         <title>Install Git</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/install-git/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/install-git/</link>
         <pubDate>Mon, 09 Mar 2020 13:28:12 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 09 Mar 2020 13:28:12 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/install-git/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/install-git/</guid>
         <description>Included in Hugo Blog (Do u want to build a static website for yourself?) What is Git? Git is a free, open source distributed version control system tool designed to handle everything from small to very large projects with speed and efficiency.
  reference https://git-scm.com/
  Download Git WindowsLinuxMacOSchoco install git.install#orscoop install git If you didn&amp;rsquo;t install any package manager or installer, like choco, scoop</description>
@@ -1390,11 +1390,11 @@ git clone HTTPS(https://github.com/example.git)
       
       <item>
         <title>Hello Hugo</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/hello-hugo/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/hello-hugo/</link>
         <pubDate>Sun, 08 Mar 2020 20:35:41 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 08 Mar 2020 20:35:41 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/hello-hugo/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/hello-hugo/</guid>
         <description>Let&amp;rsquo;s Build a Static Website Included in Hugo Blog Why Hugo? &amp;amp; What is Hugo? Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. &amp;hellip; Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website&amp;rsquo;s end users and an ideal writing experience for website authors.
  reference https://gohugo.</description>
         
@@ -1427,11 +1427,11 @@ git clone HTTPS(https://github.com/example.git)
       
       <item>
         <title>Solve the problem that git pull/push needs to enter the password every time（Use GitHub private repo）</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/store-github-username-and-passwd/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/store-github-username-and-passwd/</link>
         <pubDate>Sun, 08 Mar 2020 01:46:55 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 08 Mar 2020 01:46:55 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/store-github-username-and-passwd/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/store-github-username-and-passwd/</guid>
         <description>Included in Git Commands &amp;amp; FAQ Solve the problem that git pull/push needs to enter the password every time（Use GitHub private repo） git bash at the folder that you needs to operate.
 git config --global credential.helper store
 then do git pull or git push，will be prompted to enter your userName and userPasswd. No longer needed next time

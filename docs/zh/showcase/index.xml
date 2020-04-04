@@ -7,16 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Showcase overview on 👌天线宝宝的博客</title>
-    <link>https://iiijesusiii.github.io/Teletubby/zh/showcase/</link>
+    <link>http://localhost:7756/Teletubby/zh/showcase/</link>
     <description>Recent content in Showcase overview on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
     <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
-    <copyright>©{year},Teletubby, All Rights Reserved</copyright>
+    <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/showcase/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:7756/Teletubby/zh/showcase/index.xml" rel="self" type="application/rss+xml" />
     
     
     

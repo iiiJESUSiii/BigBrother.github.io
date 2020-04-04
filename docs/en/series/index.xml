@@ -7,16 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby/en/series/</link>
+    <link>http://localhost:7756/Teletubby/en/series/</link>
     <description>Recent content in Series on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
     <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
-    <copyright>©{year},Teletubby, All Rights Reserved</copyright>
+    <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 23:38:03 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:7756/Teletubby/en/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>LeetCode</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/series/leetcode/</link>
+        <link>http://localhost:7756/Teletubby/en/series/leetcode/</link>
         <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/en/series/leetcode/</guid>
+        <guid>http://localhost:7756/Teletubby/en/series/leetcode/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>Math</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/series/math/</link>
+        <link>http://localhost:7756/Teletubby/en/series/math/</link>
         <pubDate>Wed, 01 Apr 2020 14:09:23 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/en/series/math/</guid>
+        <guid>http://localhost:7756/Teletubby/en/series/math/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>Python Daily Tips</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/series/python-daily-tips/</link>
+        <link>http://localhost:7756/Teletubby/en/series/python-daily-tips/</link>
         <pubDate>Mon, 30 Mar 2020 00:10:28 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/en/series/python-daily-tips/</guid>
+        <guid>http://localhost:7756/Teletubby/en/series/python-daily-tips/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -78,11 +78,11 @@
       
       <item>
         <title>Hugo Blog</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/series/hugo-blog/</link>
+        <link>http://localhost:7756/Teletubby/en/series/hugo-blog/</link>
         <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/en/series/hugo-blog/</guid>
+        <guid>http://localhost:7756/Teletubby/en/series/hugo-blog/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -96,11 +96,11 @@
       
       <item>
         <title>Git Commands &amp; FAQ</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/series/git-commands-faq/</link>
+        <link>http://localhost:7756/Teletubby/en/series/git-commands-faq/</link>
         <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/en/series/git-commands-faq/</guid>
+        <guid>http://localhost:7756/Teletubby/en/series/git-commands-faq/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>

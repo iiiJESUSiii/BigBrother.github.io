@@ -7,16 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>sieve of Eratosthenes on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby/en/tags/sieve-of-eratosthenes/</link>
+    <link>http://localhost:7756/Teletubby/en/tags/sieve-of-eratosthenes/</link>
     <description>Recent content in sieve of Eratosthenes on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
     <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
-    <copyright>©{year},Teletubby, All Rights Reserved</copyright>
+    <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Sat, 28 Mar 2020 11:13:10 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/sieve-of-eratosthenes/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:7756/Teletubby/en/tags/sieve-of-eratosthenes/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>LeetCode 204</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-204/</link>
+        <link>http://localhost:7756/Teletubby/en/posts/leetcode-204/</link>
         <pubDate>Sat, 28 Mar 2020 11:13:10 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 11:13:10 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-204/</guid>
+        <guid>http://localhost:7756/Teletubby/en/posts/leetcode-204/</guid>
         <description>LeetCode 204. Count Primes Included in my LeetCode Topic Count the number of prime numbers less than a non-negative number, n. Example Input: 10 Output: 4 Explanation: There are 4 prime numbers less than 10, they are 2, 3, 5, 7. Solution sieve of Eratosthenes. Code 1 2 3 4 5 6 7 8 9 10 11 class Solution: def countPrimes(self, n: int) -&amp;gt; int: if n &amp;lt; 2: return</description>
         
         <dc:creator>Teletubby</dc:creator>
