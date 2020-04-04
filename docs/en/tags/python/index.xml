@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>python on 👌Teletubby&#39;s Blog</title>
-    <link>http://localhost:7756/Teletubby/en/tags/python/</link>
+    <link>https://iiijesusiii.github.io/Teletubby/en/tags/python/</link>
     <description>Recent content in python on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Mon, 30 Mar 2020 00:10:28 +0800</lastBuildDate>
     
-        <atom:link href="http://localhost:7756/Teletubby/en/tags/python/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Python Sorting Algorithms</title>
-        <link>http://localhost:7756/Teletubby/en/posts/python-sorting-algorithms/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-sorting-algorithms/</link>
         <pubDate>Mon, 30 Mar 2020 00:10:28 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 30 Mar 2020 00:10:28 +0800</atom:modified>
-        <guid>http://localhost:7756/Teletubby/en/posts/python-sorting-algorithms/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-sorting-algorithms/</guid>
         <description>My python version is 3.7 Sorting Algorithms in Python Included in python daily tips A Sorting Algorithm is used to rearrange a given array or list elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of element in the respective data structure. BTW, The default implement of list.sort() in Python is Timsort Sorting Algorithm Types (common) Bubble Sort. Selection Sort.</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -64,11 +64,11 @@
       
       <item>
         <title>Python break out of multiple loops</title>
-        <link>http://localhost:7756/Teletubby/en/posts/python-break-loop/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-break-loop/</link>
         <pubDate>Fri, 27 Mar 2020 10:37:35 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 27 Mar 2020 10:37:35 +0800</atom:modified>
-        <guid>http://localhost:7756/Teletubby/en/posts/python-break-loop/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-break-loop/</guid>
         <description>My python version is 3.7 How to break out of multiple loops Included in python daily tips Custom exception 1 2 3 4 5 6 7 8 9 10 11 class GetOutOfLoop(Exception): pass try: for i in range(5): for j in range(5): if i == j == 2: raise GetOutOfLoop() else: print(i,&amp;#39;----&amp;#39;, j) except GetOutOfLoop: pass Encapsulating these loops as a function 1 2 3 4 5 6 7 8</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -100,11 +100,11 @@
       
       <item>
         <title>Python timeit</title>
-        <link>http://localhost:7756/Teletubby/en/posts/python-timeit/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-timeit/</link>
         <pubDate>Sun, 22 Mar 2020 19:54:21 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 22 Mar 2020 19:54:21 +0800</atom:modified>
-        <guid>http://localhost:7756/Teletubby/en/posts/python-timeit/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-timeit/</guid>
         <description>My python version is 3.7 timeit - Measure execution time of small code snippets Included in python daily tips This module provides a simple way to time small bits of Python code. It avoids a number of common traps for measuring execution times. This can be achieved through the command line interface and the Python interface. Here only talk about the python interface. Python Interface The module defines three convenience</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -136,11 +136,11 @@
       
       <item>
         <title>Python sorted()</title>
-        <link>http://localhost:7756/Teletubby/en/posts/python-sorted/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-sorted/</link>
         <pubDate>Sun, 22 Mar 2020 14:49:32 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 22 Mar 2020 14:49:32 +0800</atom:modified>
-        <guid>http://localhost:7756/Teletubby/en/posts/python-sorted/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-sorted/</guid>
         <description>My python version is 3.7 python sorted() (Built-in Functions) Included in python daily tips Original post from: Python sorted() The sorted() function returns a sorted list from the items in an iterable. The sorted() function sorts the elements of a given iterable in a specific order (either ascending or descending). The syntax of sorted() is: sorted(iterable, key=None, reverse=False) sorted() Parameters sorted() can take a maximum of three parameters: iterable -</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -172,11 +172,11 @@
       
       <item>
         <title>Python f-string</title>
-        <link>http://localhost:7756/Teletubby/en/posts/python-f-string/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-f-string/</link>
         <pubDate>Fri, 20 Mar 2020 18:49:36 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 18:49:36 +0800</atom:modified>
-        <guid>http://localhost:7756/Teletubby/en/posts/python-f-string/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-f-string/</guid>
         <description>My python version is 3.7 f-string Included in python daily tips f-string also known as formatted string literals, a new string formatting method introduced in Python 3.6. The method is derived from PEP 498 – Literal String Interpolation, is designed to make the operation of formatting string more concise.f-string is a string literal that is prefixed with &amp;lsquo;f&amp;rsquo; or &amp;lsquo;F&#39;(like f&amp;rsquo;xxx&amp;rsquo; or F&amp;rsquo;xxx&amp;rsquo;). These strings may contain replacement fields, which</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -208,11 +208,11 @@
       
       <item>
         <title>Python collections.Counter Time Complexity</title>
-        <link>http://localhost:7756/Teletubby/en/posts/python-counter-time-complexity/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-counter-time-complexity/</link>
         <pubDate>Fri, 20 Mar 2020 13:50:44 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 13:50:44 +0800</atom:modified>
-        <guid>http://localhost:7756/Teletubby/en/posts/python-counter-time-complexity/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-counter-time-complexity/</guid>
         <description>My python version is 3.7 The time complexity of collections.Counter() in Python As the source code shows, Counter is just a subclass of dict. Constructing it is O(n), because it has to iterate over the input, but operations on individual elements remain O(1). Note also from that source that it does not keep an order internally, but simply sorts by most common on output, in the ***__repr__*** method. Origin post</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -244,11 +244,11 @@
       
       <item>
         <title>Python Time Complexity</title>
-        <link>http://localhost:7756/Teletubby/en/posts/python-time-complexity/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-time-complexity/</link>
         <pubDate>Thu, 19 Mar 2020 15:37:56 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 15:37:56 +0800</atom:modified>
-        <guid>http://localhost:7756/Teletubby/en/posts/python-time-complexity/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-time-complexity/</guid>
         <description>My python version is 3.7 Time complexity of Python&amp;rsquo;s built-ins Included in python daily tips reference Python Wiki This page documents the time-complexity (aka &amp;ldquo;Big O&amp;rdquo; or &amp;ldquo;Big Oh&amp;rdquo;) of various operations in current CPython (last edited 2017-06-05 19:58:18 by JonathanHartley). Other Python implementations (or older or still-under development versions of CPython) may have slightly different performance characteristics. However, it is generally safe to assume that they are not slower</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -280,11 +280,11 @@
       
       <item>
         <title>Code Runtime in Python</title>
-        <link>http://localhost:7756/Teletubby/en/posts/python-code-runtime/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-code-runtime/</link>
         <pubDate>Thu, 19 Mar 2020 14:50:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 19 Mar 2020 14:50:58 +0800</atom:modified>
-        <guid>http://localhost:7756/Teletubby/en/posts/python-code-runtime/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-code-runtime/</guid>
         <description>My python version is 3.7
  Several ways to get code runtime in Python3.7  timeit &amp;ndash; Measure execution time of small code snippets
  Ⅰ 1 2 3 4 5  import timeitstart=timeit.default_timer()#code block end=timeit.default_timer()print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start))  In addition 1 2  %timeit (1, 2, 3)# 7.87 ns ± 0.261 ns per loop (mean ± std. dev. of 7 runs, 100000000 loops each)   Ⅱ 1 2 3 4 5  import timestart =time.</description>
@@ -318,11 +318,11 @@
       
       <item>
         <title>Python for-else</title>
-        <link>http://localhost:7756/Teletubby/en/posts/python-for-else/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/python-for-else/</link>
         <pubDate>Wed, 18 Mar 2020 23:02:24 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 23:02:24 +0800</atom:modified>
-        <guid>http://localhost:7756/Teletubby/en/posts/python-for-else/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/python-for-else/</guid>
         <description>My python version is 3.7
  Python for-else &amp;amp; while-else clauses Included in python daily tips for-else Basic structure This is the basic structure of a for-else loop:
 1 2 3 4 5 6 7 8  for item in container: if search_something(item): # Found it! process(item) break else: # Didn&amp;#39;t find anything.. not_found_in_container()   Explanation for loops also have an else clause which most of us are unfamiliar with.</description>

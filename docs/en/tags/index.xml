@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on 👌Teletubby&#39;s Blog</title>
-    <link>http://localhost:7756/Teletubby/en/tags/</link>
+    <link>https://iiijesusiii.github.io/Teletubby/en/tags/</link>
     <description>Recent content in Tags on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 23:38:03 +0800</lastBuildDate>
     
-        <atom:link href="http://localhost:7756/Teletubby/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>leetCodeMed</title>
-        <link>http://localhost:7756/Teletubby/en/tags/leetcodemed/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodemed/</link>
         <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/leetcodemed/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodemed/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>Trie</title>
-        <link>http://localhost:7756/Teletubby/en/tags/trie/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/trie/</link>
         <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/trie/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/trie/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>binary tree</title>
-        <link>http://localhost:7756/Teletubby/en/tags/binary-tree/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/binary-tree/</link>
         <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/binary-tree/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/binary-tree/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -78,11 +78,11 @@
       
       <item>
         <title>leetCodeEasy</title>
-        <link>http://localhost:7756/Teletubby/en/tags/leetcodeeasy/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</link>
         <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/leetcodeeasy/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodeeasy/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -96,11 +96,11 @@
       
       <item>
         <title>recursion</title>
-        <link>http://localhost:7756/Teletubby/en/tags/recursion/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/recursion/</link>
         <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/recursion/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/recursion/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -114,11 +114,11 @@
       
       <item>
         <title>regular expression</title>
-        <link>http://localhost:7756/Teletubby/en/tags/regular-expression/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/regular-expression/</link>
         <pubDate>Wed, 01 Apr 2020 21:52:05 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/regular-expression/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/regular-expression/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -132,11 +132,11 @@
       
       <item>
         <title>zeller&#39;s congruence</title>
-        <link>http://localhost:7756/Teletubby/en/tags/zellers-congruence/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/zellers-congruence/</link>
         <pubDate>Wed, 01 Apr 2020 14:09:23 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/zellers-congruence/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/zellers-congruence/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -150,11 +150,11 @@
       
       <item>
         <title>Josephus problem</title>
-        <link>http://localhost:7756/Teletubby/en/tags/josephus-problem/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/josephus-problem/</link>
         <pubDate>Mon, 30 Mar 2020 22:07:04 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/josephus-problem/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/josephus-problem/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -168,11 +168,11 @@
       
       <item>
         <title>python</title>
-        <link>http://localhost:7756/Teletubby/en/tags/python/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/python/</link>
         <pubDate>Mon, 30 Mar 2020 00:10:28 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/python/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/python/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -186,11 +186,11 @@
       
       <item>
         <title>bezu identity</title>
-        <link>http://localhost:7756/Teletubby/en/tags/bezu-identity/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/bezu-identity/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/bezu-identity/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -204,11 +204,11 @@
       
       <item>
         <title>BFS</title>
-        <link>http://localhost:7756/Teletubby/en/tags/bfs/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/bfs/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/bfs/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/bfs/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -222,11 +222,11 @@
       
       <item>
         <title>DFS</title>
-        <link>http://localhost:7756/Teletubby/en/tags/dfs/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/dfs/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/dfs/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/dfs/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -240,11 +240,11 @@
       
       <item>
         <title>gcd</title>
-        <link>http://localhost:7756/Teletubby/en/tags/gcd/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/gcd/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/gcd/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/gcd/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -258,11 +258,11 @@
       
       <item>
         <title>DP</title>
-        <link>http://localhost:7756/Teletubby/en/tags/dp/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/dp/</link>
         <pubDate>Sun, 29 Mar 2020 00:00:25 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/dp/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/dp/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -276,11 +276,11 @@
       
       <item>
         <title>sieve of Eratosthenes</title>
-        <link>http://localhost:7756/Teletubby/en/tags/sieve-of-eratosthenes/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/sieve-of-eratosthenes/</link>
         <pubDate>Sat, 28 Mar 2020 11:13:10 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/sieve-of-eratosthenes/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/sieve-of-eratosthenes/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -294,11 +294,11 @@
       
       <item>
         <title>double pointers</title>
-        <link>http://localhost:7756/Teletubby/en/tags/double-pointers/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/double-pointers/</link>
         <pubDate>Sat, 28 Mar 2020 02:34:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/double-pointers/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/double-pointers/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -312,11 +312,11 @@
       
       <item>
         <title>BS</title>
-        <link>http://localhost:7756/Teletubby/en/tags/bs/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/bs/</link>
         <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/bs/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/bs/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -330,11 +330,11 @@
       
       <item>
         <title>greedy algorithm</title>
-        <link>http://localhost:7756/Teletubby/en/tags/greedy-algorithm/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/greedy-algorithm/</link>
         <pubDate>Sun, 22 Mar 2020 23:54:53 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/greedy-algorithm/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/greedy-algorithm/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -348,11 +348,11 @@
       
       <item>
         <title>hashTable</title>
-        <link>http://localhost:7756/Teletubby/en/tags/hashtable/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/hashtable/</link>
         <pubDate>Sat, 21 Mar 2020 13:58:09 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/hashtable/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/hashtable/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -366,11 +366,11 @@
       
       <item>
         <title>git</title>
-        <link>http://localhost:7756/Teletubby/en/tags/git/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/git/</link>
         <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/git/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/git/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -384,11 +384,11 @@
       
       <item>
         <title>github</title>
-        <link>http://localhost:7756/Teletubby/en/tags/github/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/github/</link>
         <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/github/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/github/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -402,11 +402,11 @@
       
       <item>
         <title>hugo</title>
-        <link>http://localhost:7756/Teletubby/en/tags/hugo/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/tags/hugo/</link>
         <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:7756/Teletubby/en/tags/hugo/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/tags/hugo/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
