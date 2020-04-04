@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Trie on 👌Teletubby&#39;s Blog</title>
-    <link>http://localhost:12356/Teletubby/en/tags/trie/</link>
+    <link>https://iiijesusiii.github.io/Teletubby/en/tags/trie/</link>
     <description>Recent content in Trie on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 23:38:03 +0800</lastBuildDate>
     
-        <atom:link href="http://localhost:12356/Teletubby/en/tags/trie/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/trie/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>LeetCode 820</title>
-        <link>http://localhost:12356/Teletubby/en/posts/leetcode-820/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-820/</link>
         <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 23:38:03 +0800</atom:modified>
-        <guid>http://localhost:12356/Teletubby/en/posts/leetcode-820/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-820/</guid>
         <description>LeetCode 820. Short Encoding of Words Included in my LeetCode Topic Given a list of words, we may encode it by writing a reference string S and a list of indexes A. For example, if the list of words is [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldquo;bell&amp;rdquo;], we can write it as S = &amp;ldquo;time#bell#&amp;quot; and indexes = [0, 2, 5]. Then for each index, we will recover the word by reading from the</description>
         
         <dc:creator>Teletubby</dc:creator>

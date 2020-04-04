@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on 👌天线宝宝的博客</title>
-    <link>http://localhost:12356/Teletubby/zh/series/</link>
+    <link>https://iiijesusiii.github.io/Teletubby/zh/series/</link>
     <description>Recent content in Series on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 02 Apr 2020 00:08:56 +0800</lastBuildDate>
     
-        <atom:link href="http://localhost:12356/Teletubby/zh/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>唐诗</title>
-        <link>http://localhost:12356/Teletubby/zh/series/%E5%94%90%E8%AF%97/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/series/%E5%94%90%E8%AF%97/</link>
         <pubDate>Thu, 02 Apr 2020 00:08:56 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:12356/Teletubby/zh/series/%E5%94%90%E8%AF%97/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/series/%E5%94%90%E8%AF%97/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>LeetCode</title>
-        <link>http://localhost:12356/Teletubby/zh/series/leetcode/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/series/leetcode/</link>
         <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:12356/Teletubby/zh/series/leetcode/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/series/leetcode/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>Math</title>
-        <link>http://localhost:12356/Teletubby/zh/series/math/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/series/math/</link>
         <pubDate>Wed, 01 Apr 2020 14:09:23 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:12356/Teletubby/zh/series/math/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/series/math/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -78,11 +78,11 @@
       
       <item>
         <title>Python Daily Tips</title>
-        <link>http://localhost:12356/Teletubby/zh/series/python-daily-tips/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/series/python-daily-tips/</link>
         <pubDate>Mon, 30 Mar 2020 00:10:28 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:12356/Teletubby/zh/series/python-daily-tips/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/series/python-daily-tips/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -96,11 +96,11 @@
       
       <item>
         <title>数学</title>
-        <link>http://localhost:12356/Teletubby/zh/series/%E6%95%B0%E5%AD%A6/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/series/%E6%95%B0%E5%AD%A6/</link>
         <pubDate>Sat, 28 Mar 2020 01:26:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:12356/Teletubby/zh/series/%E6%95%B0%E5%AD%A6/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/series/%E6%95%B0%E5%AD%A6/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -114,11 +114,11 @@
       
       <item>
         <title>Hugo Blog</title>
-        <link>http://localhost:12356/Teletubby/zh/series/hugo-blog/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/series/hugo-blog/</link>
         <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:12356/Teletubby/zh/series/hugo-blog/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/series/hugo-blog/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -132,11 +132,11 @@
       
       <item>
         <title>Git Commands &amp; FAQ</title>
-        <link>http://localhost:12356/Teletubby/zh/series/git-commands-faq/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/series/git-commands-faq/</link>
         <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>http://localhost:12356/Teletubby/zh/series/git-commands-faq/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/series/git-commands-faq/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
