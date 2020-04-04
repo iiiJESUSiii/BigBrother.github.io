@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>数学 on 👌天线宝宝的博客</title>
-    <link>https://iiijesusiii.github.io/Teletubby/zh/series/%E6%95%B0%E5%AD%A6/</link>
+    <link>http://localhost:12356/Teletubby/zh/series/%E6%95%B0%E5%AD%A6/</link>
     <description>Recent content in 数学 on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 28 Mar 2020 01:26:03 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/series/%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:12356/Teletubby/zh/series/%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>关于最大公约数</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/math-gcd/</link>
+        <link>http://localhost:12356/Teletubby/zh/posts/math-gcd/</link>
         <pubDate>Sat, 28 Mar 2020 01:26:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 01:26:03 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/math-gcd/</guid>
+        <guid>http://localhost:12356/Teletubby/zh/posts/math-gcd/</guid>
         <description>最大公约数 先占个坑 😜</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>贝祖等式</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/math-bezu-identity/</link>
+        <link>http://localhost:12356/Teletubby/zh/posts/math-bezu-identity/</link>
         <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/math-bezu-identity/</guid>
+        <guid>http://localhost:12356/Teletubby/zh/posts/math-bezu-identity/</guid>
         <description>贝祖等式 这里只是简单的叙述 贝祖定理(裴蜀定理)。 参考 贝祖等式 参考 裴蜀定理 对任何整数 a，b 和它们的最大公约数 d，关于未知数 x 和 y 的线性不定方程</description>
         
         <dc:creator>Teletubby</dc:creator>

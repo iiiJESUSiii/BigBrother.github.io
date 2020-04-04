@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>hugo on 👌天线宝宝的博客</title>
-    <link>https://iiijesusiii.github.io/Teletubby/zh/tags/hugo/</link>
+    <link>http://localhost:12356/Teletubby/zh/tags/hugo/</link>
     <description>Recent content in hugo on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 10 Mar 2020 18:50:30 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:12356/Teletubby/zh/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>将Hugo托管在Github上</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/hugo-host-on-github/</link>
+        <link>http://localhost:12356/Teletubby/zh/posts/hugo-host-on-github/</link>
         <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Tue, 10 Mar 2020 18:50:30 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/hugo-host-on-github/</guid>
+        <guid>http://localhost:12356/Teletubby/zh/posts/hugo-host-on-github/</guid>
         <description>使用 Github 托管个人静态网站 已收录在 Hugo Blog 这个托管你个人博客的方法既简便又快捷。 更改你的发布（publish）目录 删除 &amp;ldquo;public&amp;rdquo; 文件夹 如果你博客的 根目录 下有</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -64,11 +64,11 @@
       
       <item>
         <title>你好 Hugo</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/hello-hugo/</link>
+        <link>http://localhost:12356/Teletubby/zh/posts/hello-hugo/</link>
         <pubDate>Sun, 08 Mar 2020 20:35:41 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 08 Mar 2020 20:35:41 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/hello-hugo/</guid>
+        <guid>http://localhost:12356/Teletubby/zh/posts/hello-hugo/</guid>
         <description>来白手建站吧，搭建一个hugo静态网站 已收录在 Hugo Blog 为什么选择 Hugo? &amp;amp; 什么是 Hugo? Hugo是一种用Go语言编写的快速的、现代静态网站生成器，为能够更有</description>
         
         <dc:creator>Teletubby</dc:creator>

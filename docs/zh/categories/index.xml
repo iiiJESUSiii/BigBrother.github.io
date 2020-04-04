@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on 👌天线宝宝的博客</title>
-    <link>https://iiijesusiii.github.io/Teletubby/zh/categories/</link>
+    <link>http://localhost:12356/Teletubby/zh/categories/</link>
     <description>Recent content in Categories on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 02 Apr 2020 00:08:56 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:12356/Teletubby/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>贰零贰零零肆</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%82%86/</link>
+        <link>http://localhost:12356/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%82%86/</link>
         <pubDate>Thu, 02 Apr 2020 00:08:56 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%82%86/</guid>
+        <guid>http://localhost:12356/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%82%86/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>贰零贰零零贰</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/</link>
+        <link>http://localhost:12356/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/</link>
         <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/</guid>
+        <guid>http://localhost:12356/Teletubby/zh/categories/%E8%B4%B0%E9%9B%B6%E8%B4%B0%E9%9B%B6%E9%9B%B6%E8%B4%B0/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>Hello World!</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/categories/hello-world/</link>
+        <link>http://localhost:12356/Teletubby/zh/categories/hello-world/</link>
         <pubDate>Thu, 19 Mar 2020 14:50:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/categories/hello-world/</guid>
+        <guid>http://localhost:12356/Teletubby/zh/categories/hello-world/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>

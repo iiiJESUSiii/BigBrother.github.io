@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Publications on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby/en/publication/</link>
+    <link>http://localhost:12356/Teletubby/en/publication/</link>
     <description>Recent content in Publications on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/publication/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:12356/Teletubby/en/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>article</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/publication/article/</link>
+        <link>http://localhost:12356/Teletubby/en/publication/article/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/publication/article/</guid>
+        <guid>http://localhost:12356/Teletubby/en/publication/article/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>book</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/publication/book/</link>
+        <link>http://localhost:12356/Teletubby/en/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/publication/book/</guid>
+        <guid>http://localhost:12356/Teletubby/en/publication/book/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>misc</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/publication/misc/</link>
+        <link>http://localhost:12356/Teletubby/en/publication/misc/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/publication/misc/</guid>
+        <guid>http://localhost:12356/Teletubby/en/publication/misc/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
