@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Josephus problem on 👌Teletubby&#39;s Blog</title>
-    <link>https://Teletubby.github.io/en/tags/josephus-problem/</link>
+    <link>https://iiijesusiii.github.io/Teletubby.github.io/en/tags/josephus-problem/</link>
     <description>Recent content in Josephus problem on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Mon, 30 Mar 2020 22:07:04 +0800</lastBuildDate>
     
-        <atom:link href="https://Teletubby.github.io/en/tags/josephus-problem/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby.github.io/en/tags/josephus-problem/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>LeetCode Interview Problems 62</title>
-        <link>https://Teletubby.github.io/en/posts/leetcode-interview-problems-62/</link>
+        <link>https://iiijesusiii.github.io/Teletubby.github.io/en/posts/leetcode-interview-problems-62/</link>
         <pubDate>Mon, 30 Mar 2020 22:07:04 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 30 Mar 2020 22:07:04 +0800</atom:modified>
-        <guid>https://Teletubby.github.io/en/posts/leetcode-interview-problems-62/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby.github.io/en/posts/leetcode-interview-problems-62/</guid>
         <description>LeetCode Interview Problem 62 The last number left in the circle Included in my LeetCode Topic n numbers from 0 to n-1 are arranged to a circle. Starting with the number 0 and deleting the mth number from the circle each time. Find the last number left in this circle. Example Input: n = 5, m = 3 Output: 3 Explanation: Numbers deleted each time are 2, 0, 4, 1,</description>
         
         <dc:creator>Teletubby</dc:creator>

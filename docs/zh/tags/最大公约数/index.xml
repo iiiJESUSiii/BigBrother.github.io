@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>最大公约数 on 👌天线宝宝的博客</title>
-    <link>https://Teletubby.github.io/zh/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0/</link>
+    <link>https://iiijesusiii.github.io/Teletubby.github.io/zh/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0/</link>
     <description>Recent content in 最大公约数 on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
     
-        <atom:link href="https://Teletubby.github.io/zh/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby.github.io/zh/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>LeetCode 365</title>
-        <link>https://Teletubby.github.io/zh/posts/leetcode-365/</link>
+        <link>https://iiijesusiii.github.io/Teletubby.github.io/zh/posts/leetcode-365/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
-        <guid>https://Teletubby.github.io/zh/posts/leetcode-365/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby.github.io/zh/posts/leetcode-365/</guid>
         <description>LeetCode 365. 水壶问题 已收录在 my LeetCode 题目 有两个容量分别为 x升 和 y升 的水壶以及无限多的水。请判断能否通过使用这两个水壶，从而可以得到恰好 z升 的水？ 如果可以</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>LeetCode 1071</title>
-        <link>https://Teletubby.github.io/zh/posts/leetcode-1071/</link>
+        <link>https://iiijesusiii.github.io/Teletubby.github.io/zh/posts/leetcode-1071/</link>
         <pubDate>Sat, 28 Mar 2020 02:22:28 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:22:28 +0800</atom:modified>
-        <guid>https://Teletubby.github.io/zh/posts/leetcode-1071/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby.github.io/zh/posts/leetcode-1071/</guid>
         <description>LeetCode 1071. 字符串的最大公因子 已收录在 my LeetCode 题目 对于字符串 S 和 T，只有在 S = T + &amp;hellip; + T（T 与自身连接 1 次或多次）时，我们才认定 &amp;ldquo;T 能除尽 S&amp;quot;。</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -116,11 +116,11 @@
       
       <item>
         <title>关于最大公约数</title>
-        <link>https://Teletubby.github.io/zh/posts/math-gcd/</link>
+        <link>https://iiijesusiii.github.io/Teletubby.github.io/zh/posts/math-gcd/</link>
         <pubDate>Sat, 28 Mar 2020 01:26:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 01:26:03 +0800</atom:modified>
-        <guid>https://Teletubby.github.io/zh/posts/math-gcd/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby.github.io/zh/posts/math-gcd/</guid>
         <description>最大公约数 先占个坑 😜</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -152,11 +152,11 @@
       
       <item>
         <title>LeetCode 914</title>
-        <link>https://Teletubby.github.io/zh/posts/leetcode-914/</link>
+        <link>https://iiijesusiii.github.io/Teletubby.github.io/zh/posts/leetcode-914/</link>
         <pubDate>Fri, 27 Mar 2020 23:32:29 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 27 Mar 2020 23:32:29 +0800</atom:modified>
-        <guid>https://Teletubby.github.io/zh/posts/leetcode-914/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby.github.io/zh/posts/leetcode-914/</guid>
         <description>LeetCode 914. 卡牌分组 已收录在 my LeetCode 题目 给定一副牌，每张牌上都写着一个整数。 此时，你需要选定一个数字 X，使我们可以将整副牌按下述规则分成 1 组或更多组： 每</description>
         
         <dc:creator>Teletubby</dc:creator>

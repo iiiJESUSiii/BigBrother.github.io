@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>bezu identity on 👌Teletubby&#39;s Blog</title>
-    <link>https://Teletubby.github.io/en/tags/bezu-identity/</link>
+    <link>https://iiijesusiii.github.io/Teletubby.github.io/en/tags/bezu-identity/</link>
     <description>Recent content in bezu identity on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
     
-        <atom:link href="https://Teletubby.github.io/en/tags/bezu-identity/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby.github.io/en/tags/bezu-identity/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>LeetCode 365</title>
-        <link>https://Teletubby.github.io/en/posts/leetcode-365/</link>
+        <link>https://iiijesusiii.github.io/Teletubby.github.io/en/posts/leetcode-365/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
-        <guid>https://Teletubby.github.io/en/posts/leetcode-365/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby.github.io/en/posts/leetcode-365/</guid>
         <description>LeetCode 365. Water and Jug Problem Included in my LeetCode Topic You are given two jugs with capacities x and y litres. There is an infinite amount of water supply available. You need to determine whether it is possible to measure exactly z litres using these two jugs. If z liters of water is measurable, you must have z liters of water contained within one or both buckets by the</description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>Bézout&#39;s identity</title>
-        <link>https://Teletubby.github.io/en/posts/math-bezu-identity/</link>
+        <link>https://iiijesusiii.github.io/Teletubby.github.io/en/posts/math-bezu-identity/</link>
         <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
-        <guid>https://Teletubby.github.io/en/posts/math-bezu-identity/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby.github.io/en/posts/math-bezu-identity/</guid>
         <description>Bezu Identity This post just briefly explains Bézout&amp;rsquo;s theorem in arithmetic. reference Wikipedia-Bézout&amp;rsquo;s identity Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that</description>
         
         <dc:creator>Teletubby</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>greedy algorithm on 👌Teletubby&#39;s Blog</title>
-    <link>https://Teletubby.github.io/en/tags/greedy-algorithm/</link>
+    <link>https://iiijesusiii.github.io/Teletubby.github.io/en/tags/greedy-algorithm/</link>
     <description>Recent content in greedy algorithm on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Sun, 22 Mar 2020 23:54:53 +0800</lastBuildDate>
     
-        <atom:link href="https://Teletubby.github.io/en/tags/greedy-algorithm/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby.github.io/en/tags/greedy-algorithm/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>LeetCode 945</title>
-        <link>https://Teletubby.github.io/en/posts/leetcode-945/</link>
+        <link>https://iiijesusiii.github.io/Teletubby.github.io/en/posts/leetcode-945/</link>
         <pubDate>Sun, 22 Mar 2020 23:54:53 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 22 Mar 2020 23:54:53 +0800</atom:modified>
-        <guid>https://Teletubby.github.io/en/posts/leetcode-945/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby.github.io/en/posts/leetcode-945/</guid>
         <description>LeetCode 945. Minimum Increment to Make Array Unique Included in my LeetCode Topic Given an array of integers A, a move consists of choosing any A[i], and incrementing it by 1. Return the least number of moves to make every value in A unique. Example Input: [1,2,2] Output: 1 Explanation: After 1 move, the array could be [1, 2, 3]. Input: [3,2,1,2,1,7] Output: 6 Explanation: After 6 moves, the array</description>
         
         <dc:creator>Teletubby</dc:creator>
