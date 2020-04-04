@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>BFS on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby.github.io/en/tags/bfs/</link>
+    <link>https://iiijesusiii.github.io/Teletubby/en/tags/bfs/</link>
     <description>Recent content in BFS on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby.github.io/en/tags/bfs/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/bfs/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>LeetCode 365</title>
-        <link>https://iiijesusiii.github.io/Teletubby.github.io/en/posts/leetcode-365/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-365/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby.github.io/en/posts/leetcode-365/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-365/</guid>
         <description>LeetCode 365. Water and Jug Problem Included in my LeetCode Topic You are given two jugs with capacities x and y litres. There is an infinite amount of water supply available. You need to determine whether it is possible to measure exactly z litres using these two jugs. If z liters of water is measurable, you must have z liters of water contained within one or both buckets by the</description>
         
         <dc:creator>Teletubby</dc:creator>

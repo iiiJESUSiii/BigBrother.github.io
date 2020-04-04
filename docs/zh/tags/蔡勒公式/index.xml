@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>蔡勒公式 on 👌天线宝宝的博客</title>
-    <link>https://iiijesusiii.github.io/Teletubby.github.io/zh/tags/%E8%94%A1%E5%8B%92%E5%85%AC%E5%BC%8F/</link>
+    <link>https://iiijesusiii.github.io/Teletubby/zh/tags/%E8%94%A1%E5%8B%92%E5%85%AC%E5%BC%8F/</link>
     <description>Recent content in 蔡勒公式 on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 14:09:23 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby.github.io/zh/tags/%E8%94%A1%E5%8B%92%E5%85%AC%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/tags/%E8%94%A1%E5%8B%92%E5%85%AC%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>蔡勒公式</title>
-        <link>https://iiijesusiii.github.io/Teletubby.github.io/zh/posts/math-zeller-congruence/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/math-zeller-congruence/</link>
         <pubDate>Wed, 01 Apr 2020 14:09:23 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 14:09:23 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby.github.io/zh/posts/math-zeller-congruence/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/math-zeller-congruence/</guid>
         <description>蔡勒公式 (Zeller&amp;rsquo;s Congruence) 蔡勒公式 是一种计算任何一日属一星期中哪一日的算法，由德国数学家 克里斯提安·蔡勒 推算出来。 公式 原版公式后面是没有 $-1$ 的，西方通常以星</description>
         
         <dc:creator>Teletubby</dc:creator>
