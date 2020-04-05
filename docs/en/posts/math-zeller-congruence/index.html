@@ -1607,9 +1607,9 @@
 <p><em><strong>Zeller&rsquo;s congruence</strong></em> is an algorithm devised by <a href="https://en.wikipedia.org/wiki/Christian_Zeller">Christian Zeller</a> to calculate the day of the week for any Julian or Gregorian calendar date. It can be considered to be based on the conversion between Julian day and the calendar date.</p>
 <h2 id="formula">Formula</h2>
 <p>For the Gregorian calendar, Zeller&rsquo;s congruence is</p>
-<p><span style="font-size:90%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br></p>
+<p>$h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</p>
 <p>for the Julian calendar it is</p>
-<p><span style="font-size:90%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br></p>
+<p>$h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</p>
 <p>where</p>
 <ul>
 <li><em><strong>h</strong></em> is the day of the week (0 = Saturday, 1 = Sunday, 2 = Monday, &hellip;, 6 = Friday).</li>
@@ -1623,14 +1623,10 @@
 <h2 id="note">Note</h2>
 <p>In this algorithm January and February are counted as months 13 and 14 of the previous year. E.g. if it is 2 February 2010, the algorithm counts the date as the second day of the fourteenth month of 2009 (02/14/2009 in DD/MM/YYYY format)<br />
 For an <a href="https://en.wikipedia.org/wiki/ISO_week_date"><em>ISO week date</em></a> Day-of-Week d (1 = Monday to 7 = Sunday), use</p>
-<p>$$<br />
-d = ((h + 5)\ mod\ 7) + 1 \\<br />
-$$</p>
+<p>$d = ((h + 5)\ mod\ 7) + 1$</p>
 <p>If only one of the two operands is negative, the result of the modular depends on the machine.<br />
 In this case, the original formula can be divided into two steps:</p>
-<p>$$<br />
-h = (h \% 7 + 7) \% 7<br />
-$$</p>
+<p>$h = (h \% 7 + 7) \% 7$</p>
 <h2 id="reference">Reference</h2>
 <blockquote>
 <p><a href="https://en.wikipedia.org/wiki/Floor_and_ceiling_functions">Wikipedia-floor &amp; ceiling functions</a><br />
@@ -2370,39 +2366,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha256-V8SV2MO1FUb63Bwht5Wx9x6PVHNa02gv8BgH/uH3ung=" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha256-F/Xda58SPdcUCr&#43;xhSGz9MA2zQBPb0ASEYKohl8UCHc=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha256-90d2pnfw0r4K8CZAWPko4rpFXQsZvJhTBGYNkipDprI=" crossorigin="anonymous"></script>
 
 
 
 
-  <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$', '$$']],
-        processEscapes: true,
-        processEnvironments: true,
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        TeX: {
-          equationNumbers: { autoNumber: "AMS" },
-          extensions: ["AMSmath.js", "AMSsymbols.js"]
-        }
-      }
-    });
-    MathJax.Hub.Queue(function () {
-      
-      
-      
-      var all = MathJax.Hub.getAllJax(), i;
-      for (i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += ' has-jax';
-      }
-    });
-
-    MathJax.Hub.Config({
-      
-      TeX: { equationNumbers: { autoNumber: "AMS" } }
-    });
-  </script>
 
 
 
@@ -2763,7 +2733,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     
     
-    var lib = JSON.parse("[\"mathjax\"]");
+    var lib = JSON.parse("[\"katex\"]");
 
     if (lib && lib.includes('mermaid')) {
       

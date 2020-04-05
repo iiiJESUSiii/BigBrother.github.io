@@ -1669,11 +1669,7 @@
 <p>如下所示，用数组表示堆，父节点、子节点都对应的存放的数组中。</p>
 <p><img src="heap_with_array.png" alt="heap in array" /></p>
 <p>同时可以得到一个公式：</p>
-<p>$\begin{cases}<br />
-&amp; parent &amp; = &amp; \lfloor (i - 1) / 2 \rfloor \\<br />
-&amp; leftChild &amp; = &amp; 2i + 1 \\<br />
-&amp; rightChild &amp; = &amp; 2i + 2<br />
-\end{cases}$</p>
+<p>$x = \begin{cases} &amp; parent &amp; = &amp; \lfloor (i - 1) / 2 \rfloor \\ &amp; leftChild &amp; = &amp; 2i + 1 \\ &amp; rightChild &amp; = &amp; 2i + 2 \end{cases}$</p>
 <p>可以知道父节点与子节点之间的关系</p>
 <h3 id="实现-maxheapify">实现 maxHeapify()</h3>
 <p>这里使用 <em>递归</em> 实现</p>
@@ -2620,39 +2616,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha256-V8SV2MO1FUb63Bwht5Wx9x6PVHNa02gv8BgH/uH3ung=" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha256-F/Xda58SPdcUCr&#43;xhSGz9MA2zQBPb0ASEYKohl8UCHc=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha256-90d2pnfw0r4K8CZAWPko4rpFXQsZvJhTBGYNkipDprI=" crossorigin="anonymous"></script>
 
 
 
 
-  <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$', '$$']],
-        processEscapes: true,
-        processEnvironments: true,
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        TeX: {
-          equationNumbers: { autoNumber: "AMS" },
-          extensions: ["AMSmath.js", "AMSsymbols.js"]
-        }
-      }
-    });
-    MathJax.Hub.Queue(function () {
-      
-      
-      
-      var all = MathJax.Hub.getAllJax(), i;
-      for (i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += ' has-jax';
-      }
-    });
-
-    MathJax.Hub.Config({
-      
-      TeX: { equationNumbers: { autoNumber: "AMS" } }
-    });
-  </script>
 
 
 
@@ -3013,7 +2983,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     
     
-    var lib = JSON.parse("[\"mathjax\"]");
+    var lib = JSON.parse("[\"katex\"]");
 
     if (lib && lib.includes('mermaid')) {
       

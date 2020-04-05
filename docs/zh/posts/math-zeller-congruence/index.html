@@ -1607,12 +1607,8 @@
 <blockquote>
 <p>原版公式后面是没有 $-1$ 的，西方通常以星期日作为一个星期的第一天，在ISO的版本则出现 $-1$。</p>
 </blockquote>
-<p><span style="font-size:90%">$w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{13(m + 1)}{5}\rfloor + d - 1) \ mod \ 7$</span><br></p>
-<p>$\small w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{13(m + 1)}{5}\rfloor + d - 1) \ mod \ 7$</p>
 <p>$w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{13(m + 1)}{5}\rfloor + d - 1) \ mod \ 7$</p>
 <p>或者</p>
-<p><span style="font-size:90%">$w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + 2m + \lfloor\frac{3(m + 1)}{5}\rfloor + d + 1) \ mod \ 7$</span><br></p>
-<p>$\small w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + 2m + \lfloor\frac{3(m + 1)}{5}\rfloor + d + 1) \ mod \ 7$</p>
 <p>$w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + 2m + \lfloor\frac{3(m + 1)}{5}\rfloor + d + 1) \ mod \ 7$</p>
 <p>公式都是基于公历的置闰规则来考虑。<br />
 公式中的符号含义如下：</p>
@@ -1628,13 +1624,9 @@
 <h2 id="注意">注意</h2>
 <p>因为</p>
 <p>$(y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)$</p>
-<p>$\small (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)$</p>
-<p><span style="font-size:90%">$(y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)$<span><br></p>
 <p>可能为负数，所以当出现负数的情况下不能直接mod 7。编写成代码的时候如果两个操作数中只有一个负数，求模的结果取决于机器，也就是说某些情况下w在一些机器上为负数，但是在某一些机器上w不一定为负数（例如：21%-5的结果取决于机器，可能得到1或-4），对于产生负数这种情况可将原来公式分为两步：</p>
 <p>$w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)$</p>
-<p>$\small w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)$</p>
-<p><span style="font-size:90%">$w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)$</span><br><br />
-$w = (w \% 7 + 7) \% 7$</p>
+<p>$w = (w \% 7 + 7) \% 7$</p>
 <h2 id="参考">参考</h2>
 <blockquote>
 <p><a href="https://en.wikipedia.org/wiki/Zeller%27s_congruence">维基百科-蔡勒公式</a><br />
@@ -2374,39 +2366,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha256-V8SV2MO1FUb63Bwht5Wx9x6PVHNa02gv8BgH/uH3ung=" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha256-F/Xda58SPdcUCr&#43;xhSGz9MA2zQBPb0ASEYKohl8UCHc=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha256-90d2pnfw0r4K8CZAWPko4rpFXQsZvJhTBGYNkipDprI=" crossorigin="anonymous"></script>
 
 
 
 
-  <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$', '$$']],
-        processEscapes: true,
-        processEnvironments: true,
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        TeX: {
-          equationNumbers: { autoNumber: "AMS" },
-          extensions: ["AMSmath.js", "AMSsymbols.js"]
-        }
-      }
-    });
-    MathJax.Hub.Queue(function () {
-      
-      
-      
-      var all = MathJax.Hub.getAllJax(), i;
-      for (i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += ' has-jax';
-      }
-    });
-
-    MathJax.Hub.Config({
-      
-      TeX: { equationNumbers: { autoNumber: "AMS" } }
-    });
-  </script>
 
 
 
@@ -2767,7 +2733,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     
     
-    var lib = JSON.parse("[\"mathjax\"]");
+    var lib = JSON.parse("[\"katex\"]");
 
     if (lib && lib.includes('mermaid')) {
       
