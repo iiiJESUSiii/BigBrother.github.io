@@ -1541,7 +1541,7 @@
             
             
 
-<main class="single__main main-main">
+<main class="single__main main">
   
     <nav class="breadcrumb hide" aria-label="breadcrumbs">
   <script>document.querySelector('.breadcrumb').classList.remove('hide')</script>
@@ -2455,50 +2455,6 @@ document.addEventListener('DOMContentLoaded', function () {
 </main>
 
 
-<aside class="single__side main-side">
-  
-
-
-<section class="sidebar hide">
-  <script>document.querySelector('.sidebar').classList.remove('hide')</script>
-  <div class="toc__flexbox" data-position="fixed">
-    <h6 class="toc__title" data-ani="true">目录</h6>
-    
-      <label class="switch" data-ani="true">
-        <input id="toggle-toc" aria-label="Toggle TOC" type="checkbox" checked>
-        <span class="slider round"></span>
-      </label>
-    
-  </div>
-  <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
-    <nav id="TableOfContents">
-  <ul>
-    <li>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
-    <li><a href="#为什么选择-hugo--什么是-hugo">为什么选择 Hugo? &amp; 什么是 Hugo?</a></li>
-    <li><a href="#开始吧">开始吧!</a>
-      <ul>
-        <li><a href="#安装-hugo">安装 Hugo</a></li>
-        <li><a href="#创建静态网站">创建静态网站</a></li>
-        <li><a href="#添加主题">添加主题</a></li>
-        <li><a href="#配置主题并使用">配置主题并使用</a></li>
-        <li><a href="#添加些内容">添加些内容</a></li>
-        <li><a href="#开启-hugo-server">开启 hugo server</a></li>
-      </ul>
-    </li>
-    <li><a href="#查看帮助">查看帮助</a></li>
-  </ul>
-</nav>
-  </div>
-</section>
-
-
-
-</aside>
-
 <script>
   
   
@@ -2506,7 +2462,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var enableToc = JSON.parse("true");
   var toc = JSON.parse("null");
-  var tocPosition = JSON.parse("\"inner\"");
+  var tocPosition = JSON.parse("\"outer\"");
   
   var singleMainElem = document.querySelector('.single__main');
   var singleSideElem = document.querySelector('.single__side');
@@ -3306,6 +3262,43 @@ document.addEventListener('DOMContentLoaded', function () {
         
 <div class="wrapper__right hide" dir="ltr">
   <script>document.querySelector('.wrapper__right').classList.remove('hide')</script>
+  
+    
+      
+        <div class="toc__flexbox--outer" data-position="fixed" data-dir="ltr" data-ani="true">
+          <h6 class="toc__title toc__title--outer" data-ani="true">目录</h6>
+          
+          <label class="switch" data-ani="true">
+            <input id="visible-toc" aria-label="Visible TOC" type="checkbox" checked>
+            <span class="slider round"></span>
+          </label>
+          
+        </div>
+        <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
+          <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+    <li><a href="#为什么选择-hugo--什么是-hugo">为什么选择 Hugo? &amp; 什么是 Hugo?</a></li>
+    <li><a href="#开始吧">开始吧!</a>
+      <ul>
+        <li><a href="#安装-hugo">安装 Hugo</a></li>
+        <li><a href="#创建静态网站">创建静态网站</a></li>
+        <li><a href="#添加主题">添加主题</a></li>
+        <li><a href="#配置主题并使用">配置主题并使用</a></li>
+        <li><a href="#添加些内容">添加些内容</a></li>
+        <li><a href="#开启-hugo-server">开启 hugo server</a></li>
+      </ul>
+    </li>
+    <li><a href="#查看帮助">查看帮助</a></li>
+  </ul>
+</nav>
+        </div>
+      
+    
   
 </div>
 

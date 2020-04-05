@@ -1541,7 +1541,7 @@
             
             
 
-<main class="single__main main-main">
+<main class="single__main main">
   
     <nav class="breadcrumb hide" aria-label="breadcrumbs">
   <script>document.querySelector('.breadcrumb').classList.remove('hide')</script>
@@ -2541,57 +2541,6 @@ document.addEventListener('DOMContentLoaded', function () {
 </main>
 
 
-<aside class="single__side main-side">
-  
-
-
-<section class="sidebar hide">
-  <script>document.querySelector('.sidebar').classList.remove('hide')</script>
-  <div class="toc__flexbox" data-position="fixed">
-    <h6 class="toc__title" data-ani="true">目录</h6>
-    
-      <label class="switch" data-ani="true">
-        <input id="toggle-toc" aria-label="Toggle TOC" type="checkbox" checked>
-        <span class="slider round"></span>
-      </label>
-    
-  </div>
-  <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
-    <nav id="TableOfContents">
-  <ul>
-    <li>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
-    <li><a href="#几种简单常见的排序算法">几种简单常见的排序算法</a></li>
-    <li><a href="#冒泡排序">冒泡排序</a></li>
-    <li><a href="#选择排序">选择排序</a></li>
-    <li><a href="#插入排序">插入排序</a></li>
-    <li><a href="#希尔排序">希尔排序</a></li>
-    <li><a href="#快速排序">快速排序</a></li>
-    <li><a href="#归并排序">归并排序</a></li>
-    <li><a href="#堆排序">堆排序</a>
-      <ul>
-        <li><a href="#堆">堆</a></li>
-        <li><a href="#实现-maxheapify">实现 maxHeapify()</a></li>
-        <li><a href="#实现-buildheap">实现 buildHeap()</a></li>
-        <li><a href="#实现-heapsort">实现 heapSort()</a></li>
-        <li><a href="#完整代码">完整代码</a></li>
-        <li><a href="#时间复杂度">时间复杂度</a></li>
-        <li><a href="#空间复杂度">空间复杂度</a></li>
-      </ul>
-    </li>
-    <li><a href="#参考">参考</a></li>
-  </ul>
-</nav>
-  </div>
-</section>
-
-
-
-</aside>
-
 <script>
   
   
@@ -2599,7 +2548,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var enableToc = JSON.parse("true");
   var toc = JSON.parse("null");
-  var tocPosition = JSON.parse("\"inner\"");
+  var tocPosition = JSON.parse("\"outer\"");
   
   var singleMainElem = document.querySelector('.single__main');
   var singleSideElem = document.querySelector('.single__side');
@@ -3429,6 +3378,50 @@ document.addEventListener('DOMContentLoaded', function () {
         
 <div class="wrapper__right hide" dir="ltr">
   <script>document.querySelector('.wrapper__right').classList.remove('hide')</script>
+  
+    
+      
+        <div class="toc__flexbox--outer" data-position="fixed" data-dir="ltr" data-ani="true">
+          <h6 class="toc__title toc__title--outer" data-ani="true">目录</h6>
+          
+          <label class="switch" data-ani="true">
+            <input id="visible-toc" aria-label="Visible TOC" type="checkbox" checked>
+            <span class="slider round"></span>
+          </label>
+          
+        </div>
+        <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
+          <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+    <li><a href="#几种简单常见的排序算法">几种简单常见的排序算法</a></li>
+    <li><a href="#冒泡排序">冒泡排序</a></li>
+    <li><a href="#选择排序">选择排序</a></li>
+    <li><a href="#插入排序">插入排序</a></li>
+    <li><a href="#希尔排序">希尔排序</a></li>
+    <li><a href="#快速排序">快速排序</a></li>
+    <li><a href="#归并排序">归并排序</a></li>
+    <li><a href="#堆排序">堆排序</a>
+      <ul>
+        <li><a href="#堆">堆</a></li>
+        <li><a href="#实现-maxheapify">实现 maxHeapify()</a></li>
+        <li><a href="#实现-buildheap">实现 buildHeap()</a></li>
+        <li><a href="#实现-heapsort">实现 heapSort()</a></li>
+        <li><a href="#完整代码">完整代码</a></li>
+        <li><a href="#时间复杂度">时间复杂度</a></li>
+        <li><a href="#空间复杂度">空间复杂度</a></li>
+      </ul>
+    </li>
+    <li><a href="#参考">参考</a></li>
+  </ul>
+</nav>
+        </div>
+      
+    
   
 </div>
 

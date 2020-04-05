@@ -1541,7 +1541,7 @@
             
             
 
-<main class="single__main main-main">
+<main class="single__main main">
   
     <nav class="breadcrumb hide" aria-label="breadcrumbs">
   <script>document.querySelector('.breadcrumb').classList.remove('hide')</script>
@@ -2327,58 +2327,6 @@ document.addEventListener('DOMContentLoaded', function () {
 </main>
 
 
-<aside class="single__side main-side">
-  
-
-
-<section class="sidebar hide">
-  <script>document.querySelector('.sidebar').classList.remove('hide')</script>
-  <div class="toc__flexbox" data-position="fixed">
-    <h6 class="toc__title" data-ani="true">目录</h6>
-    
-      <label class="switch" data-ani="true">
-        <input id="toggle-toc" aria-label="Toggle TOC" type="checkbox" checked>
-        <span class="slider round"></span>
-      </label>
-    
-  </div>
-  <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
-    <nav id="TableOfContents">
-  <ul>
-    <li>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
-    <li><a href="#更改你的发布publish目录">更改你的发布（publish）目录</a>
-      <ul>
-        <li><a href="#删除-public-文件夹">删除 <em>&ldquo;public&rdquo;</em> 文件夹</a></li>
-        <li><a href="#将-发布目录-改为-docs">将 <em>发布目录</em> 改为 <em>docs</em></a></li>
-      </ul>
-    </li>
-    <li><a href="#检查你的静态网站">检查你的静态网站</a></li>
-    <li><a href="#创建一个公共仓库">创建一个公共仓库</a>
-      <ul>
-        <li><a href="#注册-github-如果已经有github账号的话可以跳过这步">注册 <em>Github</em> (如果已经有Github账号的话可以跳过这步)</a></li>
-        <li><a href="#新建公共仓库">新建公共仓库</a></li>
-      </ul>
-    </li>
-    <li><a href="#将你的-docs-文件夹-push-到仓库">将你的 &ldquo;docs&rdquo; 文件夹 <em>push</em> 到仓库</a>
-      <ul>
-        <li><a href="#创建一个-gitignore-文件">创建一个 <em>.gitignore</em> 文件</a></li>
-        <li><a href="#git-push-指令"><em>git push</em> 指令</a></li>
-      </ul>
-    </li>
-    <li><a href="#相关">相关</a></li>
-  </ul>
-</nav>
-  </div>
-</section>
-
-
-
-</aside>
-
 <script>
   
   
@@ -2386,7 +2334,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var enableToc = JSON.parse("true");
   var toc = JSON.parse("null");
-  var tocPosition = JSON.parse("\"inner\"");
+  var tocPosition = JSON.parse("\"outer\"");
   
   var singleMainElem = document.querySelector('.single__main');
   var singleSideElem = document.querySelector('.single__side');
@@ -3186,6 +3134,51 @@ document.addEventListener('DOMContentLoaded', function () {
         
 <div class="wrapper__right hide" dir="ltr">
   <script>document.querySelector('.wrapper__right').classList.remove('hide')</script>
+  
+    
+      
+        <div class="toc__flexbox--outer" data-position="fixed" data-dir="ltr" data-ani="true">
+          <h6 class="toc__title toc__title--outer" data-ani="true">目录</h6>
+          
+          <label class="switch" data-ani="true">
+            <input id="visible-toc" aria-label="Visible TOC" type="checkbox" checked>
+            <span class="slider round"></span>
+          </label>
+          
+        </div>
+        <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
+          <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+    <li><a href="#更改你的发布publish目录">更改你的发布（publish）目录</a>
+      <ul>
+        <li><a href="#删除-public-文件夹">删除 <em>&ldquo;public&rdquo;</em> 文件夹</a></li>
+        <li><a href="#将-发布目录-改为-docs">将 <em>发布目录</em> 改为 <em>docs</em></a></li>
+      </ul>
+    </li>
+    <li><a href="#检查你的静态网站">检查你的静态网站</a></li>
+    <li><a href="#创建一个公共仓库">创建一个公共仓库</a>
+      <ul>
+        <li><a href="#注册-github-如果已经有github账号的话可以跳过这步">注册 <em>Github</em> (如果已经有Github账号的话可以跳过这步)</a></li>
+        <li><a href="#新建公共仓库">新建公共仓库</a></li>
+      </ul>
+    </li>
+    <li><a href="#将你的-docs-文件夹-push-到仓库">将你的 &ldquo;docs&rdquo; 文件夹 <em>push</em> 到仓库</a>
+      <ul>
+        <li><a href="#创建一个-gitignore-文件">创建一个 <em>.gitignore</em> 文件</a></li>
+        <li><a href="#git-push-指令"><em>git push</em> 指令</a></li>
+      </ul>
+    </li>
+    <li><a href="#相关">相关</a></li>
+  </ul>
+</nav>
+        </div>
+      
+    
   
 </div>
 
