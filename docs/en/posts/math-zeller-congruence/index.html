@@ -1584,7 +1584,7 @@
     <div class="single__meta">
       
 <div class="single__infos">
-  <time class="single__info" title="Written At">📅&nbsp;Apr 1, 2020 </time>  &middot; <span class="single__info" title="Reading Time"> ☕ 2 min read </span>&middot; <span class="single__info" title="WRITTEN BY">☀&nbsp;Teletubby</span>
+  <time class="single__info" title="Written At">📅&nbsp;Apr 1, 2020 </time>  &middot; <span class="single__info" title="Reading Time"> ☕ 1 min read </span>&middot; <span class="single__info" title="WRITTEN BY">☀&nbsp;Teletubby</span>
   <span class="single__info">
     
   </span>
@@ -1607,28 +1607,9 @@
 <p><em><strong>Zeller&rsquo;s congruence</strong></em> is an algorithm devised by <a href="https://en.wikipedia.org/wiki/Christian_Zeller">Christian Zeller</a> to calculate the day of the week for any Julian or Gregorian calendar date. It can be considered to be based on the conversion between Julian day and the calendar date.</p>
 <h2 id="formula">Formula</h2>
 <p>For the Gregorian calendar, Zeller&rsquo;s congruence is</p>
-<p>$$<br />
-h = (K + \lfloor\frac{K}{4}\rfloor + \lfloor\frac{J}{4}\rfloor - 2J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7 \\<br />
-\small h = (K + \lfloor\frac{K}{4}\rfloor + \lfloor\frac{J}{4}\rfloor - 2J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7 \\<br />
-\scriptsize h = (K + \lfloor\frac{K}{4}\rfloor + \lfloor\frac{J}{4}\rfloor - 2J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7 \\<br />
-\tiny h = (K + \lfloor\frac{K}{4}\rfloor + \lfloor\frac{J}{4}\rfloor - 2J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7<br />
-$$</p>
+<p><span style="font-size:90%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br></p>
 <p>for the Julian calendar it is</p>
-<p>$$<br />
-h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7 \\<br />
-\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7 \\<br />
-\scriptsize h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7 \\<br />
-\tiny h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7<br />
-$$</p>
-<p><span style="font-size:120%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br><br />
-<span style="font-size:110%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br><br />
-<span style="font-size:100%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br><br />
-<span style="font-size:90%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br><br />
-<span style="font-size:80%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br><br />
-<span style="font-size:70%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br><br />
-<span style="font-size:60%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br><br />
-<span style="font-size:50%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br><br />
-<span style="font-size:40%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br></p>
+<p><span style="font-size:90%">$\small h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$</span><br></p>
 <p>where</p>
 <ul>
 <li><em><strong>h</strong></em> is the day of the week (0 = Saturday, 1 = Sunday, 2 = Monday, &hellip;, 6 = Friday).</li>
@@ -1643,7 +1624,7 @@ $$</p>
 <p>In this algorithm January and February are counted as months 13 and 14 of the previous year. E.g. if it is 2 February 2010, the algorithm counts the date as the second day of the fourteenth month of 2009 (02/14/2009 in DD/MM/YYYY format)<br />
 For an <a href="https://en.wikipedia.org/wiki/ISO_week_date"><em>ISO week date</em></a> Day-of-Week d (1 = Monday to 7 = Sunday), use</p>
 <p>$$<br />
-\small d = ((h + 5)\ mod\ 7) + 1 \\<br />
+d = ((h + 5)\ mod\ 7) + 1 \\<br />
 $$</p>
 <p>If only one of the two operands is negative, the result of the modular depends on the machine.<br />
 In this case, the original formula can be divided into two steps:</p>

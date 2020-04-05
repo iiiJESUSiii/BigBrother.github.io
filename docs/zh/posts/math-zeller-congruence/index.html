@@ -1607,13 +1607,13 @@
 <blockquote>
 <p>原版公式后面是没有 $-1$ 的，西方通常以星期日作为一个星期的第一天，在ISO的版本则出现 $-1$。</p>
 </blockquote>
-<p>$$<br />
-w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{13(m + 1)}{5}\rfloor + d - 1) \ mod \ 7<br />
-$$</p>
+<p><span style="font-size:90%">$w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{13(m + 1)}{5}\rfloor + d - 1) \ mod \ 7$</span><br></p>
+<p>$\small w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{13(m + 1)}{5}\rfloor + d - 1) \ mod \ 7$</p>
+<p>$w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{13(m + 1)}{5}\rfloor + d - 1) \ mod \ 7$</p>
 <p>或者</p>
-<p>$$<br />
-w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + 2m + \lfloor\frac{3(m + 1)}{5}\rfloor + d + 1) \ mod \ 7<br />
-$$</p>
+<p><span style="font-size:90%">$w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + 2m + \lfloor\frac{3(m + 1)}{5}\rfloor + d + 1) \ mod \ 7$</span><br></p>
+<p>$\small w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + 2m + \lfloor\frac{3(m + 1)}{5}\rfloor + d + 1) \ mod \ 7$</p>
+<p>$w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + 2m + \lfloor\frac{3(m + 1)}{5}\rfloor + d + 1) \ mod \ 7$</p>
 <p>公式都是基于公历的置闰规则来考虑。<br />
 公式中的符号含义如下：</p>
 <ul>
@@ -1627,16 +1627,14 @@ $$</p>
 </ul>
 <h2 id="注意">注意</h2>
 <p>因为</p>
-<p>$$<br />
-(y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)<br />
-$$</p>
+<p>$(y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)$</p>
+<p>$\small (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)$</p>
+<p><span style="font-size:90%">$(y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)$<span><br></p>
 <p>可能为负数，所以当出现负数的情况下不能直接mod 7。编写成代码的时候如果两个操作数中只有一个负数，求模的结果取决于机器，也就是说某些情况下w在一些机器上为负数，但是在某一些机器上w不一定为负数（例如：21%-5的结果取决于机器，可能得到1或-4），对于产生负数这种情况可将原来公式分为两步：</p>
-<p>$$<br />
-\begin{aligned}<br />
-&amp; w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1) \\<br />
-&amp; w = (w \% 7 + 7) \% 7<br />
-\end{aligned}<br />
-$$</p>
+<p>$w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)$</p>
+<p>$\small w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)$</p>
+<p><span style="font-size:90%">$w = (y + \lfloor\frac{y}{4}\rfloor + \lfloor\frac{c}{4}\rfloor - 2c + \lfloor\frac{26(m + 1)}{10}\rfloor + d - 1)$</span><br><br />
+$w = (w \% 7 + 7) \% 7$</p>
 <h2 id="参考">参考</h2>
 <blockquote>
 <p><a href="https://en.wikipedia.org/wiki/Zeller%27s_congruence">维基百科-蔡勒公式</a><br />
