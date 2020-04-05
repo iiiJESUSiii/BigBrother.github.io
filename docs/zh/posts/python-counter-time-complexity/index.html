@@ -1541,7 +1541,7 @@
             
             
 
-<main class="single__main main">
+<main class="single__main main-main">
   
     <nav class="breadcrumb hide" aria-label="breadcrumbs">
   <script>document.querySelector('.breadcrumb').classList.remove('hide')</script>
@@ -1899,6 +1899,8 @@
 <div id="vcomments"></div>
 <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+
 <script>
   new Valine({
       el: '#vcomments' ,
@@ -1910,6 +1912,46 @@
       placeholder: 'Say something...',
       visitor:  true 
   });
+ 
+  
+  document.body.addEventListener('click', function(e) {
+    if (e.target.classList.contains('vsubmit')) {
+        const email = document.querySelector('input[type=email]');
+        const nick = document.querySelector('input[name=nick]');
+        const reg = /^[A-Za-z0-9\u4e00-\u9fa5]+@[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+)+$/;
+        if (!email.value || !nick.value || !reg.test(email.value)) {
+            const str = `<div class="valert txt-center"><div class="vtext">Hey, bro 🙌 Please fill in correct email & nickName ~</div></div>`;
+            const vmark = document.querySelector('.vmark');
+            vmark.innerHTML = str;
+            vmark.style.display = 'block';
+
+            setTimeout(function() {
+                vmark.style.display = 'none';
+                vmark.innerHTML = '';
+            }, 1000);
+        }
+      }
+    });
+
+    
+    
+    $(document).ready(function(){
+        
+        $("#vcomments").on('click', 'span.vat',function(){
+            $(this).parent('div.vmeta').next("div.vcontent").after($("div.vwrap"));
+            $('textarea#veditor').focus();
+        })
+    })
+</script>
+
+
+
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+<script type="text/javascript">
+    jinrishici.load(function(result) {
+        var jrsc_plac =  result.data.content + "\n「" + result.data.origin.title + "」" + result.data.origin.dynasty + " · " + result.data.origin.author
+        document.getElementById("veditor").setAttribute("placeholder",jrsc_plac);
+    });
 </script>
   
 
@@ -2246,6 +2288,30 @@ document.addEventListener('DOMContentLoaded', function () {
 </main>
 
 
+<aside class="single__side main-side">
+  
+
+
+<section class="sidebar hide">
+  <script>document.querySelector('.sidebar').classList.remove('hide')</script>
+  <div class="toc__flexbox" data-position="fixed">
+    <h6 class="toc__title" data-ani="true">目录</h6>
+    
+      <label class="switch" data-ani="true">
+        <input id="toggle-toc" aria-label="Toggle TOC" type="checkbox" checked>
+        <span class="slider round"></span>
+      </label>
+    
+  </div>
+  <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
+    <nav id="TableOfContents"></nav>
+  </div>
+</section>
+
+
+
+</aside>
+
 <script>
   
   
@@ -2253,7 +2319,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var enableToc = JSON.parse("true");
   var toc = JSON.parse("null");
-  var tocPosition = JSON.parse("\"outer\"");
+  var tocPosition = JSON.parse("\"inner\"");
   
   var singleMainElem = document.querySelector('.single__main');
   var singleSideElem = document.querySelector('.single__side');
@@ -3053,23 +3119,6 @@ document.addEventListener('DOMContentLoaded', function () {
         
 <div class="wrapper__right hide" dir="ltr">
   <script>document.querySelector('.wrapper__right').classList.remove('hide')</script>
-  
-    
-      
-        <div class="toc__flexbox--outer" data-position="fixed" data-dir="ltr" data-ani="true">
-          <h6 class="toc__title toc__title--outer" data-ani="true">目录</h6>
-          
-          <label class="switch" data-ani="true">
-            <input id="visible-toc" aria-label="Visible TOC" type="checkbox" checked>
-            <span class="slider round"></span>
-          </label>
-          
-        </div>
-        <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
-          <nav id="TableOfContents"></nav>
-        </div>
-      
-    
   
 </div>
 

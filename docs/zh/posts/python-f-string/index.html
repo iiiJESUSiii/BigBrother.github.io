@@ -1541,7 +1541,7 @@
             
             
 
-<main class="single__main main">
+<main class="single__main main-main">
   
     <nav class="breadcrumb hide" aria-label="breadcrumbs">
   <script>document.querySelector('.breadcrumb').classList.remove('hide')</script>
@@ -2668,6 +2668,8 @@ f-string在功能方面不逊于传统的 <em>%-formatting</em> 语句和 <em>st
 <div id="vcomments"></div>
 <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+
 <script>
   new Valine({
       el: '#vcomments' ,
@@ -2679,6 +2681,46 @@ f-string在功能方面不逊于传统的 <em>%-formatting</em> 语句和 <em>st
       placeholder: 'Say something...',
       visitor:  true 
   });
+ 
+  
+  document.body.addEventListener('click', function(e) {
+    if (e.target.classList.contains('vsubmit')) {
+        const email = document.querySelector('input[type=email]');
+        const nick = document.querySelector('input[name=nick]');
+        const reg = /^[A-Za-z0-9\u4e00-\u9fa5]+@[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+)+$/;
+        if (!email.value || !nick.value || !reg.test(email.value)) {
+            const str = `<div class="valert txt-center"><div class="vtext">Hey, bro 🙌 Please fill in correct email & nickName ~</div></div>`;
+            const vmark = document.querySelector('.vmark');
+            vmark.innerHTML = str;
+            vmark.style.display = 'block';
+
+            setTimeout(function() {
+                vmark.style.display = 'none';
+                vmark.innerHTML = '';
+            }, 1000);
+        }
+      }
+    });
+
+    
+    
+    $(document).ready(function(){
+        
+        $("#vcomments").on('click', 'span.vat',function(){
+            $(this).parent('div.vmeta').next("div.vcontent").after($("div.vwrap"));
+            $('textarea#veditor').focus();
+        })
+    })
+</script>
+
+
+
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+<script type="text/javascript">
+    jinrishici.load(function(result) {
+        var jrsc_plac =  result.data.content + "\n「" + result.data.origin.title + "」" + result.data.origin.dynasty + " · " + result.data.origin.author
+        document.getElementById("veditor").setAttribute("placeholder",jrsc_plac);
+    });
 </script>
   
 
@@ -3015,6 +3057,61 @@ document.addEventListener('DOMContentLoaded', function () {
 </main>
 
 
+<aside class="single__side main-side">
+  
+
+
+<section class="sidebar hide">
+  <script>document.querySelector('.sidebar').classList.remove('hide')</script>
+  <div class="toc__flexbox" data-position="fixed">
+    <h6 class="toc__title" data-ani="true">目录</h6>
+    
+      <label class="switch" data-ani="true">
+        <input id="toggle-toc" aria-label="Toggle TOC" type="checkbox" checked>
+        <span class="slider round"></span>
+      </label>
+    
+  </div>
+  <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+    <li><a href="#常用方法">常用方法</a></li>
+    <li><a href="#表达式求值与函数调用">表达式求值与函数调用</a></li>
+    <li><a href="#引号反斜杠与大括号转义">引号、反斜杠与大括号转义</a>
+      <ul>
+        <li><a href="#引号">引号</a></li>
+        <li><a href="#反斜杠">反斜杠</a></li>
+        <li><a href="#大括号花括号">大括号（花括号）</a></li>
+        <li><a href="#注意">注意</a></li>
+      </ul>
+    </li>
+    <li><a href="#多行f-string">多行f-string</a></li>
+    <li><a href="#自定义格式对齐宽度符号补零精度进制等">自定义格式：对齐、宽度、符号、补零、精度、进制等</a>
+      <ul>
+        <li><a href="#对齐相关格式描述符">对齐相关格式描述符</a></li>
+        <li><a href="#数字符号相关格式描述符">数字符号相关格式描述符</a></li>
+        <li><a href="#数字显示方式相关格式描述符">数字显示方式相关格式描述符</a></li>
+        <li><a href="#宽度与精度相关格式描述符">宽度与精度相关格式描述符</a></li>
+      </ul>
+    </li>
+    <li><a href="#千位分隔符相关格式描述符">千位分隔符相关格式描述符</a></li>
+    <li><a href="#格式类型相关格式描述符">格式类型相关格式描述符</a></li>
+    <li><a href="#lambda表达式">lambda表达式</a></li>
+    <li><a href="#参考文档">参考文档</a></li>
+  </ul>
+</nav>
+  </div>
+</section>
+
+
+
+</aside>
+
 <script>
   
   
@@ -3022,7 +3119,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var enableToc = JSON.parse("true");
   var toc = JSON.parse("null");
-  var tocPosition = JSON.parse("\"outer\"");
+  var tocPosition = JSON.parse("\"inner\"");
   
   var singleMainElem = document.querySelector('.single__main');
   var singleSideElem = document.querySelector('.single__side');
@@ -3822,54 +3919,6 @@ document.addEventListener('DOMContentLoaded', function () {
         
 <div class="wrapper__right hide" dir="ltr">
   <script>document.querySelector('.wrapper__right').classList.remove('hide')</script>
-  
-    
-      
-        <div class="toc__flexbox--outer" data-position="fixed" data-dir="ltr" data-ani="true">
-          <h6 class="toc__title toc__title--outer" data-ani="true">目录</h6>
-          
-          <label class="switch" data-ani="true">
-            <input id="visible-toc" aria-label="Visible TOC" type="checkbox" checked>
-            <span class="slider round"></span>
-          </label>
-          
-        </div>
-        <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
-          <nav id="TableOfContents">
-  <ul>
-    <li>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
-    <li><a href="#常用方法">常用方法</a></li>
-    <li><a href="#表达式求值与函数调用">表达式求值与函数调用</a></li>
-    <li><a href="#引号反斜杠与大括号转义">引号、反斜杠与大括号转义</a>
-      <ul>
-        <li><a href="#引号">引号</a></li>
-        <li><a href="#反斜杠">反斜杠</a></li>
-        <li><a href="#大括号花括号">大括号（花括号）</a></li>
-        <li><a href="#注意">注意</a></li>
-      </ul>
-    </li>
-    <li><a href="#多行f-string">多行f-string</a></li>
-    <li><a href="#自定义格式对齐宽度符号补零精度进制等">自定义格式：对齐、宽度、符号、补零、精度、进制等</a>
-      <ul>
-        <li><a href="#对齐相关格式描述符">对齐相关格式描述符</a></li>
-        <li><a href="#数字符号相关格式描述符">数字符号相关格式描述符</a></li>
-        <li><a href="#数字显示方式相关格式描述符">数字显示方式相关格式描述符</a></li>
-        <li><a href="#宽度与精度相关格式描述符">宽度与精度相关格式描述符</a></li>
-      </ul>
-    </li>
-    <li><a href="#千位分隔符相关格式描述符">千位分隔符相关格式描述符</a></li>
-    <li><a href="#格式类型相关格式描述符">格式类型相关格式描述符</a></li>
-    <li><a href="#lambda表达式">lambda表达式</a></li>
-    <li><a href="#参考文档">参考文档</a></li>
-  </ul>
-</nav>
-        </div>
-      
-    
   
 </div>
 
