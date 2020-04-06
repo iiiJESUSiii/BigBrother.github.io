@@ -1674,7 +1674,7 @@ Common heaps include binary heaps and Fibonacci heaps.</p>
 <p>Create a heap out of given array of elements. The parent nodes and child nodes are correspond with array elements one by one.</p>
 <p><img src="heap_with_array.png" alt="heap in array" /></p>
 <p>We can derive a formula:</p>
-<p>$x = \begin{cases} &amp; parent &amp; = &amp; \lfloor (i - 1) / 2 \rfloor \\ &amp; leftChild &amp; = &amp; 2i + 1 \\ &amp; rightChild &amp; = &amp; 2i + 2 \end{cases}$</p>
+<p>$\begin{cases} &amp; parent &amp; = &amp; \lfloor (i - 1) / 2 \rfloor \\ &amp; leftChild &amp; = &amp; 2i + 1 \\ &amp; rightChild &amp; = &amp; 2i + 2 \end{cases}$</p>
 <p>We can know the relation between parent nodes and child nodes from this formula.</p>
 <h3 id="maxheapify">maxHeapify()</h3>
 <p>We use <em>recursion</em> to implement <em>max heapify</em>.</p>

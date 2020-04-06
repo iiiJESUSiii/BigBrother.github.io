@@ -1669,7 +1669,7 @@
 <p>如下所示，用数组表示堆，父节点、子节点都对应的存放的数组中。</p>
 <p><img src="heap_with_array.png" alt="heap in array" /></p>
 <p>同时可以得到一个公式：</p>
-<p>$x = \begin{cases} &amp; parent &amp; = &amp; \lfloor (i - 1) / 2 \rfloor \\ &amp; leftChild &amp; = &amp; 2i + 1 \\ &amp; rightChild &amp; = &amp; 2i + 2 \end{cases}$</p>
+<p>$\begin{cases} &amp; parent &amp; = &amp; \lfloor (i - 1) / 2 \rfloor \\ &amp; leftChild &amp; = &amp; 2i + 1 \\ &amp; rightChild &amp; = &amp; 2i + 2 \end{cases}$</p>
 <p>可以知道父节点与子节点之间的关系</p>
 <h3 id="实现-maxheapify">实现 maxHeapify()</h3>
 <p>这里使用 <em>递归</em> 实现</p>
