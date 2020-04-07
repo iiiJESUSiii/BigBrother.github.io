@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>LeetCode 67</title>
+        <title>67. Add Binary</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-67/</link>
         <pubDate>Sat, 21 Mar 2020 13:58:09 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 13:58:09 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-67/</guid>
-        <description>LeetCode 67. Add Binary Included in my LeetCode Topic Given two binary strings, return their sum (also a binary string). The input strings are both non-empty and contains only characters 1 or 0. Example Input: a = &amp;quot;11&amp;quot;, b = &amp;quot;1&amp;quot; Output: &amp;quot;100&amp;quot; Input: a = &amp;quot;1010&amp;quot;, b = &amp;quot;1011&amp;quot; Output: &amp;quot;10101&amp;quot; Solution Ⅰ in-built function No more words.😂 Code 1 2 3 class</description>
+        <description>LeetCode 67. Portal Included in my LeetCode Topic Given two binary strings, return their sum (also a binary string). The input strings are both non-empty and contains only characters 1 or 0. Example Input: a = &amp;quot;11&amp;quot;, b = &amp;quot;1&amp;quot; Output: &amp;quot;100&amp;quot; Input: a = &amp;quot;1010&amp;quot;, b = &amp;quot;1011&amp;quot; Output: &amp;quot;10101&amp;quot; Solution Ⅰ in-built function No more words.😂 Code 1 2 3 class Solution:</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -63,16 +63,16 @@
       </item>
       
       <item>
-        <title>LeetCode 409</title>
+        <title>409. Longest Palindrome</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-409/</link>
         <pubDate>Fri, 20 Mar 2020 15:50:19 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 15:50:19 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-409/</guid>
-        <description>LeetCode 409. Longest Palindrome Included in my LeetCode Topic Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters. This is case sensitive, for example &amp;ldquo;Aa&amp;rdquo; is not considered a palindrome here. Example Input:&amp;quot;abccccdd&amp;quot; Output:7 Explanation: One longest palindrome that can be built is &amp;quot;dccaccd&amp;quot;, whose length is 7. Note Assume the length of given string</description>
+        <description>LeetCode 409. Portal Included in my LeetCode Topic Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters. This is case sensitive, for example &amp;ldquo;Aa&amp;rdquo; is not considered a palindrome here. Example Input:&amp;quot;abccccdd&amp;quot; Output:7 Explanation: One longest palindrome that can be built is &amp;quot;dccaccd&amp;quot;, whose length is 7. Note Assume the length of given string will</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -103,16 +103,16 @@
       </item>
       
       <item>
-        <title>LeetCode 1160</title>
+        <title>1160. Find Words That Can Be Formed by Characters</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1160/</link>
         <pubDate>Wed, 18 Mar 2020 22:58:28 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 22:58:28 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-1160/</guid>
-        <description>LeetCode 1160. Find Words That Can Be Formed by Characters Included in my LeetCode Topic You are given an array of strings words and a string chars. A string is good if it can be formed by characters from chars (each character can only be used once). Return the sum of lengths of all good strings in words. Example Input: words = [&amp;quot;cat&amp;quot;,&amp;quot;bt&amp;quot;,&amp;quot;hat&amp;quot;,&amp;quot;tree&amp;quot;], chars = &amp;quot;atach&amp;quot; Output: 6 Explanation: The</description>
+        <description>LeetCode 1160. Portal Included in my LeetCode Topic You are given an array of strings words and a string chars. A string is good if it can be formed by characters from chars (each character can only be used once). Return the sum of lengths of all good strings in words. Example Input: words = [&amp;quot;cat&amp;quot;,&amp;quot;bt&amp;quot;,&amp;quot;hat&amp;quot;,&amp;quot;tree&amp;quot;], chars = &amp;quot;atach&amp;quot; Output: 6 Explanation: The strings that can be formed are &amp;quot;cat&amp;quot;</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

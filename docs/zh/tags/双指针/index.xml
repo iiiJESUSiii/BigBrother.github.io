@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>LeetCode 876</title>
+        <title>876. 链表的中间结点</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-876/</link>
         <pubDate>Sat, 28 Mar 2020 02:34:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:34:58 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-876/</guid>
-        <description>LeetCode 876. 链表的中间结点 已收录在 my LeetCode 题目 给定一个带有头结点 head 的非空单链表，返回链表的中间结点。 如果有两个中间结点，则返回第二个中间结点。 示例 输入：</description>
+        <description>LeetCode 876. 传送门 已收录在 my LeetCode 题目 给定一个带有头结点 head 的非空单链表，返回链表的中间结点。 如果有两个中间结点，则返回第二个中间结点。 示例 输入：[1,2</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

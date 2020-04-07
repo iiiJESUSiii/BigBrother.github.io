@@ -79,7 +79,7 @@ git clone HTTPS(https://github.com/example.git)
 2. Using SSH This command only can clone the repository which it&amp;rsquo;s owner give U Private key or clone own repository.</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -125,7 +125,7 @@ git clone HTTPS(https://github.com/example.git)
  Download Git WindowsLinuxMacOSchoco install git.install#orscoop install git If you didn&amp;rsquo;t install any package manager or installer, like choco, scoop</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -172,7 +172,7 @@ then do git pull or git push，will be prompted to enter your userName and userP
  This operation will generate a text locally, which records the userName and userPasswd you just entered</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

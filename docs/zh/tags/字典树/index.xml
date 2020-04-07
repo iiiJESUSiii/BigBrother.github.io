@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>LeetCode 820</title>
+        <title>820. 单词的压缩编码</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-820/</link>
         <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 23:38:03 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-820/</guid>
-        <description>LeetCode 820. 单词的压缩编码 已收录在 my LeetCode 题目 给定一个单词列表，我们将这个列表编码成一个索引字符串 S 与一个索引列表 A。 例如，如果这个列表是 [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldqu</description>
+        <description>LeetCode 820. 传送门 已收录在 my LeetCode 题目 给定一个单词列表，我们将这个列表编码成一个索引字符串 S 与一个索引列表 A。 例如，如果这个列表是 [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldquo;be</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

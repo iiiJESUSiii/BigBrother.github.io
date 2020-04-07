@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>LeetCode 876</title>
+        <title>876. Middle of the Linked List</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-876/</link>
         <pubDate>Sat, 28 Mar 2020 02:34:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:34:58 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-876/</guid>
-        <description>LeetCode 876. Middle of the Linked List Included in my LeetCode Topic Given a non-empty, singly linked list with head node head, return a middle node of linked list. If there are two middle nodes, return the second middle node. Example Input: [1,2,3,4,5] Output: Node 3 from this list (Serialization: [3,4,5]) The returned node has value 3. (The judge&#39;s serialization of this node is [3,4,5]). Note that we returned a</description>
+        <description>LeetCode 876. Portal Included in my LeetCode Topic Given a non-empty, singly linked list with head node head, return a middle node of linked list. If there are two middle nodes, return the second middle node. Example Input: [1,2,3,4,5] Output: Node 3 from this list (Serialization: [3,4,5]) The returned node has value 3. (The judge&#39;s serialization of this node is [3,4,5]). Note that we returned a ListNode object ans, such</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

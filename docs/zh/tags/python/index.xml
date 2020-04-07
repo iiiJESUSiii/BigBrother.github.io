@@ -32,7 +32,7 @@
         <description>我的 python 版本 是 3.7 排序算法 已收录在 python daily tips 排序算法是用来根据元素上的比较运算符来对给定的数组或列表元素进行重新排序的。比较运算符是用来确定各个数据</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Python3.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -72,7 +72,7 @@
         <description>我的 python 版本 是 3.7 如何跳出多层循环 已收录在 python daily tips 自定义异常 1 2 3 4 5 6 7 8 9 10 11 class GetOutOfLoop(Exception): pass try: for i in range(5): for j in range(5): if i == j == 2: raise GetOutOfLoop() else: print(i,&amp;#39;----&amp;#39;, j) except GetOutOfLoop: pass 将多层循环封</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Python3.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -108,7 +108,7 @@
         <description>My python version is 3.7 timeit - 测量小代码片段的执行时间 已收录在 python daily tips 该模块提供了一种简单的方法来计算一小段 Python 代码的耗时。它避免了许多用于测量执行时间的常见陷</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Python3.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -144,7 +144,7 @@
         <description>我的 python 版本 是 3.7 python sorted() (内置方法) 已收录在 python daily tips 译自: Python sorted() sorted() 函数以迭代方式返回排序列表。 sorted() 函数以特定顺序（&amp;quot;升序&amp;ldquo;或&amp;rd</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Python3.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -180,7 +180,7 @@
         <description>我的 python 版本 是 3.7 f-string 已收录在 python daily tips 原文来自: sunxb10-Python格式化字符串f-string概览 f-string 亦称为 格式化字符串常量 (formatted string litera</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Python3.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -216,7 +216,7 @@
         <description>我的 python 版本 是 3.7 Python 中 collections.Counter() 的时间复杂度 正由 源码 所示, Counter 就是 字典 的子类. 构造它是 O(n), 因为对需要输入进行遍历，但是它对每个单元的操作仍是 O(1)。 注意，</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Python3.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -252,7 +252,7 @@
         <description>我的 python 版本 是 3.7 Python内置方法的时间复杂度 已收录在 python daily tips 译自 Python Wiki 本页面涵盖了Python中若干方法的 时间复杂度（或者叫&amp;quot;O&amp;r</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Python3.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -288,7 +288,7 @@
         <description>我的 python 版本 是 3.7 Python3.7 中获取代码的几种方法 timeit &amp;ndash; 测量小代码片段的执行时间 方法一 1 2 3 4 5 import timeit start=timeit.default_timer() #中间写代码块 end=timeit.default_timer() print(&amp;#39;Running time: %sSeconds&amp;#39;%(end-start)) 此外 1 2 %timeit (1, 2, 3) # 7.87 ns ± 0.261 ns per loop</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Python3.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -324,7 +324,7 @@
         <description>我的 python 版本 是 3.7 Python for-else &amp;amp; while-else 语句 已收录在 python daily tips for-else 基本结构 这是for-else循环的基本结构： 1 2 3 4 5 6 7 8 for item in container: if search_something(item): # 找到了! process(item) break else: # 没有找到</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Python3.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

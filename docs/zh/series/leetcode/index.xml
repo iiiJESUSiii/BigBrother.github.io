@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>LeetCode 820</title>
+        <title>820. 单词的压缩编码</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-820/</link>
         <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 23:38:03 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-820/</guid>
-        <description>LeetCode 820. 单词的压缩编码 已收录在 my LeetCode 题目 给定一个单词列表，我们将这个列表编码成一个索引字符串 S 与一个索引列表 A。 例如，如果这个列表是 [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldqu</description>
+        <description>LeetCode 820. 传送门 已收录在 my LeetCode 题目 给定一个单词列表，我们将这个列表编码成一个索引字符串 S 与一个索引列表 A。 例如，如果这个列表是 [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldquo;be</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -63,16 +63,16 @@
       </item>
       
       <item>
-        <title>LeetCode 面试题 28</title>
+        <title>面试题 28. 对称的二叉树</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-28/</link>
         <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 23:00:51 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-28/</guid>
-        <description>LeetCode 面试题 28. 对称的二叉树 已收录在 my LeetCode 题目 请实现一个函数，用来判断一棵二叉树是不是对称的。如果一棵二叉树和它的镜像一样，那么它是对称的。 例如，二</description>
+        <description>LeetCode 面试题 28. 传送门 已收录在 my LeetCode 题目 请实现一个函数，用来判断一棵二叉树是不是对称的。如果一棵二叉树和它的镜像一样，那么它是对称的。 例如，二叉树 [1,2,2,3,4,4,3]</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -107,16 +107,16 @@
       </item>
       
       <item>
-        <title>LeetCode 面试题 01.07</title>
+        <title>面试题 01.07. 旋转矩阵</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-0107/</link>
         <pubDate>Wed, 01 Apr 2020 22:28:18 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 22:28:18 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-0107/</guid>
-        <description>LeetCode 面试题 01.07. 旋转矩阵 已收录在 my LeetCode 题目 给定一幅由 N × N 矩阵表示的图像，其中每个像素的大小为4字节，编写一种方法，将图像旋转90度。 不占用额外内存</description>
+        <description>LeetCode 面试题 01.07. 传送门 已收录在 my LeetCode 题目 给定一幅由 N × N 矩阵表示的图像，其中每个像素的大小为4字节，编写一种方法，将图像旋转90度。 不占用额外内存空</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -143,16 +143,16 @@
       </item>
       
       <item>
-        <title>LeetCode 999</title>
+        <title>999. 可以被一步捕获的棋子数</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-999/</link>
         <pubDate>Wed, 01 Apr 2020 21:52:05 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 21:52:05 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-999/</guid>
-        <description>LeetCode 999. 可以被一步捕获的棋子数 已收录在 my LeetCode 题目 在一个 8 x 8 的棋盘上，有一个白色的车（Rook），用字符 &amp;lsquo;R&amp;rsquo; 表示。棋盘上还可能存在空方块，白色的象（</description>
+        <description>LeetCode 999. 传送门 已收录在 my LeetCode 题目 在一个 8 x 8 的棋盘上，有一个白色的车（Rook），用字符 &amp;lsquo;R&amp;rsquo; 表示。棋盘上还可能存在空方块，白色的象（Bishop）以</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -183,16 +183,16 @@
       </item>
       
       <item>
-        <title>LeetCode 892</title>
+        <title>892. 三维形体的表面积</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-892/</link>
         <pubDate>Tue, 31 Mar 2020 14:00:09 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Tue, 31 Mar 2020 14:00:09 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-892/</guid>
-        <description>LeetCode 892. 三维形体的表面积 已收录在 my LeetCode 题目 在 N * N的网格上，我们放置一些 1 * 1 * 1 的立方体。 每个值 v = grid[i][j] 表示 v 个正方体叠放在对应单元格 (i, j) 上。 请你</description>
+        <description>LeetCode 892. 传送门 已收录在 my LeetCode 题目 在 N * N的网格上，我们放置一些 1 * 1 * 1 的立方体。 每个值 v = grid[i][j] 表示 v 个正方体叠放在对应单元格 (i, j) 上。 请你返回最终形</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -219,16 +219,16 @@
       </item>
       
       <item>
-        <title>LeetCode 面试题 62.</title>
+        <title>面试题 62. 圆圈中最后剩下的数字</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-62/</link>
         <pubDate>Mon, 30 Mar 2020 22:07:04 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 30 Mar 2020 22:07:04 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-62/</guid>
-        <description>LeetCode 面试题 62. 圆圈中最后剩下的数字 已收录在 my LeetCode 题目 0,1,,n-1这 n 个数字排成一个圆圈，从数字0开始，每次从这个圆圈里删除第 m 个数字。求出这个</description>
+        <description>LeetCode 面试题 62. 传送门 已收录在 my LeetCode 题目 0,1,,n-1这 n 个数字排成一个圆圈，从数字0开始，每次从这个圆圈里删除第 m 个数字。求出这个圆圈里剩下的最</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -259,16 +259,16 @@
       </item>
       
       <item>
-        <title>LeetCode 365</title>
+        <title>365. 水壶问题</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-365/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-365/</guid>
-        <description>LeetCode 365. 水壶问题 已收录在 my LeetCode 题目 有两个容量分别为 x升 和 y升 的水壶以及无限多的水。请判断能否通过使用这两个水壶，从而可以得到恰好 z升 的水？ 如果可以</description>
+        <description>LeetCode 365. 传送门 已收录在 my LeetCode 题目 有两个容量分别为 x升 和 y升 的水壶以及无限多的水。请判断能否通过使用这两个水壶，从而可以得到恰好 z升 的水？ 如果可以，</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -311,16 +311,16 @@
       </item>
       
       <item>
-        <title>LeetCode 面试题 17.16</title>
+        <title>面试题 17.16. 按摩师</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-1716/</link>
         <pubDate>Sun, 29 Mar 2020 00:00:25 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 29 Mar 2020 00:00:25 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-1716/</guid>
-        <description>LeetCode 面试题 17.16. 按摩师 已收录在 my LeetCode 题目 另一道差不多的题。 打家劫舍, 这是 力扣原题传送门 一个有名的按摩师会收到源源不断的预约请求，每个预约都可以选择接</description>
+        <description>LeetCode 面试题 17.16. 传送门 已收录在 my LeetCode 题目 另一道差不多的题。 打家劫舍, 这是 力扣原题传送门 一个有名的按摩师会收到源源不断的预约请求，每个预约都可以选择接</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -351,16 +351,16 @@
       </item>
       
       <item>
-        <title>LeetCode 204</title>
+        <title>204. 计数质数</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-204/</link>
         <pubDate>Sat, 28 Mar 2020 11:13:10 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 11:13:10 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-204/</guid>
-        <description>LeetCode 204. 计数质数 已收录在 my LeetCode 题目 统计所有小于非负整数 n 的质数的数量。 示例 输入: 10 输出: 4 解释: 小于 10 的质数一共有 4 个, 它们是 2, 3, 5, 7 。 题解 埃拉托</description>
+        <description>LeetCode 204. 传送门 已收录在 my LeetCode 题目 统计所有小于非负整数 n 的质数的数量。 示例 输入: 10 输出: 4 解释: 小于 10 的质数一共有 4 个, 它们是 2, 3, 5, 7 。 题解 埃拉托斯</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -391,16 +391,16 @@
       </item>
       
       <item>
-        <title>LeetCode 876</title>
+        <title>876. 链表的中间结点</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-876/</link>
         <pubDate>Sat, 28 Mar 2020 02:34:58 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:34:58 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-876/</guid>
-        <description>LeetCode 876. 链表的中间结点 已收录在 my LeetCode 题目 给定一个带有头结点 head 的非空单链表，返回链表的中间结点。 如果有两个中间结点，则返回第二个中间结点。 示例 输入：</description>
+        <description>LeetCode 876. 传送门 已收录在 my LeetCode 题目 给定一个带有头结点 head 的非空单链表，返回链表的中间结点。 如果有两个中间结点，则返回第二个中间结点。 示例 输入：[1,2</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -431,16 +431,16 @@
       </item>
       
       <item>
-        <title>LeetCode 1071</title>
+        <title>1071. 字符串的最大公因子</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-1071/</link>
         <pubDate>Sat, 28 Mar 2020 02:22:28 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:22:28 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-1071/</guid>
-        <description>LeetCode 1071. 字符串的最大公因子 已收录在 my LeetCode 题目 对于字符串 S 和 T，只有在 S = T + &amp;hellip; + T（T 与自身连接 1 次或多次）时，我们才认定 &amp;ldquo;T 能除尽 S&amp;quot;。</description>
+        <description>LeetCode 1071. 传送门 已收录在 my LeetCode 题目 对于字符串 S 和 T，只有在 S = T + &amp;hellip; + T（T 与自身连接 1 次或多次）时，我们才认定 &amp;ldquo;T 能除尽 S&amp;quot;。 返回最长字符</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -471,16 +471,16 @@
       </item>
       
       <item>
-        <title>LeetCode 198</title>
+        <title>198. 打家劫舍</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-198/</link>
         <pubDate>Sat, 28 Mar 2020 01:51:24 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 01:51:24 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-198/</guid>
-        <description>LeetCode 198. 打家劫舍 已收录在 my LeetCode 题目 另一道差不多的题。 面试题 17.16. 按摩师, 这是 力扣原题传送门 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的</description>
+        <description>LeetCode 198. 传送门 已收录在 my LeetCode 题目 另一道差不多的题。 面试题 17.16. 按摩师, 这是 力扣原题传送门 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的现</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -511,16 +511,16 @@
       </item>
       
       <item>
-        <title>LeetCode 914</title>
+        <title>914. 卡牌分组</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-914/</link>
         <pubDate>Fri, 27 Mar 2020 23:32:29 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 27 Mar 2020 23:32:29 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-914/</guid>
-        <description>LeetCode 914. 卡牌分组 已收录在 my LeetCode 题目 给定一副牌，每张牌上都写着一个整数。 此时，你需要选定一个数字 X，使我们可以将整副牌按下述规则分成 1 组或更多组： 每</description>
+        <description>LeetCode 914. 传送门 已收录在 my LeetCode 题目 给定一副牌，每张牌上都写着一个整数。 此时，你需要选定一个数字 X，使我们可以将整副牌按下述规则分成 1 组或更多组： 每组</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -551,16 +551,16 @@
       </item>
       
       <item>
-        <title>LeetCode 300</title>
+        <title>300. 最长上升子序列</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-300/</link>
         <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-300/</guid>
-        <description>LeetCode 300. 最长上升子序列 已收录在 my LeetCode 题目 给定一个无序的整数数组，找到其中最长上升子序列的长度。 示例 输入: [10,9,2,5,3,7,101,18] 输出: 4 解释: 最长的上升子序列是 [2,3</description>
+        <description>LeetCode 300. 传送门 已收录在 my LeetCode 题目 给定一个无序的整数数组，找到其中最长上升子序列的长度。 示例 输入: [10,9,2,5,3,7,101,18] 输出: 4 解释: 最长的上升子序列是 [2,3,7,1</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -595,16 +595,16 @@
       </item>
       
       <item>
-        <title>LeetCode 945</title>
+        <title>945. 使数组唯一的最小增量</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-945/</link>
         <pubDate>Sun, 22 Mar 2020 23:54:53 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 22 Mar 2020 23:54:53 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-945/</guid>
-        <description>LeetCode 945. 使数组唯一的最小增量 已收录在 my LeetCode 题目 给定整数数组 A，每次 move 操作将会选择任意 A[i]，并将其递增 1。 返回使 A 中的每个值都是唯一的最少操作次</description>
+        <description>LeetCode 945. 传送门 已收录在 my LeetCode 题目 给定整数数组 A，每次 move 操作将会选择任意 A[i]，并将其递增 1。 返回使 A 中的每个值都是唯一的最少操作次数。 示例 输入：</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -635,16 +635,16 @@
       </item>
       
       <item>
-        <title>LeetCode 67</title>
+        <title>67. 二进制求和</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-67/</link>
         <pubDate>Sat, 21 Mar 2020 13:58:09 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 13:58:09 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-67/</guid>
-        <description>LeetCode 67. 二进制求和 已收录在 my LeetCode 题目 给定两个二进制字符串，返回他们的和（用二进制表示）。 输入为 非空 字符串且只包含数字 1 和 0。 示例 输入: a = &amp;quot;11&amp;quot;, b = &amp;quot;1&amp;quot;</description>
+        <description>LeetCode 67. 传送门 已收录在 my LeetCode 题目 给定两个二进制字符串，返回他们的和（用二进制表示）。 输入为 非空 字符串且只包含数字 1 和 0。 示例 输入: a = &amp;quot;11&amp;quot;, b = &amp;quot;1&amp;quot; 输出</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -675,16 +675,16 @@
       </item>
       
       <item>
-        <title>LeetCode 面试题 01.06</title>
+        <title>面试题 01.06. 字符串压缩</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-0106/</link>
         <pubDate>Sat, 21 Mar 2020 00:59:12 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 21 Mar 2020 00:59:12 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-0106/</guid>
-        <description>LeetCode 面试题 01.06. 字符串压缩 已收录在 my LeetCode 题目 字符串压缩。利用字符重复出现的次数，编写一种方法，实现基本的字符串压缩功能。 比如，字符串aabccccc</description>
+        <description>LeetCode 面试题 01.06. 传送门 已收录在 my LeetCode 题目 字符串压缩。利用字符重复出现的次数，编写一种方法，实现基本的字符串压缩功能。 比如，字符串aabcccccaa</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -711,16 +711,16 @@
       </item>
       
       <item>
-        <title>LeetCode 409</title>
+        <title>409. 最长回文串</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-409/</link>
         <pubDate>Fri, 20 Mar 2020 15:50:19 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 20 Mar 2020 15:50:19 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-409/</guid>
-        <description>LeetCode 409. 最长回文串 已收录在 my LeetCode 题目 给定一个包含大写字母和小写字母的字符串，找到通过这些字母构造成的最长的回文串。 在构造过程中，请注意区分大小写。</description>
+        <description>LeetCode 409. 传送门 已收录在 my LeetCode 题目 给定一个包含大写字母和小写字母的字符串，找到通过这些字母构造成的最长的回文串。 在构造过程中，请注意区分大小写。比如</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -751,16 +751,16 @@
       </item>
       
       <item>
-        <title>LeetCode 1160</title>
+        <title>1160. 拼写单词</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-1160/</link>
         <pubDate>Wed, 18 Mar 2020 22:58:28 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 18 Mar 2020 22:58:28 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-1160/</guid>
-        <description>LeetCode 1160. 拼写单词 已收录在 my LeetCode 题目 给你一份『词汇表』（字符串数组） words 和一张『字母表』（字符串） chars。 假如你可以用 chars 中的『字母』（字符）拼写出</description>
+        <description>LeetCode 1160. 传送门 已收录在 my LeetCode 题目 给你一份『词汇表』（字符串数组） words 和一张『字母表』（字符串） chars。 假如你可以用 chars 中的『字母』（字符）拼写出 words</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

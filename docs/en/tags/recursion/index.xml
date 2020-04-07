@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>LeetCode Interview Problems 28</title>
+        <title>Interview Questions 28. Symmetric binary tree</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-28/</link>
         <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 23:00:51 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-28/</guid>
-        <description>LeetCode Interview Problem 28. Symmetric binary tree Included in my LeetCode Topic Please implement a function to determine if a binary tree is symmetric. If a binary tree is the same as its mirror, then it is symmetrical. e.g. The binary tree [1,2,2,3,4,4,3] is symmetrical. 1 / \ 2 2 / \ / \ 3 4 4 3 But this one [1,2,2,null,3,null,3] is not symmetrical. 1 / \ 2 2</description>
+        <description>LeetCode Interview Questions 28. Portal Included in my LeetCode Topic Please implement a function to determine if a binary tree is symmetric. If a binary tree is the same as its mirror, then it is symmetrical. e.g. The binary tree [1,2,2,3,4,4,3] is symmetrical. 1 / \ 2 2 / \ / \ 3 4 4 3 But this one [1,2,2,null,3,null,3] is not symmetrical. 1 / \ 2 2 \ \</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

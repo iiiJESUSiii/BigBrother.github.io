@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>LeetCode 820</title>
+        <title>820. Short Encoding of Words</title>
         <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-820/</link>
         <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 23:38:03 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-820/</guid>
-        <description>LeetCode 820. Short Encoding of Words Included in my LeetCode Topic Given a list of words, we may encode it by writing a reference string S and a list of indexes A. For example, if the list of words is [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldquo;bell&amp;rdquo;], we can write it as S = &amp;ldquo;time#bell#&amp;quot; and indexes = [0, 2, 5]. Then for each index, we will recover the word by reading from the</description>
+        <description>LeetCode 820. Portal Included in my LeetCode Topic Given a list of words, we may encode it by writing a reference string S and a list of indexes A. For example, if the list of words is [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldquo;bell&amp;rdquo;], we can write it as S = &amp;ldquo;time#bell#&amp;quot; and indexes = [0, 2, 5]. Then for each index, we will recover the word by reading from the reference string from</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

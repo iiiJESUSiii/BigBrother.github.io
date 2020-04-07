@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>LeetCode 面试题 28</title>
+        <title>面试题 28. 对称的二叉树</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-28/</link>
         <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 23:00:51 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-28/</guid>
-        <description>LeetCode 面试题 28. 对称的二叉树 已收录在 my LeetCode 题目 请实现一个函数，用来判断一棵二叉树是不是对称的。如果一棵二叉树和它的镜像一样，那么它是对称的。 例如，二</description>
+        <description>LeetCode 面试题 28. 传送门 已收录在 my LeetCode 题目 请实现一个函数，用来判断一棵二叉树是不是对称的。如果一棵二叉树和它的镜像一样，那么它是对称的。 例如，二叉树 [1,2,2,3,4,4,3]</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -76,7 +76,7 @@
         <description>我的 python 版本 是 3.7 排序算法 已收录在 python daily tips 排序算法是用来根据元素上的比较运算符来对给定的数组或列表元素进行重新排序的。比较运算符是用来确定各个数据</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Python3.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -32,7 +32,7 @@
         <description>Zeller&amp;rsquo;s Congruence (Zellers Kongruenz) Zeller&amp;rsquo;s congruence is an algorithm devised by Christian Zeller to calculate the day of the week for any Julian or Gregorian calendar date. It can be considered to be based on the conversion between Julian day and the calendar date. Formula For the Gregorian calendar, Zeller&amp;rsquo;s congruence is $h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$ for</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Math.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

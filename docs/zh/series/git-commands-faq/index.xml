@@ -32,7 +32,7 @@
         <description>已收录在 Hugo Blog (你想给你自己整一个静态网站吗?) 已收录在 Git Commands &amp;amp; FAQ git clone 这里有两种方法去使用 git clone 1. 使用 HTTPS 这是一个克隆自己或者别人在 Github 上的仓库的一个</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -76,7 +76,7 @@
         <description>已收录在 Hugo Blog (你想给你自己整一个静态网站吗?) 什么是 Git? Git是一个免费的开源的分布式版本控制系统工具，能够快速高效地处理从小型到大型项目的所</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -120,7 +120,7 @@
         <description>已收录在 Git Commands &amp;amp; FAQ 解决 git pull/push 每次都需要输入密码问题（使用GitHub私有库） git bash到你需要操作的文件夹 git config --global credential.helper store 然后再执行一次 git pull or git pus</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>LeetCode 面试题 62.</title>
+        <title>面试题 62. 圆圈中最后剩下的数字</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-62/</link>
         <pubDate>Mon, 30 Mar 2020 22:07:04 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 30 Mar 2020 22:07:04 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-62/</guid>
-        <description>LeetCode 面试题 62. 圆圈中最后剩下的数字 已收录在 my LeetCode 题目 0,1,,n-1这 n 个数字排成一个圆圈，从数字0开始，每次从这个圆圈里删除第 m 个数字。求出这个</description>
+        <description>LeetCode 面试题 62. 传送门 已收录在 my LeetCode 题目 0,1,,n-1这 n 个数字排成一个圆圈，从数字0开始，每次从这个圆圈里删除第 m 个数字。求出这个圆圈里剩下的最</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

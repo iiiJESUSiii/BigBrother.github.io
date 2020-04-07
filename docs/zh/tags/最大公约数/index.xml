@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>LeetCode 365</title>
+        <title>365. 水壶问题</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-365/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-365/</guid>
-        <description>LeetCode 365. 水壶问题 已收录在 my LeetCode 题目 有两个容量分别为 x升 和 y升 的水壶以及无限多的水。请判断能否通过使用这两个水壶，从而可以得到恰好 z升 的水？ 如果可以</description>
+        <description>LeetCode 365. 传送门 已收录在 my LeetCode 题目 有两个容量分别为 x升 和 y升 的水壶以及无限多的水。请判断能否通过使用这两个水壶，从而可以得到恰好 z升 的水？ 如果可以，</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -75,16 +75,16 @@
       </item>
       
       <item>
-        <title>LeetCode 1071</title>
+        <title>1071. 字符串的最大公因子</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-1071/</link>
         <pubDate>Sat, 28 Mar 2020 02:22:28 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 02:22:28 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-1071/</guid>
-        <description>LeetCode 1071. 字符串的最大公因子 已收录在 my LeetCode 题目 对于字符串 S 和 T，只有在 S = T + &amp;hellip; + T（T 与自身连接 1 次或多次）时，我们才认定 &amp;ldquo;T 能除尽 S&amp;quot;。</description>
+        <description>LeetCode 1071. 传送门 已收录在 my LeetCode 题目 对于字符串 S 和 T，只有在 S = T + &amp;hellip; + T（T 与自身连接 1 次或多次）时，我们才认定 &amp;ldquo;T 能除尽 S&amp;quot;。 返回最长字符</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -124,7 +124,7 @@
         <description>最大公约数 先占个坑 😜</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Math.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -151,16 +151,16 @@
       </item>
       
       <item>
-        <title>LeetCode 914</title>
+        <title>914. 卡牌分组</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-914/</link>
         <pubDate>Fri, 27 Mar 2020 23:32:29 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 27 Mar 2020 23:32:29 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-914/</guid>
-        <description>LeetCode 914. 卡牌分组 已收录在 my LeetCode 题目 给定一副牌，每张牌上都写着一个整数。 此时，你需要选定一个数字 X，使我们可以将整副牌按下述规则分成 1 组或更多组： 每</description>
+        <description>LeetCode 914. 传送门 已收录在 my LeetCode 题目 给定一副牌，每张牌上都写着一个整数。 此时，你需要选定一个数字 X，使我们可以将整副牌按下述规则分成 1 组或更多组： 每组</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

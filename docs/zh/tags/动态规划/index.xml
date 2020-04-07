@@ -23,16 +23,16 @@
 
       
       <item>
-        <title>LeetCode 面试题 17.16</title>
+        <title>面试题 17.16. 按摩师</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-1716/</link>
         <pubDate>Sun, 29 Mar 2020 00:00:25 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 29 Mar 2020 00:00:25 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-interview-problems-1716/</guid>
-        <description>LeetCode 面试题 17.16. 按摩师 已收录在 my LeetCode 题目 另一道差不多的题。 打家劫舍, 这是 力扣原题传送门 一个有名的按摩师会收到源源不断的预约请求，每个预约都可以选择接</description>
+        <description>LeetCode 面试题 17.16. 传送门 已收录在 my LeetCode 题目 另一道差不多的题。 打家劫舍, 这是 力扣原题传送门 一个有名的按摩师会收到源源不断的预约请求，每个预约都可以选择接</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -63,16 +63,16 @@
       </item>
       
       <item>
-        <title>LeetCode 198</title>
+        <title>198. 打家劫舍</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-198/</link>
         <pubDate>Sat, 28 Mar 2020 01:51:24 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 01:51:24 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-198/</guid>
-        <description>LeetCode 198. 打家劫舍 已收录在 my LeetCode 题目 另一道差不多的题。 面试题 17.16. 按摩师, 这是 力扣原题传送门 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的</description>
+        <description>LeetCode 198. 传送门 已收录在 my LeetCode 题目 另一道差不多的题。 面试题 17.16. 按摩师, 这是 力扣原题传送门 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的现</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -103,16 +103,16 @@
       </item>
       
       <item>
-        <title>LeetCode 300</title>
+        <title>300. 最长上升子序列</title>
         <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-300/</link>
         <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
         <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-300/</guid>
-        <description>LeetCode 300. 最长上升子序列 已收录在 my LeetCode 题目 给定一个无序的整数数组，找到其中最长上升子序列的长度。 示例 输入: [10,9,2,5,3,7,101,18] 输出: 4 解释: 最长的上升子序列是 [2,3</description>
+        <description>LeetCode 300. 传送门 已收录在 my LeetCode 题目 给定一个无序的整数数组，找到其中最长上升子序列的长度。 示例 输入: [10,9,2,5,3,7,101,18] 输出: 4 解释: 最长的上升子序列是 [2,3,7,1</description>
         
         <dc:creator>Teletubby</dc:creator>
-        
+        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
