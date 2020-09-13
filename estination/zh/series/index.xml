@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Series on 👌天线宝宝的博客</title>
+    <link>http://localhost:7251/Teletubby/zh/series/</link>
+    <description>Recent content in Series on 👌天线宝宝的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
+    <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year},Teletubby,All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 06 Apr 2020 10:02:42 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:7251/Teletubby/zh/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>唐诗</title>
+        <link>http://localhost:7251/Teletubby/zh/series/%E5%94%90%E8%AF%97/</link>
+        <pubDate>Mon, 06 Apr 2020 10:02:42 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/zh/series/%E5%94%90%E8%AF%97/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>LeetCode</title>
+        <link>http://localhost:7251/Teletubby/zh/series/leetcode/</link>
+        <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/zh/series/leetcode/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>数学</title>
+        <link>http://localhost:7251/Teletubby/zh/series/%E6%95%B0%E5%AD%A6/</link>
+        <pubDate>Wed, 01 Apr 2020 14:09:23 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/zh/series/%E6%95%B0%E5%AD%A6/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Python Daily Tips</title>
+        <link>http://localhost:7251/Teletubby/zh/series/python-daily-tips/</link>
+        <pubDate>Mon, 30 Mar 2020 00:10:28 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/zh/series/python-daily-tips/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Hugo Blog</title>
+        <link>http://localhost:7251/Teletubby/zh/series/hugo-blog/</link>
+        <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/zh/series/hugo-blog/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Git Commands &amp; FAQ</title>
+        <link>http://localhost:7251/Teletubby/zh/series/git-commands-faq/</link>
+        <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/zh/series/git-commands-faq/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

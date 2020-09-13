@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>杜甫 on 👌天线宝宝的博客</title>
+    <link>http://localhost:7251/Teletubby/zh/tags/%E6%9D%9C%E7%94%AB/</link>
+    <description>Recent content in 杜甫 on 👌天线宝宝的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
+    <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year},Teletubby,All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 06 Apr 2020 10:02:42 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:7251/Teletubby/zh/tags/%E6%9D%9C%E7%94%AB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>#6 《赠卫八处士》</title>
+        <link>http://localhost:7251/Teletubby/zh/posts/poems-day-6/</link>
+        <pubDate>Mon, 06 Apr 2020 10:02:42 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        <atom:modified>Mon, 06 Apr 2020 10:02:42 +0800</atom:modified>
+        <guid>http://localhost:7251/Teletubby/zh/posts/poems-day-6/</guid>
+        <description>赠卫八处士 杜甫 人生不相见，动如参与商[1]。 今夕复何夕，共此灯烛光。 少壮能几时，鬓发各已苍。 访旧半为鬼[2]，惊呼热中肠[3]。 焉知二十载，</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>杜甫</category>
+            
+          
+            
+              <category>五言古诗</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零肆</category>
+            
+          
+        
+        
+          
+            
+              <category>唐诗</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

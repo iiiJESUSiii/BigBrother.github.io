@@ -1,0 +1,11 @@
+.gitignore/
+.gitmodules/
+archetypes/
+config/
+content/
+i18n/
+layouts/
+resources/
+static/
+themes/
+public/

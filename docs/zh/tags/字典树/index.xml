@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>字典树 on 👌天线宝宝的博客</title>
-    <link>https://iiijesusiii.github.io/Teletubby/zh/tags/%E5%AD%97%E5%85%B8%E6%A0%91/</link>
+    <link>http://localhost:7310/Teletubby/zh/tags/%E5%AD%97%E5%85%B8%E6%A0%91/</link>
     <description>Recent content in 字典树 on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 23:38:03 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/tags/%E5%AD%97%E5%85%B8%E6%A0%91/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:7310/Teletubby/zh/tags/%E5%AD%97%E5%85%B8%E6%A0%91/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>820. 单词的压缩编码</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-820/</link>
+        <link>http://localhost:7310/Teletubby/zh/posts/leetcode-820/</link>
         <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 23:38:03 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-820/</guid>
+        <guid>http://localhost:7310/Teletubby/zh/posts/leetcode-820/</guid>
         <description>LeetCode 820. 传送门 已收录在 my LeetCode 题目 给定一个单词列表，我们将这个列表编码成一个索引字符串 S 与一个索引列表 A。 例如，如果这个列表是 [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldquo;be</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Josephus problem on 👌Teletubby&#39;s Blog</title>
+    <link>http://localhost:7251/Teletubby/en/tags/josephus-problem/</link>
+    <description>Recent content in Josephus problem on 👌Teletubby&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
+    <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year},Teletubby,All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 30 Mar 2020 22:07:04 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:7251/Teletubby/en/tags/josephus-problem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Interview Questions 62. The last number left in the circle</title>
+        <link>http://localhost:7251/Teletubby/en/posts/leetcode-interview-problems-62/</link>
+        <pubDate>Mon, 30 Mar 2020 22:07:04 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        <atom:modified>Mon, 30 Mar 2020 22:07:04 +0800</atom:modified>
+        <guid>http://localhost:7251/Teletubby/en/posts/leetcode-interview-problems-62/</guid>
+        <description>LeetCode Interview Questions 62. Portal Included in my LeetCode Topic n numbers from 0 to n-1 are arranged to a circle. Starting with the number 0 and deleting the mth number from the circle each time. Find the last number left in this circle. Example Input: n = 5, m = 3 Output: 3 Explanation: Numbers deleted each time are 2, 0, 4, 1, the last number left is 3</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        <media:content url="http://localhost:7251/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Josephus problem</category>
+            
+          
+            
+              <category>leetCodeEasy</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

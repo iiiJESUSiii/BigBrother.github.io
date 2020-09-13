@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>zeller&#39;s congruence on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby/en/tags/zellers-congruence/</link>
+    <link>http://localhost:7310/Teletubby/en/tags/zellers-congruence/</link>
     <description>Recent content in zeller&#39;s congruence on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 14:09:23 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/zellers-congruence/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:7310/Teletubby/en/tags/zellers-congruence/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Zeller&#39;s Congruence</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/math-zeller-congruence/</link>
+        <link>http://localhost:7310/Teletubby/en/posts/math-zeller-congruence/</link>
         <pubDate>Wed, 01 Apr 2020 14:09:23 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 14:09:23 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/math-zeller-congruence/</guid>
+        <guid>http://localhost:7310/Teletubby/en/posts/math-zeller-congruence/</guid>
         <description>Zeller&amp;rsquo;s Congruence (Zellers Kongruenz) Zeller&amp;rsquo;s congruence is an algorithm devised by Christian Zeller to calculate the day of the week for any Julian or Gregorian calendar date. It can be considered to be based on the conversion between Julian day and the calendar date. Formula For the Gregorian calendar, Zeller&amp;rsquo;s congruence is $h = (K + \lfloor\frac{K}{4}\rfloor + 5 - J + \lfloor\frac{13(m + 1)}{5}\rfloor + q)\ mod\ 7$ for</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Math.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/Math.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

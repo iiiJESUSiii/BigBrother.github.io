@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>leetCodeMed on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby/en/tags/leetcodemed/</link>
+    <link>http://localhost:7310/Teletubby/en/tags/leetcodemed/</link>
     <description>Recent content in leetCodeMed on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 23:38:03 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/leetcodemed/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:7310/Teletubby/en/tags/leetcodemed/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>820. Short Encoding of Words</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-820/</link>
+        <link>http://localhost:7310/Teletubby/en/posts/leetcode-820/</link>
         <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 23:38:03 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-820/</guid>
+        <guid>http://localhost:7310/Teletubby/en/posts/leetcode-820/</guid>
         <description>LeetCode 820. Portal Included in my LeetCode Topic Given a list of words, we may encode it by writing a reference string S and a list of indexes A. For example, if the list of words is [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldquo;bell&amp;rdquo;], we can write it as S = &amp;ldquo;time#bell#&amp;quot; and indexes = [0, 2, 5]. Then for each index, we will recover the word by reading from the reference string from</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -64,15 +64,15 @@
       
       <item>
         <title>Interview Questions 01.07. Rotate Matrix LCCI</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0107/</link>
+        <link>http://localhost:7310/Teletubby/en/posts/leetcode-interview-problems-0107/</link>
         <pubDate>Wed, 01 Apr 2020 22:28:18 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Wed, 01 Apr 2020 22:28:18 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-0107/</guid>
+        <guid>http://localhost:7310/Teletubby/en/posts/leetcode-interview-problems-0107/</guid>
         <description>LeetCode Interview Questions 01.07. Portal Included in my LeetCode Topic Given an image represented by an N x N matrix, where each pixel in the image is 4 bytes, write a method to rotate the image by 90 degrees. Can you do this in place? Example # 1 Given matrix = [ [1,2,3], [4,5,6], [7,8,9] ], Rotate the matrix in place. It becomes: [ [7,4,1], [8,5,2], [9,6,3] ] # 2</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -100,15 +100,15 @@
       
       <item>
         <title>365. Water and Jug Problem</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-365/</link>
+        <link>http://localhost:7310/Teletubby/en/posts/leetcode-365/</link>
         <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-365/</guid>
+        <guid>http://localhost:7310/Teletubby/en/posts/leetcode-365/</guid>
         <description>LeetCode 365. Portal Included in my LeetCode Topic You are given two jugs with capacities x and y litres. There is an infinite amount of water supply available. You need to determine whether it is possible to measure exactly z litres using these two jugs. If z liters of water is measurable, you must have z liters of water contained within one or both buckets by the end. Operations allowed:</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -152,15 +152,15 @@
       
       <item>
         <title>300. Longest Increasing Subsequence</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</link>
+        <link>http://localhost:7310/Teletubby/en/posts/leetcode-300/</link>
         <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</guid>
+        <guid>http://localhost:7310/Teletubby/en/posts/leetcode-300/</guid>
         <description>LeetCode 300. Portal Included in my LeetCode Topic Given an unsorted array of integers, find the length of longest increasing subsequence. Example Input: [10,9,2,5,3,7,101,18] Output: 4 Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4. Note There may be more than one LIS combination, it is only necessary for you to return the length. Your algorithm should run in O(N^2) complexity. Follow up Could you improve it</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -196,15 +196,15 @@
       
       <item>
         <title>945. Minimum Increment to Make Array Unique</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-945/</link>
+        <link>http://localhost:7310/Teletubby/en/posts/leetcode-945/</link>
         <pubDate>Sun, 22 Mar 2020 23:54:53 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 22 Mar 2020 23:54:53 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-945/</guid>
+        <guid>http://localhost:7310/Teletubby/en/posts/leetcode-945/</guid>
         <description>LeetCode 945. Portal Included in my LeetCode Topic Given an array of integers A, a move consists of choosing any A[i], and incrementing it by 1. Return the least number of moves to make every value in A unique. Example Input: [1,2,2] Output: 1 Explanation: After 1 move, the array could be [1, 2, 3]. Input: [3,2,1,2,1,7] Output: 6 Explanation: After 6 moves, the array could be [3, 4, 1,</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

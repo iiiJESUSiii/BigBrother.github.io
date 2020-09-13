@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>埃拉托斯特尼筛法 on 👌天线宝宝的博客</title>
-    <link>https://iiijesusiii.github.io/Teletubby/zh/tags/%E5%9F%83%E6%8B%89%E6%89%98%E6%96%AF%E7%89%B9%E5%B0%BC%E7%AD%9B%E6%B3%95/</link>
+    <link>http://localhost:7310/Teletubby/zh/tags/%E5%9F%83%E6%8B%89%E6%89%98%E6%96%AF%E7%89%B9%E5%B0%BC%E7%AD%9B%E6%B3%95/</link>
     <description>Recent content in 埃拉托斯特尼筛法 on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Sat, 28 Mar 2020 11:13:10 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/tags/%E5%9F%83%E6%8B%89%E6%89%98%E6%96%AF%E7%89%B9%E5%B0%BC%E7%AD%9B%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:7310/Teletubby/zh/tags/%E5%9F%83%E6%8B%89%E6%89%98%E6%96%AF%E7%89%B9%E5%B0%BC%E7%AD%9B%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>204. 计数质数</title>
-        <link>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-204/</link>
+        <link>http://localhost:7310/Teletubby/zh/posts/leetcode-204/</link>
         <pubDate>Sat, 28 Mar 2020 11:13:10 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sat, 28 Mar 2020 11:13:10 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/zh/posts/leetcode-204/</guid>
+        <guid>http://localhost:7310/Teletubby/zh/posts/leetcode-204/</guid>
         <description>LeetCode 204. 传送门 已收录在 my LeetCode 题目 统计所有小于非负整数 n 的质数的数量。 示例 输入: 10 输出: 4 解释: 小于 10 的质数一共有 4 个, 它们是 2, 3, 5, 7 。 题解 埃拉托斯</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

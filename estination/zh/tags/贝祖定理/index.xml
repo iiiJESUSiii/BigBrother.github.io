@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>贝祖定理 on 👌天线宝宝的博客</title>
+    <link>http://localhost:7251/Teletubby/zh/tags/%E8%B4%9D%E7%A5%96%E5%AE%9A%E7%90%86/</link>
+    <description>Recent content in 贝祖定理 on 👌天线宝宝的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
+    <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year},Teletubby,All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 29 Mar 2020 00:58:40 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:7251/Teletubby/zh/tags/%E8%B4%9D%E7%A5%96%E5%AE%9A%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>365. 水壶问题</title>
+        <link>http://localhost:7251/Teletubby/zh/posts/leetcode-365/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        <atom:modified>Sun, 29 Mar 2020 00:58:40 +0800</atom:modified>
+        <guid>http://localhost:7251/Teletubby/zh/posts/leetcode-365/</guid>
+        <description>LeetCode 365. 传送门 已收录在 my LeetCode 题目 有两个容量分别为 x升 和 y升 的水壶以及无限多的水。请判断能否通过使用这两个水壶，从而可以得到恰好 z升 的水？ 如果可以，</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        <media:content url="http://localhost:7251/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>最大公约数</category>
+            
+          
+            
+              <category>深度优先搜索</category>
+            
+          
+            
+              <category>广度优先搜索</category>
+            
+          
+            
+              <category>贝祖定理</category>
+            
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>贝祖等式</title>
+        <link>http://localhost:7251/Teletubby/zh/posts/math-bezu-identity/</link>
+        <pubDate>Sat, 21 Mar 2020 21:52:58 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        <atom:modified>Sat, 21 Mar 2020 21:52:58 +0800</atom:modified>
+        <guid>http://localhost:7251/Teletubby/zh/posts/math-bezu-identity/</guid>
+        <description>贝祖等式 这里只是简单的叙述 贝祖定理(裴蜀定理)。 参考 贝祖等式 参考 裴蜀定理 对任何整数 a，b 和它们的最大公约数 d，关于未知数 x 和 y 的线性不定方程</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        <media:content url="http://localhost:7251/Teletubby/images/posts/Math.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>贝祖定理</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>数学</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

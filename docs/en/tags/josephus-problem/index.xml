@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Josephus problem on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby/en/tags/josephus-problem/</link>
+    <link>http://localhost:7310/Teletubby/en/tags/josephus-problem/</link>
     <description>Recent content in Josephus problem on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Mon, 30 Mar 2020 22:07:04 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/josephus-problem/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:7310/Teletubby/en/tags/josephus-problem/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Interview Questions 62. The last number left in the circle</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-62/</link>
+        <link>http://localhost:7310/Teletubby/en/posts/leetcode-interview-problems-62/</link>
         <pubDate>Mon, 30 Mar 2020 22:07:04 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 30 Mar 2020 22:07:04 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-interview-problems-62/</guid>
+        <guid>http://localhost:7310/Teletubby/en/posts/leetcode-interview-problems-62/</guid>
         <description>LeetCode Interview Questions 62. Portal Included in my LeetCode Topic n numbers from 0 to n-1 are arranged to a circle. Starting with the number 0 and deleting the mth number from the circle each time. Find the last number left in this circle. Example Input: n = 5, m = 3 Output: 3 Explanation: Numbers deleted each time are 2, 0, 4, 1, the last number left is 3</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>BS on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby/en/tags/bs/</link>
+    <link>http://localhost:7310/Teletubby/en/tags/bs/</link>
     <description>Recent content in BS on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Mon, 23 Mar 2020 00:46:14 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/bs/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:7310/Teletubby/en/tags/bs/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>300. Longest Increasing Subsequence</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</link>
+        <link>http://localhost:7310/Teletubby/en/posts/leetcode-300/</link>
         <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 23 Mar 2020 00:46:14 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/leetcode-300/</guid>
+        <guid>http://localhost:7310/Teletubby/en/posts/leetcode-300/</guid>
         <description>LeetCode 300. Portal Included in my LeetCode Topic Given an unsorted array of integers, find the length of longest increasing subsequence. Example Input: [10,9,2,5,3,7,101,18] Output: 4 Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4. Note There may be more than one LIS combination, it is only necessary for you to return the length. Your algorithm should run in O(N^2) complexity. Follow up Could you improve it</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

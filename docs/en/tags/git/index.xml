@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>git on 👌Teletubby&#39;s Blog</title>
-    <link>https://iiijesusiii.github.io/Teletubby/en/tags/git/</link>
+    <link>http://localhost:7310/Teletubby/en/tags/git/</link>
     <description>Recent content in git on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Tue, 10 Mar 2020 18:50:30 +0800</lastBuildDate>
     
-        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/tags/git/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:7310/Teletubby/en/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,18 +24,18 @@
       
       <item>
         <title>Git Basic Commands 1</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/git-basic-commands-1/</link>
+        <link>http://localhost:7310/Teletubby/en/posts/git-basic-commands-1/</link>
         <pubDate>Mon, 09 Mar 2020 14:23:08 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 09 Mar 2020 14:23:08 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/git-basic-commands-1/</guid>
+        <guid>http://localhost:7310/Teletubby/en/posts/git-basic-commands-1/</guid>
         <description>Included in Hugo Blog (Do u want to build a static website for yourself?) Included in Git Commands &amp;amp; FAQ git clone There are 2 ways to use git clone
 1. Using HTTPS This is a simple way to clone github repos from others or you.
 git clone HTTPS(https://github.com/example.git)
 2. Using SSH This command only can clone the repository which it&amp;rsquo;s owner give U Private key or clone own repository.</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/Git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -71,17 +71,17 @@ git clone HTTPS(https://github.com/example.git)
       
       <item>
         <title>Install Git</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/install-git/</link>
+        <link>http://localhost:7310/Teletubby/en/posts/install-git/</link>
         <pubDate>Mon, 09 Mar 2020 13:28:12 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Mon, 09 Mar 2020 13:28:12 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/install-git/</guid>
+        <guid>http://localhost:7310/Teletubby/en/posts/install-git/</guid>
         <description>Included in Hugo Blog (Do u want to build a static website for yourself?) What is Git? Git is a free, open source distributed version control system tool designed to handle everything from small to very large projects with speed and efficiency.
  reference https://git-scm.com/
  Download Git WindowsLinuxMacOSchoco install git.install#orscoop install git If you didn&amp;rsquo;t install any package manager or installer, like choco, scoop</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/Git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -117,18 +117,18 @@ git clone HTTPS(https://github.com/example.git)
       
       <item>
         <title>Solve the problem that git pull/push needs to enter the password every time（Use GitHub private repo）</title>
-        <link>https://iiijesusiii.github.io/Teletubby/en/posts/store-github-username-and-passwd/</link>
+        <link>http://localhost:7310/Teletubby/en/posts/store-github-username-and-passwd/</link>
         <pubDate>Sun, 08 Mar 2020 01:46:55 +0800</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Sun, 08 Mar 2020 01:46:55 +0800</atom:modified>
-        <guid>https://iiijesusiii.github.io/Teletubby/en/posts/store-github-username-and-passwd/</guid>
+        <guid>http://localhost:7310/Teletubby/en/posts/store-github-username-and-passwd/</guid>
         <description>Included in Git Commands &amp;amp; FAQ Solve the problem that git pull/push needs to enter the password every time（Use GitHub private repo） git bash at the folder that you needs to operate.
 git config --global credential.helper store
 then do git pull or git push，will be prompted to enter your userName and userPasswd. No longer needed next time
  This operation will generate a text locally, which records the userName and userPasswd you just entered</description>
         
         <dc:creator>Teletubby</dc:creator>
-        <media:content url="https://iiijesusiii.github.io/Teletubby/images/posts/Git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:7310/Teletubby/images/posts/Git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

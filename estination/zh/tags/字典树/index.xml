@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>字典树 on 👌天线宝宝的博客</title>
+    <link>http://localhost:7251/Teletubby/zh/tags/%E5%AD%97%E5%85%B8%E6%A0%91/</link>
+    <description>Recent content in 字典树 on 👌天线宝宝的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
+    <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year},Teletubby,All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 23:38:03 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:7251/Teletubby/zh/tags/%E5%AD%97%E5%85%B8%E6%A0%91/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>820. 单词的压缩编码</title>
+        <link>http://localhost:7251/Teletubby/zh/posts/leetcode-820/</link>
+        <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        <atom:modified>Wed, 01 Apr 2020 23:38:03 +0800</atom:modified>
+        <guid>http://localhost:7251/Teletubby/zh/posts/leetcode-820/</guid>
+        <description>LeetCode 820. 传送门 已收录在 my LeetCode 题目 给定一个单词列表，我们将这个列表编码成一个索引字符串 S 与一个索引列表 A。 例如，如果这个列表是 [&amp;ldquo;time&amp;rdquo;, &amp;ldquo;me&amp;rdquo;, &amp;ldquo;be</description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        <media:content url="http://localhost:7251/Teletubby/images/posts/LeetCode.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>字典树</category>
+            
+          
+            
+              <category>leetCodeMed</category>
+            
+          
+        
+        
+          
+            
+              <category>贰零贰零零贰</category>
+            
+          
+        
+        
+          
+            
+              <category>LeetCode</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

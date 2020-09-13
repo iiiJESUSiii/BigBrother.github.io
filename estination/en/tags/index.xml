@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on 👌Teletubby&#39;s Blog</title>
+    <link>http://localhost:7251/Teletubby/en/tags/</link>
+    <description>Recent content in Tags on 👌Teletubby&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>betheone.y@gmail.com (Teletubby)</managingEditor>
+    <webMaster>betheone.y@gmail.com (Teletubby)</webMaster>
+    <copyright>©{year},Teletubby,All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 23:38:03 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:7251/Teletubby/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>leetCodeMed</title>
+        <link>http://localhost:7251/Teletubby/en/tags/leetcodemed/</link>
+        <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/leetcodemed/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Trie</title>
+        <link>http://localhost:7251/Teletubby/en/tags/trie/</link>
+        <pubDate>Wed, 01 Apr 2020 23:38:03 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/trie/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>binary tree</title>
+        <link>http://localhost:7251/Teletubby/en/tags/binary-tree/</link>
+        <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/binary-tree/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>leetCodeEasy</title>
+        <link>http://localhost:7251/Teletubby/en/tags/leetcodeeasy/</link>
+        <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/leetcodeeasy/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>recursion</title>
+        <link>http://localhost:7251/Teletubby/en/tags/recursion/</link>
+        <pubDate>Wed, 01 Apr 2020 23:00:51 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/recursion/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>regular expression</title>
+        <link>http://localhost:7251/Teletubby/en/tags/regular-expression/</link>
+        <pubDate>Wed, 01 Apr 2020 21:52:05 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/regular-expression/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>zeller&#39;s congruence</title>
+        <link>http://localhost:7251/Teletubby/en/tags/zellers-congruence/</link>
+        <pubDate>Wed, 01 Apr 2020 14:09:23 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/zellers-congruence/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Josephus problem</title>
+        <link>http://localhost:7251/Teletubby/en/tags/josephus-problem/</link>
+        <pubDate>Mon, 30 Mar 2020 22:07:04 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/josephus-problem/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>python</title>
+        <link>http://localhost:7251/Teletubby/en/tags/python/</link>
+        <pubDate>Mon, 30 Mar 2020 00:10:28 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/python/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>bezu identity</title>
+        <link>http://localhost:7251/Teletubby/en/tags/bezu-identity/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/bezu-identity/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>BFS</title>
+        <link>http://localhost:7251/Teletubby/en/tags/bfs/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/bfs/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>DFS</title>
+        <link>http://localhost:7251/Teletubby/en/tags/dfs/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/dfs/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>gcd</title>
+        <link>http://localhost:7251/Teletubby/en/tags/gcd/</link>
+        <pubDate>Sun, 29 Mar 2020 00:58:40 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/gcd/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>DP</title>
+        <link>http://localhost:7251/Teletubby/en/tags/dp/</link>
+        <pubDate>Sun, 29 Mar 2020 00:00:25 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/dp/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>sieve of Eratosthenes</title>
+        <link>http://localhost:7251/Teletubby/en/tags/sieve-of-eratosthenes/</link>
+        <pubDate>Sat, 28 Mar 2020 11:13:10 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/sieve-of-eratosthenes/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>double pointers</title>
+        <link>http://localhost:7251/Teletubby/en/tags/double-pointers/</link>
+        <pubDate>Sat, 28 Mar 2020 02:34:58 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/double-pointers/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>BS</title>
+        <link>http://localhost:7251/Teletubby/en/tags/bs/</link>
+        <pubDate>Mon, 23 Mar 2020 00:46:14 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/bs/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>greedy algorithm</title>
+        <link>http://localhost:7251/Teletubby/en/tags/greedy-algorithm/</link>
+        <pubDate>Sun, 22 Mar 2020 23:54:53 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/greedy-algorithm/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>hashTable</title>
+        <link>http://localhost:7251/Teletubby/en/tags/hashtable/</link>
+        <pubDate>Sat, 21 Mar 2020 13:58:09 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/hashtable/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>git</title>
+        <link>http://localhost:7251/Teletubby/en/tags/git/</link>
+        <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/git/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>github</title>
+        <link>http://localhost:7251/Teletubby/en/tags/github/</link>
+        <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/github/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>hugo</title>
+        <link>http://localhost:7251/Teletubby/en/tags/hugo/</link>
+        <pubDate>Tue, 10 Mar 2020 18:50:30 +0800</pubDate>
+        <author>betheone.y@gmail.com (Teletubby)</author>
+        
+        <guid>http://localhost:7251/Teletubby/en/tags/hugo/</guid>
+        <description></description>
+        
+        <dc:creator>Teletubby</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
