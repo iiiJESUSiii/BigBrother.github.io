@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on 👌Teletubby&#39;s Blog</title>
-    <link>http://localhost:7310/Teletubby/en/gallery/</link>
+    <link>https://iiijesusiii.github.io/Teletubby/en/gallery/</link>
     <description>Recent content in Galleries on 👌Teletubby&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:7310/Teletubby/en/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/en/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Photo &amp; Other</title>
-        <link>http://localhost:7310/Teletubby/en/gallery/other/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/gallery/other/</link>
         <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 06 Mar 2020 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:7310/Teletubby/en/gallery/other/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/gallery/other/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>Wallpaper</title>
-        <link>http://localhost:7310/Teletubby/en/gallery/wallpaper/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/en/gallery/wallpaper/</link>
         <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Fri, 06 Mar 2020 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:7310/Teletubby/en/gallery/wallpaper/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/en/gallery/wallpaper/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>

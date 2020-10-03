@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>book on 👌天线宝宝的博客</title>
-    <link>http://localhost:7310/Teletubby/zh/publication/book/</link>
+    <link>https://iiijesusiii.github.io/Teletubby/zh/publication/book/</link>
     <description>Recent content in book on 👌天线宝宝的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>©{year},Teletubby,All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:7310/Teletubby/zh/publication/book/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iiijesusiii.github.io/Teletubby/zh/publication/book/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Donec vel ipsum vulputate, dapibus magna quis</title>
-        <link>http://localhost:7310/Teletubby/zh/publication/book/book_any_folder_name_1/</link>
+        <link>https://iiijesusiii.github.io/Teletubby/zh/publication/book/book_any_folder_name_1/</link>
         <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
         <author>betheone.y@gmail.com (Teletubby)</author>
         <atom:modified>Thu, 01 Jun 2017 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:7310/Teletubby/zh/publication/book/book_any_folder_name_1/</guid>
+        <guid>https://iiijesusiii.github.io/Teletubby/zh/publication/book/book_any_folder_name_1/</guid>
         <description></description>
         
         <dc:creator>Teletubby</dc:creator>
